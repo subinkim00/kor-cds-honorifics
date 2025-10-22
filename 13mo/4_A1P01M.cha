@@ -1,0 +1,4628 @@
+@UTF8
+@PID:	11312/a-00033590-1
+@Begin
+@Languages:	kor
+@Participants:	PAU Media, MOT Mother, CHI Target_Child, AD1 Adult, AD2 Adult
+@Options:	multi
+@ID:	kor|Ko|PAU|||||Media|||
+@ID:	kor|Ko|MOT||female|||Mother|||
+@ID:	kor|Ko|CHI|1;03.17|male|||Target_Child|||
+@ID:	kor|Ko|AD1|||||Adult|||
+@ID:	kor|Ko|AD2|||||Adult|||
+@Birth of CHI:	29-OCT-2014
+@Media:	4_A1P01M, audio
+@Location:	Seoul, Korea
+@Transcriber:	Jeonghyeon Baek
+@Recording Quality:	5
+@Room Layout:	Living Room in the center of mock apartment
+@Comment:	Includes ADS to a relative and a researcher
+@Date:	15-FEB-2016
+@Types:	long, toyplay, TD
+*PAU:	Cds starts . 12_209
+%mor:	x|Cds x|starts .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*PAU:	0 . 209_2340
+*MOT:	이름아 (..) 이거 끼우기 해 볼까 ? 2258_4156
+%mor:	adv|이름아 adv|이거 verb|끼우기-Inf-S verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|4|NMOD 4|5|ROOT 5|4|COMPOUND 6|4|PUNCT
+%ort:	unsola (..) ike kkiwuki hay polkka ? 2258_4156
+*PAU:	0 . 4162_4766
+*MOT:	끼워 봐 . 5939_6409
+%mor:	verb|끼우어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	kkiwe pwa . 5939_6409
+*PAU:	0 . 6423_7323
+*MOT:	어, 이게 아닌가 봐:, 이건 구멍이 없어 . 7304_10473
+%mor:	intj|어 cm|cm pron|이것이-Int-S1 adj|아니ㄴ가-Pos-S1 sconj|보아 cm|cm pron|이거ㄴ-Int-S1 noun|구멍이 adj|없어-Pos-S1 .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|CCOMP 5|9|ROOT 6|9|PUNCT 7|9|DISLOCATED 8|9|NSUBJ 9|5|CONJ 10|5|PUNCT
+%ort:	e, ikey aninka pwa:, iken kwumengi epse . 7304_10473
+*MOT:	이건 되겠다 . 10711_11485
+%mor:	pron|이거ㄴ-Int-S1 verb|되겠다-Inf-S .
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	iken toykeyssta . 10711_11485
+*PAU:	0 . 11481_11795
+*MOT:	해 볼래 ? 11784_12278
+%mor:	noun|해 noun|볼래 ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	hay pollay ? 11784_12278
+*PAU:	0 . 12283_14478
+*MOT:	봐 봐 . 14401_15038
+%mor:	verb|보ㄹ-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	pwa pwa . 14401_15038
+*PAU:	0 . 15036_16621
+*MOT:	슝:@z:owp . 16615_18542
+%mor:	verb|슝owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	syung:@z:owp . 16615_18542
+*PAU:	0 . 18531_19210
+*MOT:	우와: . 19207_19976
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 19207_19976
+*PAU:	0 . 19971_20453
+*MOT:	됐다 . 20460_20936
+%mor:	verb|되었다-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	twayssta . 20460_20936
+*PAU:	0 . 20935_21382
+*MOT:	또 해 봐 . 21365_21812
+%mor:	cconj|또 verb|하어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|CC 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	tto hay pwa . 21365_21812
+*CHI:	xxx . 21380_22794
+%ort:	xxx . 21380_22794
+*MOT:	됐다, 그치 [: 그렇지], 됐지 ? 22544_23908
+%mor:	verb|되었다-Inf-S cm|cm verb|그렇지-Inf-S cm|cm verb|되었지-Inf-S ?
+%gra:	1|5|DEP 2|1|PUNCT 3|5|DEP 4|3|PUNCT 5|5|ROOT 6|5|PUNCT
+%ort:	twayssta, kuchi [: kulehci], twayssci ? 22544_23908
+*PAU:	0 . 23896_24145
+*MOT:	또 해 봐 . 24091_24553
+%mor:	cconj|또 verb|하어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|CC 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	tto hay pwa . 24091_24553
+*PAU:	0 . 24562_26286
+*MOT:	슝슝슝슝슝:@z:owp . 26263_29016
+%mor:	verb|슝슝슝슝슝owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	syungsyungsyungsyungsyung:@z:owp . 26263_29016
+*PAU:	0 . 29012_29575
+*MOT:	어, 여기 구멍 하나 찾았 (..) 짠:@z:owp, 손으로 해 봐 . 29541_33748
+%mor:	intj|어 cm|cm pron|여기-Int-S1 noun|구멍 num|하나 adv|찾았으 verb|짠ow이ㄴ-Inf-S cm|cm adv|손으로 verb|하어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|4|COMPOUND 4|5|COMPOUND 5|7|NUMMOD 6|7|ADVMOD 7|10|CCOMP 8|7|PUNCT 9|10|ADVCL 10|11|ROOT 11|10|COMPOUND 12|10|PUNCT
+%ort:	e, yeki kwumeng hana chacass (..) ccan:@z:owp, sonulo hay pwa . 29541_33748
+*PAU:	0 . 33703_33999
+*MOT:	우와: 잘했다: . 34311_37024
+%mor:	cconj|우와 verb|잘하었다-Inf-S .
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	wuwa: calhayssta: . 34311_37024
+*PAU:	0 . 37035_37337
+*MOT:	또 해 볼까 ? 37320_37822
+%mor:	cconj|또 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|2|CC 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	tto hay polkka ? 37320_37822
+*PAU:	0 . 37771_38792
+*MOT:	이번엔 짠@z:owp, 초록색 . 38759_40191
+%mor:	noun|이번에는 noun|짠owp cm|cm noun|초록색 .
+%gra:	1|4|DISLOCATED 2|4|ROOT 3|4|PUNCT 4|2|CONJ 5|2|PUNCT
+%ort:	ipeneyn ccan@z:owp, choloksayk . 38759_40191
+*MOT:	초록색 . 40974_41491
+%mor:	noun|초록색 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	choloksayk . 40974_41491
+*PAU:	0 . 41534_41882
+*MOT:	또 구멍에 맞춰서 . 41895_43078
+%mor:	cconj|또 adv|구멍에 sconj|맞추어서 .
+%gra:	1|3|CC 2|3|OBL 3|3|ROOT 4|3|PUNCT
+%ort:	tto kwumengey macchwese . 41895_43078
+*MOT:	슝슝슝슝슝슝@z:owp 슛@z:owp [/] 슛@z:owp 슈슈슈@z:owp, 어, 됐다: . 43535_49655
+%mor:	verb|슝슝슝슝슝슝owp-Inf-S x|슛owp x|슈슈슈owp cm|cm noun|어 cm|cm verb|되었다-Inf-S .
+%gra:	1|7|CCOMP 2|7|DEP 3|2|FLAT 4|5|PUNCT 5|2|FLAT 6|5|PUNCT 7|7|ROOT 8|7|PUNCT
+%ort:	syungsyungsyungsyungsyungsyung@z:owp syus@z:owp [/] syus@z:owp syusyusyu@z:owp, e, twayssta: . 43535_49655
+*PAU:	0 . 49631_49806
+*MOT:	잘하는데: ? 49778_51299
+%mor:	verb|잘하는데-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	calhanuntey: ? 49778_51299
+*CHI:	xxx . 50962_51891
+%ort:	xxx . 50962_51891
+*MOT:	또 해 볼래 ? 51867_52408
+%mor:	cconj|또 noun|해 noun|볼래 ?
+%gra:	1|3|CC 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	tto hay pollay ? 51867_52408
+*PAU:	0 . 52330_52705
+*MOT:	이걸로 ? 52694_53177
+%mor:	verb|이걸로-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ikello ? 52694_53177
+*PAU:	0 . 53166_56474
+*MOT:	슝슝슝슝슝:@z:owp 슛@z:owp . 56433_58488
+%mor:	noun|슝슝슝슝슝owp verb|슛owp-Inf-S .
+%gra:	1|2|NMOD 2|2|ROOT 3|2|PUNCT
+%ort:	syungsyungsyungsyungsyung:@z:owp syus@z:owp . 56433_58488
+*PAU:	0 . 58477_58918
+*MOT:	<구멍에 맞춰서> [/] 구멍에 맞춰서 . 58929_61042
+%mor:	adv|구멍에 sconj|맞추어서 .
+%gra:	1|2|OBL 2|2|ROOT 3|2|PUNCT
+%ort:	<kwumengey macchwese> [/] kwumengey macchwese . 58929_61042
+*PAU:	0 . 61031_62252
+*MOT:	우와: 너 진:짜 잘한다: . 62276_65878
+%mor:	cconj|우와 pron|너-Int-S1 noun|진짜 verb|잘하ㄴ다-Inf-S .
+%gra:	1|4|CCOMP 2|1|CONJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	wuwa: ne cin:cca calhanta: . 62276_65878
+*PAU:	0 . 65867_66157
+*MOT:	또 . 66374_66542
+%mor:	cconj|또 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tto . 66374_66542
+*CHI:	xxx . 66531_67448
+%ort:	xxx . 66531_67448
+*MOT:	슝슝슝슝슝슝@z:owp 슛@z:owp . 67036_69284
+%mor:	adv|슝슝슝슝슝슝owp verb|슛owp-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	syungsyungsyungsyungsyungsyung@z:owp syus@z:owp . 67036_69284
+*PAU:	0 . 69261_69806
+*MOT:	우:와: 잘하는데: ? 70217_73835
+%mor:	cconj|우와 verb|잘하는데-Inf-S ?
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	wu:wa: calhanuntey: ? 70217_73835
+*CHI:	xxx . 73813_74591
+%ort:	xxx . 73813_74591
+*PAU:	0 . 74563_74761
+*MOT:	그거는 구멍이 없어, 봐 봐, 이름아 . 74769_76424
+%mor:	pron|그거는-Int-S1 noun|구멍이 sconj|없어 cm|cm verb|보ㄹ-Inf-S verb|보ㄹ-Inf-S cm|cm verb|이름아-Inf-S .
+%gra:	1|8|DISLOCATED 2|3|NSUBJ 3|8|XCOMP 4|3|PUNCT 5|6|CCOMP 6|8|COMPOUND 7|6|PUNCT 8|8|ROOT 9|8|PUNCT
+%ort:	kukenun kwumengi epse, pwa pwa, Namea . 74769_76424
+*PAU:	0 . 76467_77152
+*MOT:	여기는 이렇게 구멍이 있어서 여기로 (..) 슝:@z:owp 들어갈 수 있는데, 구멍이 없어: . 77170_83118
+%mor:	noun|여기는 sconj|이렇게 noun|구멍이 sconj|있어서 adv|여기로 adv|슝owp verb|들어가ㄹ-Inf-S noun|수 sconj|있는데 cm|cm noun|구멍이 adj|없어-Pos-S1 .
+%gra:	1|12|DISLOCATED 2|4|XCOMP 3|4|NSUBJ 4|7|XCOMP 5|7|ADVCL 6|7|ADVCL 7|12|DEP 8|7|OBL 9|8|FIXED 10|8|PUNCT 11|12|NSUBJ 12|12|ROOT 13|12|PUNCT
+%ort:	yekinun ilehkey kwumengi issese yekilo (..) syung:@z:owp tulekal swu issnuntey, kwumengi epse: . 77170_83118
+*PAU:	0 . 83100_83355
+*MOT:	못 들어가: . 83346_84972
+%mor:	adv|못 verb|들어가아-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	mos tuleka: . 83346_84972
+*PAU:	0 . 84977_86242
+*MOT:	들어갈 수가 없어: . 86188_88052
+%mor:	verb|들어가ㄹ-Inf-S noun|수가 adj|없어-Pos-S1 .
+%gra:	1|3|ROOT 2|1|OBL 3|2|FIXED 4|1|PUNCT
+%ort:	tulekal swuka epse: . 86188_88052
+*PAU:	0 . 88019_88293
+*CHI:	xxx . 88024_89190
+%ort:	xxx . 88024_89190
+*MOT:	에이: . 88927_89699
+%mor:	intj|에이 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	eyi: . 88927_89699
+*MOT:	그럼 우리 이거 다시 [/] 다 빼서 다시 해 볼까 ? 89862_92069
+%mor:	cconj|그럼 pron|우리-Int-S1 adv|이거 adv|다 sconj|빼서 adv|다시 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|7|CC 2|3|COMPOUND 3|5|ADVMOD 4|5|ADVMOD 5|7|CCOMP 6|7|ADVMOD 7|8|ROOT 8|7|COMPOUND 9|7|PUNCT
+%ort:	kulem wuli ike tasi [/] ta ppayse tasi hay polkka ? 89862_92069
+*PAU:	0 . 92077_92507
+*MOT:	디디디디디디디@z:owp 디디디디디@z:owp 디@z:owp [/] 디@z:owp [/] 디@z:owp . 93184_97189
+%mor:	noun|디디디디디디디owp noun|디디디디디owp verb|디ow이p-Inf-S .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	tititititititi@z:owp tititititi@z:owp ti@z:owp [/] ti@z:owp [/] ti@z:owp . 93184_97189
+*PAU:	0 . 97360_98045
+*MOT:	짜자자잔:@z:owp . 98119_99798
+%mor:	verb|짜자자잔ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccacacacan:@z:owp . 98119_99798
+*PAU:	0 . 99827_100698
+*MOT:	다 뺐지: . 100697_102123
+%mor:	adv|다 verb|뺐지-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	ta ppayssci: . 100697_102123
+*CHI:	xxx . 100699_101384
+%ort:	xxx . 100699_101384
+*PAU:	0 . 102102_102578
+*CHI:	xxx . 102590_103366
+%ort:	xxx . 102590_103366
+*PAU:	0 . 103354_103784
+*MOT:	짠@z:owp . 103980_104386
+%mor:	verb|짠ow이ㄴ-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccan@z:owp . 103980_104386
+*PAU:	0 . 104434_105037
+*MOT:	어때 ? 105014_105571
+%mor:	intj|어때 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ettay ? 105014_105571
+*PAU:	0 . 105593_106116
+*CHI:	xxx . 106074_107061
+%ort:	xxx . 106074_107061
+*PAU:	0 . 107079_107625
+*MOT:	이건 안 되니까 이거, 아: 이건 여기 들어있는 거구나: . 107613_111581
+%mor:	pron|이거ㄴ-Int-S1 adv|안 sconj|되니까 adv|이거 cm|cm intj|아 pron|이거ㄴ-Int-S1 pron|여기-Int-S1 verb|들어있는-Inf-S verb|거구나아-Inf-S .
+%gra:	1|3|DISLOCATED 2|3|ADVMOD 3|10|CCOMP 4|10|ADVMOD 5|4|PUNCT 6|10|ADVMOD 7|10|DISLOCATED 8|9|DEP 9|10|CCOMP 10|10|ROOT 11|10|PUNCT
+%ort:	iken an toynikka ike, a: iken yeki tuleissnun kekwuna: . 107613_111581
+*PAU:	0 . 111561_112316
+*MOT:	이건 여기 들어있는 거래 . 112285_113523
+%mor:	pron|이거ㄴ-Int-S1 pron|여기-Int-S1 verb|들어있는-Inf-S noun|거래 .
+%gra:	1|4|DISLOCATED 2|3|DEP 3|4|ACL 4|4|ROOT 5|4|PUNCT
+%ort:	iken yeki tuleissnun kelay . 112285_113523
+*PAU:	0 . 113535_113929
+*MOT:	자:, 편하게 앉아서 해 보자 . 113899_115948
+%mor:	intj|자 cm|cm sconj|편하게 sconj|앉아서 verb|하어-Inf-S verb|보자-Inf-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|XCOMP 4|5|CCOMP 5|6|ROOT 6|5|COMPOUND 7|5|PUNCT
+%ort:	ca:, phyenhakey ancase hay poca . 113899_115948
+*PAU:	0 . 115956_116780
+*MOT:	편하게 앉아요 . 116771_118629
+%mor:	sconj|편하게 verb|앉아요-Inf-S .
+%gra:	1|2|XCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	phyenhakey ancayo . 116771_118629
+*PAU:	0 . 118621_119306
+*MOT:	으쌰, 옳지: . 119271_121106
+%mor:	verb|으풀ㄹ-Inf-S cm|cm adj|옳지-Pos-S1 .
+%gra:	1|3|DEP 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	ussya, olhci: . 119271_121106
+*PAU:	0 . 121082_121303
+*MOT:	야, 됐다 . 121303_122052
+%mor:	noun|야 cm|cm verb|되었다-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	ya, twayssta . 121303_122052
+*CHI:	때때@b (..) 때때때때@b . 122156_125014
+%mor:	noun|때때 noun|때때때때 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ttayttay@b (..) ttayttayttayttay@b . 122156_125014
+*MOT:	됐다: . 123259_124430
+%mor:	verb|되었다-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	twayssta: . 123259_124430
+*PAU:	0 . 125002_125594
+*CHI:	기더:@b . 125566_126714
+%mor:	intj|기더 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kite:@b . 125566_126714
+*MOT:	됐다 . 126397_127024
+%mor:	verb|되었다-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	twayssta . 126397_127024
+*MOT:	어, 자 해 보자: . 127070_128530
+%mor:	intj|어 cm|cm intj|자 verb|하어-Inf-S verb|보자-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DISCOURSE 4|5|ROOT 5|4|COMPOUND 6|4|PUNCT
+%ort:	e, ca hay poca: . 127070_128530
+*PAU:	0 . 128549_129002
+*MOT:	짠:@z:owp, 우와: . 129011_130793
+%mor:	noun|짠owp cm|cm verb|우오아-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	ccan:@z:owp, wuwa: . 129011_130793
+*PAU:	0 . 130761_131039
+*MOT:	잘하는데: . 131051_132440
+%mor:	verb|잘하는데-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	calhanuntey: . 131051_132440
+*MOT:	또 . 132552_132813
+%mor:	cconj|또 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tto . 132552_132813
+*MOT:	우: 이번엔 혼자 했네 . 133632_135839
+%mor:	intj|우 noun|이번에는 adv|혼자 verb|하었네-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|DISLOCATED 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	wu: ipeneyn honca hayssney . 133632_135839
+*PAU:	0 . 135998_136741
+*MOT:	자, 이번엔 커다란 보라색 . 136908_138947
+%mor:	intj|자 cm|cm pron|이번엔-Int-S1 adj|커다랗ㄴ-Pos-S1 noun|보라색 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISLOCATED 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%ort:	ca, ipeneyn khetalan polasayk . 136908_138947
+*CHI:	xxx . 137082_137767
+%ort:	xxx . 137082_137767
+*PAU:	0 . 138953_139789
+*MOT:	&~거 오, 어, 이건 너무 커 . 139738_142021
+%mor:	intj|오 cm|cm intj|어 cm|cm pron|이거ㄴ-Int-S1 adv|너무 noun|커 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|DISCOURSE 4|3|PUNCT 5|7|DISLOCATED 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%ort:	&ke o, e, iken nemu khe . 139738_142021
+*PAU:	0 . 142037_142850
+*MOT:	오, 이름이가 도와줘 . 142850_144548
+%mor:	noun|오 cm|cm noun|이름이가 verb|돕아주ㅁ-Inf-S .
+%gra:	1|4|NSUBJ 2|3|PUNCT 3|1|CONJ 4|4|ROOT 5|4|PUNCT
+%ort:	o, Nameika towacwe . 142850_144548
+*PAU:	0 . 144552_145783
+*MOT:	도와줘 [/] , 도와줘 . 145779_146990
+%mor:	cm|cm verb|돕아주ㅁ-Inf-S .
+%gra:	1|2|PUNCT 2|2|ROOT 3|2|PUNCT
+%ort:	towacwe [/] , towacwe . 145779_146990
+*PAU:	0 . 146922_147375
+*MOT:	앗, 이야: 잘한다: . 147340_150687
+%mor:	noun|앗 cm|cm noun|이야 verb|잘하ㄴ다-Inf-S .
+%gra:	1|4|OBL 2|3|PUNCT 3|1|CONJ 4|4|ROOT 5|4|PUNCT
+%ort:	as, iya: calhanta: . 147340_150687
+*PAU:	0 . 150669_151075
+*MOT:	또, 주황색 . 151100_152702
+%mor:	cconj|또 cm|cm noun|주황색 .
+%gra:	1|3|CC 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	tto, cwuhwangsayk . 151100_152702
+*PAU:	0 . 152698_153093
+*MOT:	xxx . 153068_153526
+%ort:	xxx . 153068_153526
+*MOT:	우: . 154136_155554
+%mor:	intj|우 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wu: . 154136_155554
+*PAU:	0 . 155561_157187
+*MOT:	분홍색 . 157177_158048
+%mor:	noun|분홍색 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	punhongsayk . 157177_158048
+*PAU:	0 . 158030_159249
+*MOT:	분홍색 . 159300_159829
+%mor:	noun|분홍색 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	punhongsayk . 159300_159829
+*MOT:	아, 떨어졌다, 다시 집어서 해 봐 . 161002_163331
+%mor:	intj|아 cm|cm sconj|떨어지었다 cm|cm adv|다시 sconj|집어서 verb|하어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|CCOMP 4|3|PUNCT 5|6|ADVMOD 6|7|CCOMP 7|8|ROOT 8|7|COMPOUND 9|7|PUNCT
+%ort:	a, ttelecyessta, tasi cipese hay pwa . 161002_163331
+*PAU:	0 . 163268_165393
+*MOT:	짜자자잔:@z:owp 딘딘딘디:@z:owp . 165420_168967
+%mor:	x|짜자자잔owp verb|딘딘딘디ow이p-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ccacacacan:@z:owp tintintinti:@z:owp . 165420_168967
+*PAU:	0 . 168950_169287
+*MOT:	이쪽으로, 이제 이름이가 도와주세요: . 169277_172355
+%mor:	adv|이쪽으로 cm|cm adv|이제 noun|이름이가 verb|돕아주세요-Inf-S .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|ADVMOD 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%ort:	iccokulo, icey Nameika towacwuseyyo: . 169277_172355
+*PAU:	0 . 172231_172568
+*MOT:	넣어 보자 . 172533_172939
+%mor:	verb|넣어-Inf-S verb|보자-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	nehe poca . 172533_172939
+*PAU:	0 . 172928_173230
+*MOT:	넣어 보자 . 173230_173601
+%mor:	verb|넣어-Inf-S verb|보자-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	nehe poca . 173230_173601
+*PAU:	0 . 173590_174008
+*MOT:	살살@o . 173947_174367
+%mor:	verb|살피ㄹ-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	salsal@o . 173947_174367
+*PAU:	0 . 174355_174761
+*MOT:	어, 우와:, 잘 는다: [: 넣는다], 또 이것도 . 174824_178574
+%mor:	intj|어 cm|cm cconj|우와 cm|cm adv|잘 verb|넣는다-Inf-S cm|cm adv|또 verb|이것도-Inf-S .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|9|DISLOCATED 4|6|PUNCT 5|6|ADVMOD 6|9|CCOMP 7|6|PUNCT 8|9|ADVMOD 9|9|ROOT 10|9|PUNCT
+%ort:	e, wuwa:, cal nunta: [: nehnunta], tto ikesto . 174824_178574
+*PAU:	0 . 178567_180518
+*MOT:	다단:@z:owp [/] 다단:@z:owp . 180495_183362
+%mor:	verb|다단ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tatan:@z:owp [/] tatan:@z:owp . 180495_183362
+*MOT:	야: 우와:, 잘하는데: ? 183362_188323
+%mor:	noun|야 cconj|우와 cm|cm verb|잘하는데-Inf-S ?
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|PUNCT 4|2|CONJ 5|2|PUNCT
+%ort:	ya: wuwa:, calhanuntey: ? 183362_188323
+*CHI:	응:@b . 187534_188346
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 187534_188346
+*MOT:	그럼 우리 이거 해 볼까 ? 188410_189345
+%mor:	cconj|그럼 pron|우리-Int-S1 adv|이거 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|4|CC 2|3|COMPOUND 3|4|ADVMOD 4|5|ROOT 5|4|COMPOUND 6|4|PUNCT
+%ort:	kulem wuli ike hay polkka ? 188410_189345
+*PAU:	0 . 189343_189587
+*MOT:	xxx . 189573_190153
+%ort:	xxx . 189573_190153
+*MOT:	이것도: 맞추기 . 190432_192053
+%mor:	adv|이것도 verb|맞추기-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	ikesto: macchwuki . 190432_192053
+*PAU:	0 . 192041_192726
+*MOT:	이것도, 다 빼 보자 . 192695_194259
+%mor:	adv|이것도 cm|cm adv|다 verb|빼어-Inf-S verb|보자-Inf-S .
+%gra:	1|4|ADVMOD 2|1|PUNCT 3|4|ADVMOD 4|5|ROOT 5|4|COMPOUND 6|4|PUNCT
+%ort:	ikesto, ta ppay poca . 192695_194259
+*PAU:	0 . 194212_195205
+*MOT:	우와: . 195179_196607
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 195179_196607
+*PAU:	0 . 196584_197687
+*MOT:	xxx . 197697_198086
+%ort:	xxx . 197697_198086
+*MOT:	어 . 198144_198411
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 198144_198411
+*MOT:	어 이건 바로 했어 . 199380_200408
+%mor:	intj|어 pron|이거ㄴ-Int-S1 adv|바로 verb|하었어-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|DISLOCATED 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	e iken palo haysse . 199380_200408
+*PAU:	0 . 200372_200604
+*MOT:	동그라미, 그 다음에 세모, 세모는 어떻게 넣을까 ? 200581_203643
+%mor:	noun|동그라미 cm|cm det|그-Def adv|다음에 noun|세모 cm|cm noun|세모는 sconj|어떻게 verb|넣ㄹ까-Inf-S ?
+%gra:	1|4|COMPOUND 2|1|PUNCT 3|4|DET 4|9|OBL 5|9|DISLOCATED 6|7|PUNCT 7|5|CONJ 8|9|XCOMP 9|9|ROOT 10|9|PUNCT
+%ort:	tongkulami, ku taumey seymo, seymonun ettehkey nehulkka ? 200581_203643
+*PAU:	0 . 203716_204226
+*MOT:	자, 돌려, 어 . 204173_205101
+%mor:	intj|자 cm|cm verb|돌리어-Inf-S cm|cm intj|어 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+%ort:	ca, tollye, e . 204173_205101
+*MOT:	딱 맞았어 . 205525_206322
+%mor:	adv|딱 verb|맞았어-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	ttak macasse . 205525_206322
+*PAU:	0 . 206322_207240
+*MOT:	딱 맞았어, 자 . 207238_208318
+%mor:	adv|딱 verb|맞았어-Inf-S cm|cm intj|자 .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+%ort:	ttak macasse, ca . 207238_208318
+*MOT:	그 다음에 이번에는 파란색: . 208893_211244
+%mor:	det|그-Def adv|다음에 noun|이번에는 noun|파란색 .
+%gra:	1|2|DET 2|4|OBL 3|4|DISLOCATED 4|4|ROOT 5|4|PUNCT
+%ort:	ku taumey ipeneynun phalansayk: . 208893_211244
+*PAU:	0 . 211255_212091
+*MOT:	파란색은 어, 안 들어가는데 거기 아닌데 . 212091_214937
+%mor:	noun|파란색은 noun|어 cm|cm adv|안 sconj|들어가는데 pron|거기-Int-S1 adj|아니ㄴ데-Pos-S1 .
+%gra:	1|2|DISLOCATED 2|5|OBL 3|2|PUNCT 4|5|ADVMOD 5|7|ROOT 6|7|DEP 7|5|CONJ 8|5|PUNCT
+%ort:	phalansaykun e, an tulekanuntey keki anintey . 212091_214937
+*PAU:	0 . 215218_215810
+*MOT:	네모 [/] 네모: . 215787_217227
+%mor:	noun|네모 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	neymo [/] neymo: . 215787_217227
+*PAU:	0 . 217238_217738
+*MOT:	네모: . 217749_218608
+%mor:	noun|네모 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	neymo: . 217749_218608
+*MOT:	어 . 218655_218940
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 218655_218940
+*MOT:	xxx 쏙@o 들어갔어 . 220014_221146
+%mor:	adv|쏙 verb|들어가ㅆ어-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	xxx ssok@o tulekasse . 220014_221146
+*PAU:	0 . 221095_221815
+*MOT:	여기다 해 봐 . 221799_222414
+%mor:	adv|여기다 verb|하어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	yekita hay pwa . 221799_222414
+*PAU:	0 . 222437_224620
+*MOT:	그건 안 들어가는데 ? 224590_225665
+%mor:	pron|그거ㄴ-Int-S1 adv|안 verb|들어가는데-Inf-S ?
+%gra:	1|3|DISLOCATED 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	kuken an tulekanuntey ? 224590_225665
+*PAU:	0 . 225711_227162
+*MOT:	이쪽으로 [/] 해 봐, 이쪽으로 . 227094_228291
+%mor:	verb|하어-Inf-S sconj|보아 cm|cm adv|이쪽으로 .
+%gra:	1|4|CCOMP 2|1|MARK 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	iccokulo [/] hay pwa, iccokulo . 227094_228291
+*PAU:	0 . 228277_231336
+*MOT:	됐어:, 잘했어 . 231400_234005
+%mor:	verb|되었어-Inf-S cm|cm verb|잘하었어-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	twaysse:, calhaysse . 231400_234005
+*MOT:	자, 그 다음 이거는 ? 234068_234981
+%mor:	intj|자 cm|cm det|그-Def noun|다음 pron|이거는-Int-S1 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%ort:	ca, ku taum ikenun ? 234068_234981
+*PAU:	0 . 235003_235572
+*MOT:	어, 맞아 [/] 맞아 [/] 맞아: . 235562_236869
+%mor:	intj|어 cm|cm sconj|맞아 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	e, maca [/] maca [/] maca: . 235562_236869
+*MOT:	xxx . 236925_237227
+%ort:	xxx . 236925_237227
+*MOT:	됐다:, 자 그럼 이거는 ? 237273_239056
+%mor:	verb|되었다-Inf-S cm|cm intj|자 adv|그럼 verb|이거는-Inf-S ?
+%gra:	1|5|CCOMP 2|1|PUNCT 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%ort:	twayssta:, ca kulem ikenun ? 237273_239056
+*PAU:	0 . 239013_239280
+*MOT:	뭘까 [/] 뭘까 [/] 뭘까: ? 239280_240557
+%mor:	verb|마ㄹ까-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mwelkka [/] mwelkka [/] mwelkka: ? 239280_240557
+*PAU:	0 . 240516_241329
+*MOT:	xxx . 241287_241513
+%ort:	xxx . 241287_241513
+*MOT:	뭘까 ? 241681_242037
+%mor:	verb|마ㄹ까-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mwelkka ? 241681_242037
+*PAU:	0 . 242024_242361
+*MOT:	잘 집었어 [/] 집었어 . 242361_243650
+%mor:	adv|잘 verb|집었어-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	cal cipesse [/] cipesse . 242361_243650
+*PAU:	0 . 243626_244856
+*MOT:	집었어:, 어디야 ? 244857_246308
+%mor:	verb|집었어-Inf-S cm|cm verb|어디이야-Inf-S ?
+%gra:	1|3|NUMMOD 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	cipesse:, etiya ? 244857_246308
+*PAU:	0 . 246342_247994
+*MOT:	이야:, 이거 넘어진다 . 249041_250105
+%mor:	intj|이야 cm|cm adv|이거 verb|넘어지ㄴ다-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	iya:, ike nemecinta . 249041_250105
+*PAU:	0 . 250092_250870
+*MOT:	우와 [/] 우와: 잘했다: . 250879_254356
+%mor:	cconj|우와 verb|잘하었다-Inf-S .
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	wuwa [/] wuwa: calhayssta: . 250879_254356
+*PAU:	0 . 254336_254580
+*MOT:	잘했어: . 254503_255822
+%mor:	verb|잘하었어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	calhaysse: . 254503_255822
+*PAU:	0 . 255823_256647
+*MOT:	그 다음에 어 이거 쌓아 봅시다 컵도 있는데 ? 256612_258826
+%mor:	det|그-Def adv|다음에 pron|어-Int-S1 adv|이거 verb|쌓아-Inf-S sconj|보ㅂ시다 adv|컵도 adj|있-Pos-S1 ?
+%gra:	1|2|DET 2|5|OBL 3|4|COMPOUND 4|5|ADVMOD 5|7|CCOMP 6|5|MARK 7|8|ROOT 8|7|AUX 9|7|PUNCT
+%ort:	ku taumey e ike ssaha popsita khepto issnuntey ? 256612_258826
+*PAU:	0 . 258815_260254
+*MOT:	이것도 해 볼래 ? 260318_260979
+%mor:	adv|이것도 verb|하어-Inf-S verb|보ㄹ래-Inf-S ?
+%gra:	1|2|ADVCL 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	ikesto hay pollay ? 260318_260979
+*PAU:	0 . 261154_262710
+*MOT:	이것도 해 볼래, 이름아 ? 262680_263755
+%mor:	adv|이것도 noun|해 noun|볼래 cm|cm noun|이름아 ?
+%gra:	1|5|ADVCL 2|5|COMPOUND 3|5|ROOT 4|5|PUNCT 5|3|CONJ 6|3|PUNCT
+%ort:	ikesto hay pollay, Namea ? 262680_263755
+*PAU:	0 . 263758_264524
+*MOT:	줄까요 ? 264463_265166
+%mor:	verb|줄까요-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	cwulkkayo ? 264463_265166
+*PAU:	0 . 265102_266274
+*MOT:	이거 줘 볼까 ? 266284_267017
+%mor:	adv|이거 verb|주어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	ike cwe polkka ? 266284_267017
+*PAU:	0 . 267006_268016
+*MOT:	컵 쌓기 할 사:람 ? 267973_269630
+%mor:	noun|컵 verb|쌓기-Inf-S verb|하ㄹ-Inf-S noun|사람 ?
+%gra:	1|2|DEP 2|3|NMOD 3|4|ACL 4|4|ROOT 5|4|PUNCT
+%ort:	khep ssahki hal sa:lam ? 267973_269630
+*PAU:	0 . 269612_272016
+*MOT:	컵 쌓기 할 사:람 ? 271978_273562
+%mor:	noun|컵 verb|쌓기-Inf-S verb|하ㄹ-Inf-S noun|사람 ?
+%gra:	1|2|DEP 2|3|NMOD 3|4|ACL 4|4|ROOT 5|4|PUNCT
+%ort:	khep ssahki hal sa:lam ? 271978_273562
+*PAU:	0 . 273574_275222
+*MOT:	안 할 거야 ? 275234_275903
+%mor:	adv|안 verb|하ㄹ-Inf-S verb|거이야-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|CCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	an hal keya ? 275234_275903
+*CHI:	응@b . 276026_276809
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung@b . 276026_276809
+*PAU:	0 . 276797_277052
+*MOT:	에이 그래 . 277029_277689
+%mor:	intj|에이 verb|그렇어-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	eyi kulay . 277029_277689
+*MOT:	그럼 이건 나중에 . 277854_279119
+%mor:	cconj|그럼 pron|이거ㄴ-Int-S1 adv|나중에 .
+%gra:	1|3|CC 2|3|DISLOCATED 3|3|ROOT 4|3|PUNCT
+%ort:	kulem iken nacwungey . 277854_279119
+*PAU:	0 . 279082_280499
+*MOT:	나중에 할까, 지금 할까 ? 280513_281837
+%mor:	adv|나중에 sconj|하ㄹ까 cm|cm noun|지금 verb|하ㄹ까-Inf-S ?
+%gra:	1|2|OBL 2|5|CCOMP 3|2|PUNCT 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%ort:	nacwungey halkka, cikum halkka ? 280513_281837
+*PAU:	0 . 281816_282826
+*MOT:	줄까요 ? 282829_283468
+%mor:	verb|줄까요-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	cwulkkayo ? 282829_283468
+*PAU:	0 . 283487_286970
+*MOT:	컵 쌓기 할 사람: . 287071_289226
+%mor:	noun|컵 verb|쌓기-Inf-S verb|하ㄹ-Inf-S noun|사람 .
+%gra:	1|2|DEP 2|3|NMOD 3|4|ACL 4|4|ROOT 5|4|PUNCT
+%ort:	khep ssahki hal salam: . 287071_289226
+*PAU:	0 . 289208_289394
+*CHI:	이:에요@b . 289394_290822
+%mor:	verb|이이아요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	i:eyyo@b . 289394_290822
+*PAU:	0 . 290827_291233
+*MOT:	오, xxx 인형 ? 291270_293035
+%mor:	noun|오 cm|cm noun|인형 ?
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	o, xxx inhyeng ? 291270_293035
+*PAU:	0 . 293012_294789
+*MOT:	오, 원숭이: . 294844_296646
+%mor:	noun|오 cm|cm noun|원숭이 .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	o, wenswungi: . 294844_296646
+*PAU:	0 . 296623_296948
+*MOT:	만져 봐 . 296888_297621
+%mor:	verb|만지어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	mancye pwa . 296888_297621
+*PAU:	0 . 297591_298729
+*MOT:	아, 예뻐: . 298726_300183
+%mor:	intj|아 cm|cm adj|예ㄴ-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	a, yeyppe: . 298726_300183
+*PAU:	0 . 300133_302176
+*CHI:	이여어@b . 302312_303388
+%mor:	verb|이여어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iyee@b . 302312_303388
+*PAU:	0 . 303388_303840
+*MOT:	얜 누구야 ? 303823_304746
+%mor:	noun|얜 verb|누구이야-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	yayn nwukwuya ? 303823_304746
+*PAU:	0 . 304745_307070
+*CHI:	이여:@b . 307018_308289
+%mor:	verb|이이어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iye:@b . 307018_308289
+*PAU:	0 . 308241_308728
+*MOT:	어, 이거는: (..) 어:, 근데, 우리 여기: 토끼 있나 한번 찾아 볼까 이름아 ? 308782_315744
+%mor:	intj|어 cm|cm pron|이거는-Int-S1 intj|어 cm|cm adv|근데 cm|cm pron|우리-Int-S1 pron|여기-Int-S1 noun|토끼 sconj|있나 noun|한번 verb|찾아-Inf-S verb|보ㄹ까-Inf-S verb|이름아-Inf-S ?
+%gra:	1|15|DISCOURSE 2|1|PUNCT 3|4|DISLOCATED 4|15|ADVMOD 5|4|PUNCT 6|15|ADVMOD 7|6|PUNCT 8|9|COMPOUND 9|10|COMPOUND 10|11|DEP 11|13|XCOMP 12|13|COMPOUND 13|15|CCOMP 14|13|COMPOUND 15|15|ROOT 16|15|PUNCT
+%ort:	e, ikenun: (..) e:, kuntey, wuli yeki: thokki issna hanpen chaca polkka Namea ? 308782_315744
+*PAU:	0 . 315673_316451
+*MOT:	토끼 있나 볼까 ? 316422_317557
+%mor:	noun|토끼 sconj|있나 verb|보ㄹ까-Inf-S ?
+%gra:	1|2|DEP 2|3|XCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	thokki issna polkka ? 316422_317557
+*PAU:	0 . 317548_318976
+*MOT:	xxx 엄마가: 엄마랑 같이 보자 . 318910_321493
+%mor:	noun|엄마가 noun|엄마랑 adv|같이 verb|보자-Inf-S .
+%gra:	1|4|NSUBJ 2|4|OBL 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	xxx emmaka: emmalang kathi poca . 318910_321493
+*MOT:	토끼 있나 ? 321696_322509
+%mor:	noun|토끼 adj|있-Pos-S1 ?
+%gra:	1|2|ROOT 2|1|AUX 3|1|PUNCT
+%ort:	thokki issna ? 321696_322509
+*PAU:	0 . 322563_323341
+*MOT:	짜잔:@z:owp . 323316_324642
+%mor:	verb|짜잔ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccacan:@z:owp . 323316_324642
+*PAU:	0 . 324619_325292
+*MOT:	어, (..) 곰:돌이 . 325301_327478
+%mor:	intj|어 cm|cm noun|곰돌이 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	e, (..) kom:toli . 325301_327478
+*MOT:	<이름아 안녕:> [=! role plays] . 327580_328818
+%mor:	noun|이름아 intj|안녕 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	<Namea annyeng:> [=! role plays] . 327580_328818
+*MOT:	<사랑해:> [=! role plays] . 328858_329932
+%mor:	verb|사랑하어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	<salanghay:> [=! role plays] . 328858_329932
+*MOT:	아, 예뻐: . 330079_331578
+%mor:	intj|아 cm|cm adj|예ㄴ-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	a, yeyppe: . 330079_331578
+*PAU:	0 . 331567_332066
+*CHI:	우와:@b . 332020_333323
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa:@b . 332020_333323
+*MOT:	그 다음에 얘는 우:, (..) 뭐야 ? 333439_335520
+%mor:	det|그-Def adv|다음에 noun|얘는 intj|우 cm|cm verb|뭐이야-Inf-S ?
+%gra:	1|2|DET 2|6|OBL 3|6|DISLOCATED 4|6|COMPOUND 5|4|PUNCT 6|6|ROOT 7|6|PUNCT
+%ort:	ku taumey yaynun wu:, (..) mweya ? 333439_335520
+*PAU:	0 . 335494_336016
+*MOT:	멍멍@z:owp [/] 멍멍@z:owp . 336007_337473
+%mor:	verb|멍멍ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng@z:owp [/] mengmeng@z:owp . 336007_337473
+*PAU:	0 . 337485_338437
+*MOT:	멍멍아:@o . 338409_340226
+%mor:	verb|멍멍아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmenga:@o . 338409_340226
+*MOT:	멍멍아:@o . 341561_343850
+%mor:	verb|멍멍아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmenga:@o . 341561_343850
+*CHI:	xxx . 343831_344301
+%ort:	xxx . 343831_344301
+*MOT:	멍@z:owp . 344452_344845
+%mor:	verb|멍ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	meng@z:owp . 344452_344845
+*MOT:	xxx . 345634_345925
+%ort:	xxx . 345634_345925
+*MOT:	멍멍@z:owp . 346041_346691
+%mor:	verb|멍멍ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng@z:owp . 346041_346691
+*PAU:	0 . 346670_348772
+*MOT:	멍멍아:@o . 348735_350351
+%mor:	verb|멍멍아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmenga:@o . 348735_350351
+*PAU:	0 . 350286_351308
+*MOT:	또 뭐가 있나 볼까 ? 351292_352627
+%mor:	cconj|또 pron|뭐가-Int-S1 adj|있-Pos-S1 verb|보ㄹ까-Inf-S ?
+%gra:	1|4|CC 2|4|NSUBJ 3|2|AUX 4|4|ROOT 5|4|PUNCT
+%ort:	tto mweka issna polkka ? 351292_352627
+*PAU:	0 . 352544_352787
+*MOT:	어, 꿀꿀꿀꿀꿀꿀꿀@z:owp . 352785_355310
+%mor:	intj|어 cm|cm verb|꿀꿀꿀꿀꿀꿀꿀ow이p-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	e, kkwulkkwulkkwulkkwulkkwulkkwulkkwul@z:owp . 352785_355310
+*PAU:	0 . 355318_355945
+*MOT:	<이름아 안녕 꿀꿀@z:owp, 난 돼지야, 꿀꿀꿀꿀꿀꿀@z:owp> [=! role plays] . 355910_359708
+%mor:	noun|이름아 noun|안녕 noun|꿀꿀owp cm|cm pron|나ㄴ-Int-S1 noun|돼지야 cm|cm noun|꿀꿀꿀꿀꿀꿀owp .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|8|COMPOUND 4|3|PUNCT 5|8|DISLOCATED 6|8|ROOT 7|8|PUNCT 8|6|CONJ 9|6|PUNCT
+%ort:	<Namea annyeng kkwulkkwul@z:owp, nan twayciya, kkwulkkwulkkwulkkwulkkwulkkwul@z:owp> [=! role plays] . 355910_359708
+*PAU:	0 . 359772_361316
+*MOT:	꿀꿀꿀꿀@z:owp [=! role plays] . 361308_362254
+%mor:	verb|꿀꿀꿀꿀ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkwulkkwulkkwulkkwul@z:owp [=! role plays] . 361308_362254
+*MOT:	<난 이렇게 네 발로 걷지> [=! role plays] . 362475_364116
+%mor:	pron|나ㄴ-Int-S1 sconj|이렇게 pron|네-Int-S1 adv|발로 verb|걷지-Inf-S .
+%gra:	1|5|DISLOCATED 2|5|XCOMP 3|4|COMPOUND 4|5|ADVCL 5|5|ROOT 6|5|PUNCT
+%ort:	<nan ilehkey ney pallo ketci> [=! role plays] . 362475_364116
+*MOT:	<꿀꿀꿀꿀꿀@z:owp 이름아 안녕:> [=! role plays] . 364257_366929
+%mor:	noun|꿀꿀꿀꿀꿀owp noun|이름아 noun|안녕 .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	<kkwulkkwulkkwulkkwulkkwul@z:owp Namea annyeng:> [=! role plays] . 364257_366929
+*PAU:	0 . 366894_367231
+*MOT:	아: 예뻐 . 367247_369008
+%mor:	intj|아 adj|예ㄴ-Pos-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	a: yeyppe . 367247_369008
+*MOT:	그 다음에, 또 뭐가 오 이건 뭐야 ? 369545_371992
+%mor:	det|그-Def adv|다음에 cm|cm adv|또 pron|뭐가-Int-S1 noun|오 pron|이거ㄴ-Int-S1 verb|뭐이야-Inf-S ?
+%gra:	1|2|DET 2|8|ADVMOD 3|2|PUNCT 4|5|ADVMOD 5|8|NSUBJ 6|7|COMPOUND 7|8|DISLOCATED 8|8|ROOT 9|8|PUNCT
+%ort:	ku taumey, tto mweka o iken mweya ? 369545_371992
+*PAU:	0 . 371991_372699
+*MOT:	브로콜리: . 373218_374920
+%mor:	noun|브로콜리 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	pulokholli: . 373218_374920
+*PAU:	0 . 374913_375203
+*MOT:	얌얌@z:owp 쩝쩝@z:owp 브로콜리@wp . 375180_377656
+%mor:	x|얌얌owp x|쩝쩝owp noun|브로콜리p .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+%ort:	yamyam@z:owp ccepccep@z:owp pulokholli@wp . 375180_377656
+*MOT:	근데 되게 웃기게 생겼네 ? 377708_379199
+%mor:	adv|근데 sconj|되게 sconj|웃기게 verb|생기었네-Inf-S ?
+%gra:	1|2|ADVMOD 2|4|CCOMP 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	kuntey toykey wuskikey sayngkyessney ? 377708_379199
+*PAU:	0 . 379128_379557
+*MOT:	브로콜리 맞겠지 ? 379594_380674
+%mor:	noun|브로콜리 verb|맞겠지-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	pulokholli mackeyssci ? 379594_380674
+*PAU:	0 . 380697_381591
+*MOT:	<안녕:, 이름아:> [=! role plays] . 381610_383266
+%mor:	intj|안녕 cm|cm verb|이름아-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	<annyeng:, Namea:> [=! role plays] . 381610_383266
+*MOT:	<나는 복실복실:@z:owp> [=! role plays] . 383475_385060
+%mor:	pron|나는-Int-S1 verb|복실복실ow이p-Inf-S .
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	<nanun poksilpoksil:@z:owp> [=! role plays] . 383475_385060
+*CHI:	어우@b . 384404_385048
+%mor:	verb|어찌하지-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ewu@b . 384404_385048
+*PAU:	0 . 385049_385966
+*MOT:	어우 . 385927_386391
+%mor:	verb|어찌하지-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ewu . 385927_386391
+*MOT:	어우 . 387790_388179
+%mor:	verb|어찌하지-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ewu . 387790_388179
+*MOT:	어우 . 389758_390182
+%mor:	verb|어찌하지-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ewu . 389758_390182
+*PAU:	0 . 390164_390419
+*CHI:	외오어@b . 390630_391587
+%mor:	verb|외오어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	oyoe@b . 390630_391587
+*MOT:	뭐 있어 ? 392134_392722
+%mor:	adv|뭐 adj|있어-Pos-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	mwe isse ? 392134_392722
+*PAU:	0 . 392728_393692
+*MOT:	뭐 있어 ? 393672_394317
+%mor:	adv|뭐 adj|있어-Pos-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	mwe isse ? 393672_394317
+*PAU:	0 . 394290_396171
+*MOT:	뭐 있어: ? 396169_397028
+%mor:	adv|뭐 adj|있어-Pos-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	mwe isse: ? 396169_397028
+*CHI:	에오어@b . 399284_401066
+%mor:	verb|에오어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	eyoe@b . 399284_401066
+*CHI:	우오:@b . 401603_403066
+%mor:	verb|우오-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuo:@b . 401603_403066
+*PAU:	0 . 403070_403918
+*MOT:	뭐 있어 ? 403908_404664
+%mor:	adv|뭐 adj|있어-Pos-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	mwe isse ? 403908_404664
+*CHI:	음멈머@b . 404647_405490
+%mor:	noun|음멈머 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummemme@b . 404647_405490
+*PAU:	0 . 405490_405699
+*MOT:	멍멍@o ? 405703_406233
+%mor:	intj|멍멍 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng@o ? 405703_406233
+*PAU:	0 . 406268_408407
+*MOT:	멍멍@o ? 408401_408961
+%mor:	intj|멍멍 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng@o ? 408401_408961
+*PAU:	0 . 409008_410900
+*MOT:	이름아 . 410915_411565
+%mor:	verb|이름아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	Namea . 410915_411565
+*PAU:	0 . 411550_411910
+*CHI:	xxx . 412437_415184
+%ort:	xxx . 412437_415184
+*PAU:	0 . 415162_416021
+*MOT:	멍멍@o ? 416103_416644
+%mor:	intj|멍멍 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng@o ? 416103_416644
+*CHI:	음메@b . 416731_417717
+%mor:	intj|음메 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey@b . 416731_417717
+*MOT:	걔는: 곰, 팬더: . 417722_420342
+%mor:	noun|걔는 noun|곰 cm|cm noun|팬더 .
+%gra:	1|4|DISLOCATED 2|4|COMPOUND 3|4|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	kyaynun: kom, phaynte: . 417722_420342
+*PAU:	0 . 420335_421299
+*MOT:	이거 멍멍이지@o 내가 멍멍이다:@o 멍멍@z:owp [/] 멍멍@z:owp . 421290_425468
+%mor:	adv|이거 sconj|멍멍이지 pron|내가-Int-S1 verb|멍멍이다-Inf-S verb|멍멍ow이p-Inf-S .
+%gra:	1|2|ADVMOD 2|5|CCOMP 3|5|NSUBJ 4|5|CCOMP 5|5|ROOT 6|5|PUNCT
+%ort:	ike mengmengici@o nayka mengmengita:@o mengmeng@z:owp [/] mengmeng@z:owp . 421290_425468
+*PAU:	0 . 425480_426734
+*MOT:	자 이름이에게 출발 . 426589_428261
+%mor:	intj|자 adv|이름이에게 noun|출발 .
+%gra:	1|3|DISCOURSE 2|3|IOBJ 3|3|ROOT 4|3|PUNCT
+%ort:	ca Nameieykey chwulpal . 426589_428261
+*MOT:	두두두두두두두두두두두@z:owp 멍멍:@z:owp, <이름아: 안녕:, 멍멍@z:owp> [=! role plays] . 428359_432852
+%mor:	x|두두두두두두두두두두두owp noun|멍멍owp cm|cm noun|이름아 noun|안녕 cm|cm noun|멍멍owp .
+%gra:	1|2|COMPOUND 2|5|COMPOUND 3|2|PUNCT 4|5|COMPOUND 5|7|COMPOUND 6|5|PUNCT 7|7|ROOT 8|7|PUNCT
+%ort:	twutwutwutwutwutwutwutwutwutwutwu@z:owp mengmeng:@z:owp, <Namea: annyeng:, mengmeng@z:owp> [=! role plays] . 428359_432852
+*PAU:	0 . 432863_433188
+*CHI:	음머@b . 433214_434278
+%mor:	intj|음머 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	umme@b . 433214_434278
+*PAU:	0 . 434152_434500
+*MOT:	그 다음에, 오 ? 434539_436172
+%mor:	det|그-Def adv|다음에 cm|cm intj|오 ?
+%gra:	1|2|DET 2|4|ROOT 3|2|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+%ort:	ku taumey, o ? 434539_436172
+*PAU:	0 . 436172_438192
+*MOT:	토:끼야:@wp . 438204_440449
+%mor:	verb|토끼야p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tho:kkiya:@wp . 438204_440449
+*PAU:	0 . 440433_440944
+*CHI:	아요@b . 440964_441607
+%mor:	verb|아프ㄹ-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ayo@b . 440964_441607
+*MOT:	뭐 재밌는 거 봤어 ? 441051_442141
+%mor:	adv|뭐 verb|재밌는-Inf-S noun|거 verb|보았어-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|ACL 3|4|OBL 4|4|ROOT 5|4|PUNCT
+%ort:	mwe caymissnun ke pwasse ? 441051_442141
+*CHI:	회로어@b ? 442305_442949
+%mor:	verb|회로어-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	hoyloe@b ? 442305_442949
+*PAU:	0 . 442937_444295
+*MOT:	xxx . 444213_445171
+%ort:	xxx . 444213_445171
+*MOT:	오: (..) 얜 누구야: ? 445205_448719
+%mor:	noun|오 noun|얜 verb|누구이야-Inf-S ?
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	o: (..) yayn nwukwuya: ? 445205_448719
+*PAU:	0 . 448726_450050
+*MOT:	귀엽다: . 450040_451967
+%mor:	adj|귀엽다-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kwiyepta: . 450040_451967
+*MOT:	얜 누구야 ? 452306_453062
+%mor:	noun|얜 verb|누구이야-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	yayn nwukwuya ? 452306_453062
+*PAU:	0 . 453085_454223
+*MOT:	귀여워 . 454243_454977
+%mor:	verb|귀우우어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kwiyewe . 454243_454977
+*MOT:	xxx . 454977_458030
+%ort:	xxx . 454977_458030
+*CHI:	이야:@b . 458410_459717
+%mor:	intj|이야 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iya:@b . 458410_459717
+*MOT:	곰돌아: . 459669_461284
+%mor:	verb|곰돌아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	komtola: . 459669_461284
+*PAU:	0 . 461289_463065
+*MOT:	곰돌아:@wp . 463073_465017
+%mor:	verb|곰돌아찌아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	komtola:@wp . 463073_465017
+*PAU:	0 . 465141_467707
+*MOT:	으이, xxx . 467704_469158
+%mor:	verb|으이-Inf-S cm|cm .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%ort:	ui, xxx . 467704_469158
+*PAU:	0 . 469103_469591
+*MOT:	이거, xxx 야, 이 곰은 이름이보다 더 큰데 ? 469778_473170
+%mor:	intj|이거 cm|cm intj|야 cm|cm det|이-Def noun|곰은 adv|이름이보다 adv|더 adj|크ㄴ데-Pos-S1 ?
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|9|DISCOURSE 4|3|PUNCT 5|6|DET 6|9|DISLOCATED 7|9|ADVCL 8|9|ADVMOD 9|9|ROOT 10|9|PUNCT
+%ort:	ike, xxx ya, i komun Nameipota te khuntey ? 469778_473170
+*MOT:	자, 세워 볼까 ? 473391_474501
+%mor:	intj|자 cm|cm verb|세우어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	ca, seywe polkka ? 473391_474501
+*PAU:	0 . 474480_474875
+*MOT:	이름아 내가 더 크지: ? 474854_476717
+%mor:	adv|이름아 pron|내가-Int-S1 adv|더 adj|크지-Pos-S1 ?
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	Namea nayka te khuci: ? 474854_476717
+*PAU:	0 . 476728_477529
+*MOT:	야, 내가 더 크지 ? 477540_479076
+%mor:	intj|야 cm|cm pron|내가-Int-S1 adv|더 adj|크지-Pos-S1 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%ort:	ya, nayka te khuci ? 477540_479076
+*PAU:	0 . 479081_479592
+*MOT:	내가 너보다 키도 더 커 . 479586_481427
+%mor:	pron|내가-Int-S1 adv|너보다 adv|키도 adv|더 noun|커 .
+%gra:	1|5|NSUBJ 2|5|ADVCL 3|5|ADVCL 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%ort:	nayka nepota khito te khe . 479586_481427
+*CHI:	음@b . 480884_481378
+%mor:	intj|음 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	um@b . 480884_481378
+*PAU:	0 . 481395_482568
+*MOT:	물 [/] 마실래, (..) 물 ? 482554_484626
+%mor:	noun|마실래 cm|cm noun|물 ?
+%gra:	1|3|COMPOUND 2|3|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	mul [/] masillay, (..) mul ? 482554_484626
+*PAU:	0 . 484651_486509
+*MOT:	물 ? 486547_486930
+%mor:	noun|물 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mul ? 486547_486930
+*PAU:	0 . 486938_492070
+*CHI:	xxx . 492077_494564
+%ort:	xxx . 492077_494564
+*MOT:	아이고 . 494665_495042
+%mor:	verb|아이고-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	aiko . 494665_495042
+*PAU:	0 . 495064_495691
+*CHI:	xxx . 495656_496110
+%ort:	xxx . 495656_496110
+*PAU:	0 . 496109_496863
+*CHI:	응나:@b . 496863_498534
+%mor:	verb|응나-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ungna:@b . 496863_498534
+*MOT:	어 ? 498585_498892
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e ? 498585_498892
+*MOT:	그 위에 올라가게 ? 499850_500740
+%mor:	det|그-Def adv|위에 verb|오르아가게-Inf-S ?
+%gra:	1|2|DET 2|3|OBL 3|3|ROOT 4|3|PUNCT
+%ort:	ku wiey ollakakey ? 499850_500740
+*MOT:	아니야, 이름아 여기: 재미난 xxx 붕붕이가@o 있더라: ? 501220_505302
+%mor:	sconj|아니야 cm|cm adv|이름아 pron|여기-Int-S1 verb|재미나ㄴ-Inf-S noun|붕붕이가 adj|있더라-Pos-S1 ?
+%gra:	1|7|XCOMP 2|1|PUNCT 3|7|ADVMOD 4|5|DEP 5|6|ACL 6|7|NSUBJ 7|7|ROOT 8|7|PUNCT
+%ort:	aniya, Namea yeki: cayminan xxx pungpungika@o isstela: ? 501220_505302
+*PAU:	0 . 505313_506149
+*MOT:	이거 봐 . 506261_506900
+%mor:	adv|이거 verb|보ㄹ-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	ike pwa . 506261_506900
+*MOT:	붕붕이가@o 있더라 ? 508049_509345
+%mor:	noun|붕붕이가 adj|있더라-Pos-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%ort:	pungpungika@o isstela ? 508049_509345
+*PAU:	0 . 509333_511110
+*MOT:	이거 타 볼래 ? 511054_511879
+%mor:	adv|이거 noun|타아 verb|보ㄹ래-Inf-S ?
+%gra:	1|3|ADVMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	ike tha pollay ? 511054_511879
+*PAU:	0 . 511865_514767
+*MOT:	짜잔:@z:owp, 으이짜: . 515704_518234
+%mor:	x|짜잔owp cm|cm noun|으이짜 .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%ort:	ccacan:@z:owp, uicca: . 515704_518234
+*MOT:	<가 봐> [/] <가 봐> [/] 이름이가 가 봐 . 518358_520374
+%mor:	noun|이름이가 pron|가-Int-S1 verb|보ㄹ-Inf-S .
+%gra:	1|3|NSUBJ 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	<ka pwa> [/] <ka pwa> [/] Nameika ka pwa . 518358_520374
+*PAU:	0 . 520368_521285
+*MOT:	이리 오세요: . 521275_522716
+%mor:	adv|이리 verb|오세요-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	ili oseyyo: . 521275_522716
+*PAU:	0 . 522722_524986
+*MOT:	슝슝:@z:owp 붕붕:@z:owp . 525030_528258
+%mor:	noun|슝슝owp verb|붕붕ow이p-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	syungsyung:@z:owp pungpung:@z:owp . 525030_528258
+*MOT:	와 봐 . 528844_529274
+%mor:	cconj|와 verb|보ㄹ-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	wa pwa . 528844_529274
+*PAU:	0 . 529375_534774
+*MOT:	축축축축축축@z:owp . 534877_536461
+%mor:	verb|축축축축축축owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	chwukchwukchwukchwukchwukchwuk@z:owp . 534877_536461
+*PAU:	0 . 536678_537920
+*CHI:	xxx . 537889_539358
+%ort:	xxx . 537889_539358
+*PAU:	0 . 539337_539790
+*MOT:	어 왜 기침을 하지: ? 539778_541731
+%mor:	intj|어 adv|왜 noun|기침을 verb|하지-Inf-S ?
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+%ort:	e way kichimul haci: ? 539778_541731
+*CHI:	이:@b . 540898_541745
+%mor:	pron|이-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	i:@b . 540898_541745
+*PAU:	0 . 541715_542075
+*MOT:	물 줘 ? 542099_542635
+%mor:	noun|물 verb|주어-Inf-S ?
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+%ort:	mul cwe ? 542099_542635
+*PAU:	0 . 542636_543715
+*MOT:	어 ? 543711_544077
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e ? 543711_544077
+*PAU:	0 . 544289_546239
+*MOT:	물 ? 546501_546858
+%mor:	noun|물 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mul ? 546501_546858
+*PAU:	0 . 548242_550053
+*CHI:	껌베:아@b . 550040_551462
+%mor:	verb|껌베아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkempey:a@b . 550040_551462
+*PAU:	0 . 551458_551748
+*MOT:	응 ? 551722_551936
+%mor:	intj|응 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung ? 551722_551936
+*PAU:	0 . 551899_552027
+*CHI:	해와@b . 551968_553374
+%mor:	verb|해와-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	haywa@b . 551968_553374
+*PAU:	0 . 553385_553734
+*MOT:	어: ? 553701_554357
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e: ? 553701_554357
+*PAU:	0 . 554331_561268
+*CHI:	음에아@b . 561292_562757
+%mor:	verb|음에아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	umeya@b . 561292_562757
+*MOT:	응: . 563023_564011
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung: . 563023_564011
+*PAU:	0 . 564006_564354
+*CHI:	음메아:@b . 564375_565887
+%mor:	verb|음메아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummeya:@b . 564375_565887
+*PAU:	0 . 565887_566131
+*MOT:	곰아: . 566028_567394
+%mor:	verb|잣아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	koma: . 566028_567394
+*PAU:	0 . 567375_567538
+*CHI:	음메아:@b . 567515_568888
+%mor:	verb|음메아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummeya:@b . 567515_568888
+*PAU:	0 . 568909_569513
+*MOT:	&~엠 엠냐가 뭐지:, 곰아 . 569521_572214
+%mor:	adv|엠냐가 verb|뭐이지-Inf-S cm|cm verb|잣아-Inf-S .
+%gra:	1|2|ADVCL 2|4|DEP 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	&eym eymnyaka mweci:, koma . 569521_572214
+*CHI:	음메:@b . 571512_573046
+%mor:	intj|음메 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey:@b . 571512_573046
+*MOT:	우: 어흥:@z:owp . 573040_575565
+%mor:	intj|우 x|어흥owp .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	wu: ehung:@z:owp . 573040_575565
+*PAU:	0 . 575486_576937
+*MOT:	으르렁:@z:owp . 576975_578297
+%mor:	verb|으르렁ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ululeng:@z:owp . 576975_578297
+*PAU:	0 . 578191_578551
+*CHI:	으: . 578588_579523
+%mor:	intj|으 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	u: . 578588_579523
+*PAU:	0 . 579502_579769
+*MOT:	으르렁:@z:owp . 579779_581073
+%mor:	verb|으르렁ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ululeng:@z:owp . 579779_581073
+*CHI:	어아@b . 581105_581734
+%mor:	verb|알아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ea@b . 581105_581734
+*PAU:	0 . 581745_583684
+*MOT:	으르렁:@z:owp . 583651_585162
+%mor:	verb|으르렁ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ululeng:@z:owp . 583651_585162
+*PAU:	0 . 585159_585495
+*CHI:	빠빠:@b . 585471_586521
+%mor:	verb|빨ㄴ-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppappa:@b . 585471_586521
+*PAU:	0 . 586486_586764
+*MOT:	빵빵@o ? 586738_587243
+%mor:	noun|빵빵 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppangppang@o ? 586738_587243
+*MOT:	빵빵@o 탈 거야 ? 587940_588905
+%mor:	adv|빵빵 verb|타ㄹ-Inf-S verb|거이야-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|CCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	ppangppang@o thal keya ? 587940_588905
+*PAU:	0 . 588877_590364
+*MOT:	아: . 590413_591399
+%mor:	intj|아 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	a: . 590413_591399
+*MOT:	타 봐 . 593373_593750
+%mor:	noun|타아 verb|보ㄹ-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	tha pwa . 593373_593750
+*PAU:	0 . 593753_595193
+*MOT:	빵빵:@z:owp . 595197_596184
+%mor:	verb|빵빵ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppangppang:@z:owp . 595197_596184
+*PAU:	0 . 596180_597294
+*MOT:	에, 뜨드드드드드드@z:owp 으차: . 597309_600471
+%mor:	adv|에 cm|cm noun|뜨드드드드드드owp verb|으차-Inf-S .
+%gra:	1|4|ADVMOD 2|1|PUNCT 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	ey, ttututututututu@z:owp ucha: . 597309_600471
+*PAU:	0 . 600192_601753
+*MOT:	빵빵:@z:owp . 601817_603184
+%mor:	verb|빵빵ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppangppang:@z:owp . 601817_603184
+*PAU:	0 . 603279_604074
+*MOT:	어, 여기 책 되게 많은데 ? 604270_606338
+%mor:	intj|어 cm|cm pron|여기-Int-S1 noun|책 verb|되게-Inf-S aux|많ㄴ데-Inf-S ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|COMPOUND 4|5|DEP 5|6|ROOT 6|5|CONJ 7|5|PUNCT
+%ort:	e, yeki chayk toykey manhuntey ? 604270_606338
+*PAU:	0 . 606357_606728
+*CHI:	xxx . 606817_607440
+%ort:	xxx . 606817_607440
+*PAU:	0 . 607437_607669
+*MOT:	책 볼래 ? 607720_608410
+%mor:	noun|책 verb|보ㄹ래-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	chayk pollay ? 607720_608410
+*PAU:	0 . 608482_609039
+*CHI:	찌떠@b ? 609016_609677
+%mor:	verb|찌우어-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccitte@b ? 609016_609677
+*PAU:	0 . 609684_610473
+*MOT:	엄마도 책 갖고 왔지롱:@wp . 610393_612687
+%mor:	adv|엄마도 noun|책 verb|갖고-Inf-S verb|오았지롱p-Inf-S .
+%gra:	1|3|ADVCL 2|3|DEP 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	emmato chayk kacko wasscilong:@wp . 610393_612687
+*MOT:	어, 이거, 동물 책이네 (..) 이거는 . 612928_615989
+%mor:	intj|어 cm|cm pron|이거-Int-S1 cm|cm noun|동물 verb|책이네-Inf-S noun|이거는 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|COMPOUND 4|3|PUNCT 5|6|COMPOUND 6|7|ROOT 7|6|PUNCT 8|6|PUNCT
+%ort:	e, ike, tongmul chaykiney (..) ikenun . 612928_615989
+*PAU:	0 . 615955_617161
+*MOT:	안 봐 ? 617170_617565
+%mor:	adv|안 verb|보ㄹ-Inf-S ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	an pwa ? 617170_617565
+*MOT:	xxx 우와 . 618470_619515
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	xxx wuwa . 618470_619515
+*PAU:	0 . 619490_620431
+*MOT:	뽈록@o 튀어나오는 팝업 북이네 ? 620376_621991
+%mor:	adv|뽈록 verb|튀어나오는-Inf-S noun|팝업 verb|북이네-Inf-S ?
+%gra:	1|2|ADVMOD 2|4|CCOMP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	ppollok@o thwienaonun phapep pukiney ? 620376_621991
+*MOT:	한번 읽어 볼까 ? 622314_623278
+%mor:	noun|한번 verb|읽어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	hanpen ilke polkka ? 622314_623278
+*MOT:	어, 이름아 우리 집에 있는 책도 있다, 시끌벅적@o 동물원, 어저께 본 거 . 623885_627508
+%mor:	intj|어 cm|cm adv|이름아 pron|우리-Int-S1 adv|집에 adj|있는-Pos-S1 adv|책도 adj|있다-Pos-S1 cm|cm noun|시끌벅적 noun|동물원 cm|cm adv|어저께 verb|보ㄴ-Inf-S verb|거-Inf-S .
+%gra:	1|15|DISCOURSE 2|1|PUNCT 3|8|ADVMOD 4|5|COMPOUND 5|6|OBL 6|7|AMOD 7|8|ADVCL 8|15|AMOD 9|8|PUNCT 10|11|AMOD 11|15|COMPOUND 12|11|PUNCT 13|14|ADVCL 14|15|CCOMP 15|15|ROOT 16|15|PUNCT
+%ort:	e, Namea wuli cipey issnun chaykto issta, sikkulpekcek@o tongmulwen, ecekkey pon ke . 623885_627508
+*CHI:	아우@b . 627538_628165
+%mor:	noun|아우 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	awu@b . 627538_628165
+*MOT:	이거 . 628548_628873
+%mor:	intj|이거 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ike . 628548_628873
+*PAU:	0 . 628862_629564
+*MOT:	시끌벅적@o 동물원, 이거 어때 ? 629447_631718
+%mor:	noun|시끌벅적 noun|동물원 cm|cm adv|이거 verb|어찌하ㄹ-Inf-S ?
+%gra:	1|2|AMOD 2|5|COMPOUND 3|2|PUNCT 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%ort:	sikkulpekcek@o tongmulwen, ike ettay ? 629447_631718
+*PAU:	0 . 631764_633285
+*MOT:	짜잔:@z:owp, 어, 어저께 봤던 거랑 쪼끔 달라 . 633279_636845
+%mor:	x|짜잔owp cm|cm noun|어 cm|cm adv|어저께 verb|보았던-Inf-S noun|거랑 adv|쪼끔 verb|달라-Inf-S .
+%gra:	1|6|ADVCL 2|3|PUNCT 3|1|CONJ 4|3|PUNCT 5|1|CONJ 6|7|ACL 7|9|OBL 8|9|ADVMOD 9|9|ROOT 10|9|PUNCT
+%ort:	ccacan:@z:owp, e, ecekkey pwassten kelang ccokkum talla . 633279_636845
+*MOT:	여기 앉아, 엄마 읽어 줄게 . 637000_638488
+%mor:	pron|여기-Int-S1 sconj|앉아 cm|cm noun|엄마 verb|읽어-Inf-S verb|줄게-Inf-S .
+%gra:	1|2|DEP 2|5|CCOMP 3|2|PUNCT 4|5|DEP 5|6|ROOT 6|5|COMPOUND 7|5|PUNCT
+%ort:	yeki anca, emma ilke cwulkey . 637000_638488
+*PAU:	0 . 638482_639510
+*MOT:	무슨 책을 볼까: . 639451_641175
+%mor:	det|무슨-Def noun|책을 verb|보ㄹ까-Inf-S .
+%gra:	1|2|DET 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%ort:	musun chaykul polkka: . 639451_641175
+*PAU:	0 . 641115_642439
+*CHI:	요거@b . 642315_643478
+%mor:	verb|요이거-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	yoke@b . 642315_643478
+*PAU:	0 . 643478_644441
+*MOT:	무슨 책을 볼까: . 644452_646096
+%mor:	det|무슨-Def noun|책을 verb|보ㄹ까-Inf-S .
+%gra:	1|2|DET 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%ort:	musun chaykul polkka: . 644452_646096
+*PAU:	0 . 646088_646593
+*CHI:	xxx . 646574_646812
+%ort:	xxx . 646574_646812
+*PAU:	0 . 646813_647597
+*CHI:	xxx . 647597_648227
+%ort:	xxx . 647597_648227
+*MOT:	어, 기침하네 . 648216_649341
+%mor:	intj|어 cm|cm verb|기침하어-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	e, kichimhaney . 648216_649341
+*MOT:	무슨 책 볼까요: . 649356_650855
+%mor:	det|무슨-Def noun|책 verb|보ㄹ까요-Inf-S .
+%gra:	1|2|DET 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	musun chayk polkkayo: . 649356_650855
+*PAU:	0 . 650936_656651
+*MOT:	무슨 책 볼까:요: . 656667_658507
+%mor:	det|무슨-Def noun|책 verb|보ㄹ까요-Inf-S .
+%gra:	1|2|DET 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	musun chayk polkka:yo: . 656667_658507
+*CHI:	우와:@b . 658906_660137
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa:@b . 658906_660137
+*MOT:	줘 . 660189_660526
+%mor:	verb|주어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	cwe . 660189_660526
+*PAU:	0 . 660536_661888
+*MOT:	엄마 엄마도 갖고 왔는데 ? 661878_663027
+%mor:	noun|엄마 adv|엄마도 verb|갖고-Inf-S verb|오았는데-Inf-S ?
+%gra:	1|2|COMPOUND 2|3|ADVCL 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	emma emmato kacko wassnuntey ? 661878_663027
+*PAU:	0 . 663068_663671
+*MOT:	이것도 갖고 왔 . 663691_664360
+%mor:	adv|이것도 verb|갖고-Inf-S aux|하-Inf-S .
+%gra:	1|2|ADVCL 2|3|ROOT 3|2|AUX 4|2|PUNCT
+%ort:	ikesto kacko wass . 663691_664360
+*PAU:	0 . 664383_665567
+*MOT:	어, 관심이 없네 . 665576_666515
+%mor:	intj|어 cm|cm noun|관심이 adj|없네-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%ort:	e, kwansimi epsney . 665576_666515
+*PAU:	0 . 666675_669385
+*MOT:	짜잔:@z:owp . 669355_670499
+%mor:	verb|짜잔ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccacan:@z:owp . 669355_670499
+*MOT:	뿌:@z:owp [/] 뿌:@z:owp . 671660_673211
+%mor:	verb|뿌owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppu:@z:owp [/] ppu:@z:owp . 671660_673211
+*CHI:	뿡:@b . 672362_673077
+%mor:	intj|뿡 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppung:@b . 672362_673077
+*MOT:	<힘:센 코끼리가 아기 코끼리를 번쩍@o 안아 주지요:> [=! reads] . 673327_678118
+%mor:	adj|힘세ㄴ-Pos-S1 noun|코끼리가 noun|아기 noun|코끼리를 adv|번쩍 verb|안아-Inf-S verb|주지요-Inf-S .
+%gra:	1|2|AMOD 2|6|NSUBJ 3|4|COMPOUND 4|6|OBJ 5|6|ADVMOD 6|7|ROOT 7|6|COMPOUND 8|6|PUNCT
+%ort:	<him:seyn khokkilika aki khokkililul penccek@o ana cwuciyo:> [=! reads] . 673327_678118
+*PAU:	0 . 678175_679382
+*MOT:	영차@z:owp, 어 곰이다 . 679388_680758
+%mor:	noun|영차owp cm|cm pron|어-Int-S1 verb|곰이다-Inf-S .
+%gra:	1|4|COMPOUND 2|3|PUNCT 3|1|CONJ 4|4|ROOT 5|4|PUNCT
+%ort:	yengcha@z:owp, e komita . 679388_680758
+*PAU:	0 . 680758_681739
+*MOT:	<영차@z:owp, 얘들아 모여 봐> [=! reads] . 681791_683354
+%mor:	noun|영차owp cm|cm sconj|얘들아 verb|모이어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|4|OBL 2|1|PUNCT 3|4|CCOMP 4|5|ROOT 5|4|COMPOUND 6|4|PUNCT
+%ort:	<yengcha@z:owp, yaytula moye pwa> [=! reads] . 681791_683354
+*MOT:	<커다란 곰이 나무 열매를 잔뜩 가져왔어요> [=! reads] . 683482_686448
+%mor:	adj|커다랗ㄴ-Pos-S1 noun|곰이 noun|나무 noun|열매를 adv|잔뜩 verb|가지어오았어요-Inf-S .
+%gra:	1|2|AMOD 2|6|NSUBJ 3|4|COMPOUND 4|6|OBJ 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	<khetalan komi namu yelmaylul canttuk kacyewasseyo> [=! reads] . 683482_686448
+*PAU:	0 . 686473_688435
+*MOT:	<기린은 목이 아:주 길어요:> [=! reads] . 688416_690519
+%mor:	noun|기린은 noun|목이 adv|아주 verb|길어요-Inf-S .
+%gra:	1|4|DISLOCATED 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	<kilinun moki a:cwu kileyo:> [=! reads] . 688416_690519
+*CHI:	xxx . 689115_689724
+%ort:	xxx . 689115_689724
+*CHI:	응:@b . 690807_691682
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 690807_691682
+*MOT:	어 그거, 어 공 있네 ? 691763_693127
+%mor:	intj|어 pron|그거이-Int-S1 cm|cm intj|어 noun|공 adj|있네-Pos-S1 ?
+%gra:	1|6|DISCOURSE 2|6|DEP 3|2|PUNCT 4|6|ADVMOD 5|6|DEP 6|6|ROOT 7|6|PUNCT
+%ort:	e kuke, e kong issney ? 691763_693127
+*CHI:	아버:@b . 692634_693706
+%mor:	intj|아버 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ape:@b . 692634_693706
+*MOT:	공 [/] 공 [/] 공 . 693706_694572
+%mor:	noun|공 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kong [/] kong [/] kong . 693706_694572
+*PAU:	0 . 694450_695315
+*CHI:	xxx . 695285_695633
+%ort:	xxx . 695285_695633
+*MOT:	<발로 차> [/] 발로 차 봐 . 695603_696938
+%mor:	adv|발로 verb|차아-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|ADVCL 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	<pallo cha> [/] pallo cha pwa . 695603_696938
+*PAU:	0 . 696936_698724
+*MOT:	발로 뻥:@z:owp . 698685_699940
+%mor:	adv|발로 verb|뻥owp-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	pallo ppeng:@z:owp . 698685_699940
+*PAU:	0 . 699981_700700
+*MOT:	헤헤헤헤헤 . 700689_701636
+%mor:	verb|헤헤헤헤이헤-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	heyheyheyheyhey . 700689_701636
+*MOT:	야, 이름아 짠:@z:owp 공놀이 해 볼까 ? 702077_705991
+%mor:	intj|야 cm|cm noun|이름아 sconj|짠owp noun|공놀이 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DEP 4|6|CCOMP 5|6|NSUBJ 6|7|ROOT 7|6|COMPOUND 8|6|PUNCT
+%ort:	ya, Namea ccan:@z:owp kongnoli hay polkka ? 702077_705991
+*PAU:	0 . 705969_708369
+*CHI:	xxx . 708410_708671
+%ort:	xxx . 708410_708671
+*PAU:	0 . 708700_711214
+*CHI:	음빠@b . 711202_712216
+%mor:	verb|음빠-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	umppa@b . 711202_712216
+*PAU:	0 . 712098_713381
+*CHI:	응:@b . 713316_714656
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 713316_714656
+*MOT:	응: ? 714478_715312
+%mor:	intj|응 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung: ? 714478_715312
+*PAU:	0 . 715239_716110
+*CHI:	응:@b . 716078_716908
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 716078_716908
+*MOT:	응: ? 716873_717597
+%mor:	intj|응 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung: ? 716873_717597
+*CHI:	으야:@b ? 717976_719040
+%mor:	verb|말어야-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	uya:@b ? 717976_719040
+*MOT:	얘는 고슴도치같이 생겼는데: ? 719191_721971
+%mor:	noun|얘는 adv|고슴도치같이 verb|생기었는데-Inf-S ?
+%gra:	1|3|DISLOCATED 2|3|ADVCL 3|3|ROOT 4|3|PUNCT
+%ort:	yaynun kosumtochikathi sayngkyessnuntey: ? 719191_721971
+*CHI:	응:@b . 722066_723559
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 722066_723559
+*MOT:	응: 그래, 고슴도치다 . 723950_726934
+%mor:	intj|응 pron|그렇어-Int-S1 cm|cm verb|고슴도치이다-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|COMPOUND 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	ung: kulay, kosumtochita . 723950_726934
+*MOT:	xxx . 727327_727838
+%ort:	xxx . 727327_727838
+*MOT:	예쁘다:, 어우 부드러워: . 727872_732284
+%mor:	sconj|예쁘다 cm|cm adv|어우 adj|부드럽어-Pos-S1 .
+%gra:	1|4|XCOMP 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	yeypputa:, ewu putulewe: . 727872_732284
+*PAU:	0 . 732240_733615
+*MOT:	부드러워: . 733508_735042
+%mor:	adj|부드럽어-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	putulewe: . 733508_735042
+*PAU:	0 . 735064_735418
+*CHI:	응애아:@b . 735411_736644
+%mor:	verb|응애아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ungaya:@b . 735411_736644
+*PAU:	0 . 736800_737491
+*CHI:	엄:미@b ? 737455_739229
+%mor:	intj|엄미 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	em:mi@b ? 737455_739229
+*MOT:	곰아: . 737639_739224
+%mor:	verb|잣아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	koma: . 737639_739224
+*CHI:	음미:@b ? 739591_740484
+%mor:	intj|음미 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummi:@b ? 739591_740484
+*MOT:	곰아: . 740786_742138
+%mor:	verb|잣아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	koma: . 740786_742138
+*MOT:	어, 되게 크다 . 742251_743760
+%mor:	intj|어 cm|cm verb|되게-Inf-S aux|크다-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|CONJ 5|3|PUNCT
+%ort:	e, toykey khuta . 742251_743760
+*PAU:	0 . 743745_744621
+*MOT:	엄청 크다: 이거는: . 744586_746798
+%mor:	adv|엄청 adj|크다-Pos-S1 verb|이거는-Inf-S .
+%gra:	1|2|ADVMOD 2|3|CCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	emcheng khuta: ikenun: . 744586_746798
+*PAU:	0 . 746697_747835
+*MOT:	우와: . 747845_750070
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 747845_750070
+*MOT:	이름아: 이거 네가 안을 수 있어 이렇게 큰데 ? 750389_755712
+%mor:	adv|이름아 adv|이거 pron|네가-Int-S1 verb|안을-Inf-S noun|수 sconj|있어 sconj|이렇게 adj|크ㄴ데-Pos-S1 ?
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|4|OBL 6|5|FIXED 7|8|XCOMP 8|4|CONJ 9|4|PUNCT
+%ort:	Namea: ike neyka anul swu isse ilehkey khuntey ? 750389_755712
+*CHI:	아:@b . 752701_753948
+%mor:	intj|아 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	a:@b . 752701_753948
+*PAU:	0 . 755964_758234
+*MOT:	어, 또 다른 인형이네 ? 758239_760088
+%mor:	intj|어 cm|cm adv|또 adj|다르ㄴ-Pos-S1 verb|인형이네-Inf-S ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%ort:	e, tto talun inhyenginey ? 758239_760088
+*PAU:	0 . 759984_760565
+*MOT:	당근: . 760802_762237
+%mor:	noun|당근 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tangkun: . 760802_762237
+*PAU:	0 . 762202_762712
+*MOT:	당근@wp [/] 당근@wp [/] 당근@wp [/] 당근@wp . 762666_764899
+%mor:	verb|당근이ㄴ-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tangkun@wp [/] tangkun@wp [/] tangkun@wp [/] tangkun@wp . 762666_764899
+*PAU:	0 . 764698_765783
+*MOT:	당근: . 765735_767925
+%mor:	noun|당근 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tangkun: . 765735_767925
+*PAU:	0 . 767943_769551
+*MOT:	어, (..) 여기, (..) 집이 있는데, 여기 들어가 볼래 ? 769551_774532
+%mor:	intj|어 cm|cm pron|여기-Int-S1 cm|cm noun|집이 sconj|있는데 cm|cm pron|여기-Int-S1 verb|들어가아-Inf-S verb|보ㄹ래-Inf-S ?
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|6|DEP 4|3|PUNCT 5|6|NSUBJ 6|10|XCOMP 7|6|PUNCT 8|9|DEP 9|10|CCOMP 10|10|ROOT 11|10|PUNCT
+%ort:	e, (..) yeki, (..) cipi issnuntey, yeki tuleka pollay ? 769551_774532
+*PAU:	0 . 774661_776118
+*MOT:	너무 추울까 ? 776029_777209
+%mor:	adv|너무 verb|춥ㄹ까-Inf-S ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	nemu chwuwulkka ? 776029_777209
+*MOT:	들어가 보고 싶어 ? 777354_778377
+%mor:	verb|들어가아-Inf-S verb|보고-Inf-S aux|싶-Inf-S ?
+%gra:	1|3|ROOT 2|1|COMPOUND 3|1|AUX 4|1|PUNCT
+%ort:	tuleka poko siphe ? 777354_778377
+*CHI:	xxx . 777501_778163
+%ort:	xxx . 777501_778163
+*CHI:	으@b . 778698_779249
+%mor:	intj|으 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	u@b . 778698_779249
+*PAU:	0 . 779290_783970
+*MOT:	곰은 여기 앉으라고 하고 (..) 고슴도치도 여기 앉아 있고 . 783794_787626
+%mor:	noun|곰은 pron|여기-Int-S1 verb|앉으라고-Inf-S cconj|하고 adv|고슴도치도 pron|여기-Int-S1 verb|앉아-Inf-S aux|있-Inf-S .
+%gra:	1|3|DISLOCATED 2|3|DEP 3|8|ROOT 4|3|CONJ 5|7|ADVCL 6|7|DEP 7|3|CONJ 8|7|AUX 9|3|PUNCT
+%ort:	komun yeki anculako hako (..) kosumtochito yeki anca issko . 783794_787626
+*MOT:	xxx . 787943_788309
+%ort:	xxx . 787943_788309
+*MOT:	오: 이렇게 돌리는 게 있구나: . 788372_790934
+%mor:	noun|오 sconj|이렇게 verb|돌리는-Inf-S noun|게 adj|있구나-Pos-S1 .
+%gra:	1|2|DEP 2|3|XCOMP 3|4|ACL 4|5|DEP 5|5|ROOT 6|5|PUNCT
+%ort:	o: ilehkey tollinun key isskwuna: . 788372_790934
+*PAU:	0 . 791002_791850
+*MOT:	똑같네, 당근: &~당 그래서 여기 당근이 있었구나: . 791890_795850
+%mor:	noun|똑같네 cm|cm noun|당근 cconj|그래서 pron|여기-Int-S1 noun|당근이 adj|있었구나-Pos-S1 .
+%gra:	1|7|NSUBJ 2|3|PUNCT 3|1|CONJ 4|6|CC 5|6|COMPOUND 6|7|NSUBJ 7|7|ROOT 8|7|PUNCT
+%ort:	ttokkathney, tangkun: &tang kulayse yeki tangkuni issesskwuna: . 791890_795850
+*PAU:	0 . 795863_796653
+*MOT:	당근: . 796646_797818
+%mor:	noun|당근 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tangkun: . 796646_797818
+*PAU:	0 . 797744_798708
+*MOT:	야 [/] 야 돌아라: . 798737_800995
+%mor:	noun|야 verb|돌아오아-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ya [/] ya tolala: . 798737_800995
+*MOT:	이거는 여기다 잘 놔두자, xxx랑 책은: . 801682_805047
+%mor:	pron|이거는-Int-S1 adv|여기다 adv|잘 cconj|놓아두자 cm|cm noun|xxx랑 noun|책은 .
+%gra:	1|4|DISLOCATED 2|4|ADVMOD 3|2|ADVMOD 4|7|ROOT 5|7|PUNCT 6|7|COMPOUND 7|4|CONJ 8|4|PUNCT
+%ort:	ikenun yekita cal nwatwuca, xxxlang chaykun: . 801682_805047
+*PAU:	0 . 805136_806645
+*CHI:	헬라:@b . 806793_809105
+%mor:	verb|바르아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	heylla:@b . 806793_809105
+*MOT:	고슴도치야, 코 ! 808588_810204
+%mor:	noun|고슴도치야 cm|cm noun|코 !
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%ort:	kosumtochiya, kho ! 808588_810204
+*PAU:	0 . 810204_810929
+*MOT:	고슴도치 코: . 810916_812781
+%mor:	noun|고슴도치 noun|코 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	kosumtochi kho: . 810916_812781
+*MOT:	코가 땡글땡글@o 예쁘네: . 813196_814851
+%mor:	noun|코가 adv|땡글땡글 adj|예쁘네-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	khoka ttayngkulttayngkul@o yeyppuney: . 813196_814851
+*CHI:	xxx . 814861_815842
+%ort:	xxx . 814861_815842
+*MOT:	아: 이뻐 . 815434_816636
+%mor:	intj|아 verb|이르ㄴ-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	a: ippe . 815434_816636
+*MOT:	xxx . 817073_819016
+%ort:	xxx . 817073_819016
+*PAU:	0 . 819470_820753
+*MOT:	모자 썼네:, 고슴도치도: . 820752_823248
+%mor:	noun|모자 sconj|쓰었네 cm|cm verb|고슴도치도-Inf-S .
+%gra:	1|2|DEP 2|4|CCOMP 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	moca ssessney:, kosumtochito: . 820752_823248
+*PAU:	0 . 823214_827233
+*CHI:	꿍:@b . 827205_827931
+%mor:	intj|꿍 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkwung:@b . 827205_827931
+*MOT:	어: ? 828124_828937
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e: ? 828124_828937
+*PAU:	0 . 828883_830079
+*CHI:	마뻐@b ? 830066_831054
+%mor:	verb|말ㄴ-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mappe@b ? 830066_831054
+*MOT:	어, 빵빵@o 또 있다 야 . 831152_832760
+%mor:	intj|어 cm|cm adv|빵빵 adv|또 adj|있다-Pos-S1 verb|야어-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|3|ADVMOD 5|6|CCOMP 6|6|ROOT 7|6|PUNCT
+%ort:	e, ppangppang@o tto issta ya . 831152_832760
+*PAU:	0 . 832871_833614
+*MOT:	빠빵:@o . 833543_835002
+%mor:	verb|빠레ㄴ-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppappang:@o . 833543_835002
+*PAU:	0 . 834990_838415
+*MOT:	빠@o (..) 어, 거기 책이 엄청 많네: ? 838439_841894
+%mor:	noun|빠 intj|어 cm|cm pron|거기-Int-S1 noun|책이 adv|엄청 adj|많네-Pos-S1 ?
+%gra:	1|2|COMPOUND 2|7|DISCOURSE 3|2|PUNCT 4|5|COMPOUND 5|7|NSUBJ 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%ort:	ppa@o (..) e, keki chayki emcheng manhney: ? 838439_841894
+*PAU:	0 . 841699_843122
+*MOT:	무슨 책이 재밌을까: ? 843174_845589
+%mor:	det|무슨-Def noun|책이 noun|재밌을까 ?
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%ort:	musun chayki caymissulkka: ? 843174_845589
+*PAU:	0 . 845569_847496
+*MOT:	뭐 볼래: ? 847484_848260
+%mor:	adv|뭐 verb|보ㄹ래-Inf-S ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	mwe pollay: ? 847484_848260
+*PAU:	0 . 848431_850439
+*MOT:	<갖고 와 봐> [/] 이름아, 책 갖고 와 봐 . 850408_852604
+%mor:	noun|이름아 cm|cm noun|책 verb|갖고-Inf-S verb|오아-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|4|OBL 2|3|PUNCT 3|1|CONJ 4|5|CCOMP 5|6|ROOT 6|5|COMPOUND 7|5|PUNCT
+%ort:	<kacko wa pwa> [/] Namea, chayk kacko wa pwa . 850408_852604
+*PAU:	0 . 852628_854177
+*MOT:	책 갖고 와 봐 . 854195_854937
+%mor:	noun|책 verb|갖고-Inf-S verb|오아-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|DEP 2|3|CCOMP 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	chayk kacko wa pwa . 854195_854937
+*PAU:	0 . 854909_856116
+*MOT:	어 . 856065_856419
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 856065_856419
+*MOT:	책 봐야지: . 857830_859018
+%mor:	noun|책 verb|보아야지-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	chayk pwayaci: . 857830_859018
+*MOT:	부릉@z:owp 소리가 . 859088_860301
+%mor:	noun|부릉owp noun|소리가 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	pulung@z:owp solika . 859088_860301
+*CHI:	xxx . 860645_864062
+%ort:	xxx . 860645_864062
+*MOT:	아:, 빼 줘 ? 863420_864656
+%mor:	intj|아 cm|cm verb|빼어-Inf-S verb|주어-Inf-S ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	a:, ppay cwe ? 863420_864656
+*PAU:	0 . 864620_865340
+*MOT:	갖고 와, 빼 줄게 . 865298_866436
+%mor:	cconj|갖고 sconj|오아 cm|cm verb|빼어-Inf-S verb|줄게-Inf-S .
+%gra:	1|5|CCOMP 2|1|CONJ 3|2|PUNCT 4|5|CCOMP 5|5|ROOT 6|5|PUNCT
+%ort:	kacko wa, ppay cwulkey . 865298_866436
+*PAU:	0 . 866559_866942
+*MOT:	그럼 이건 넣어 버리자 . 866929_868090
+%mor:	cconj|그럼 pron|이거ㄴ-Int-S1 verb|넣어-Inf-S verb|버리자-Inf-S .
+%gra:	1|3|CC 2|3|DISLOCATED 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	kulem iken nehe pelica . 866929_868090
+*PAU:	0 . 867958_868747
+*MOT:	주세요: . 868647_869781
+%mor:	verb|주시어요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	cwuseyyo: . 868647_869781
+*PAU:	0 . 869832_872828
+*MOT:	줘, 앉아 봐, 엄마가 빼 줄게 . 872846_874636
+%mor:	intj|주어 cm|cm verb|앉아-Inf-S sconj|보아 cm|cm noun|엄마가 verb|빼어-Inf-S verb|줄게-Inf-S .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|CCOMP 4|3|MARK 5|4|PUNCT 6|7|NSUBJ 7|8|ROOT 8|7|COMPOUND 9|7|PUNCT
+%ort:	cwe, anca pwa, emmaka ppay cwulkey . 872846_874636
+*PAU:	0 . 874686_875835
+*MOT:	xxx . 875810_876942
+%ort:	xxx . 875810_876942
+*MOT:	자:, 아 이건 아가들 책이구나: . 877151_880740
+%mor:	intj|자 cm|cm intj|아 pron|이거ㄴ-Int-S1 noun|아가들 verb|책이구나-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|6|DISLOCATED 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%ort:	ca:, a iken akatul chaykikwuna: . 877151_880740
+*PAU:	0 . 880732_882021
+*MOT:	무슨 책부터 볼까요, 이거 봐 . 882021_884058
+%mor:	det|무슨-Def adv|책부터 verb|보ㄹ까요-Inf-S cm|cm adv|이거 verb|보ㄹ-Inf-S .
+%gra:	1|2|DET 2|3|ADVCL 3|6|CCOMP 4|3|PUNCT 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	musun chaykputhe polkkayo, ike pwa . 882021_884058
+*PAU:	0 . 884175_884930
+*MOT:	이건 초점 책 이건 완전 태어난 지 얼마 안 된 아가들이 보는 책이야, 우와 이 책 되게 좋다: . 884994_891738
+%mor:	pron|이거ㄴ-Int-S1 noun|초점 noun|책 pron|이거ㄴ-Int-S1 noun|완전 verb|태어나ㄴ-Inf-S noun|지 noun|얼마 adv|안 verb|되ㄴ-Inf-S noun|아가들이 verb|보는-Inf-S adv|책이야 cm|cm cconj|우와 det|이-Def noun|책 sconj|되게 adj|좋다-Pos-S1 .
+%gra:	1|19|DISLOCATED 2|3|COMPOUND 3|4|COMPOUND 4|19|DISLOCATED 5|6|DEP 6|7|ACL 7|10|OBL 8|10|ADVMOD 9|10|ADVMOD 10|11|ACL 11|12|NSUBJ 12|13|ACL 13|19|DEP 14|13|PUNCT 15|19|ROOT 16|17|DET 17|18|DEP 18|15|CONJ 19|15|CONJ 20|15|PUNCT
+%ort:	iken chocem chayk iken wancen thayenan ci elma an toyn akatuli ponun chaykiya, wuwa i chayk toykey cohta: . 884994_891738
+*MOT:	애기 태어나는 집에 어 선물로 주면 좋을 책이구만: . 892145_895965
+%mor:	noun|애기 verb|태어나는-Inf-S adv|집에 noun|어 adv|선물로 sconj|주면 adj|좋ㄹ-Pos-S1 verb|책이구만-Inf-S .
+%gra:	1|2|DEP 2|3|ACL 3|6|OBL 4|5|COMPOUND 5|6|ADVCL 6|8|AMOD 7|6|CONJ 8|8|ROOT 9|8|PUNCT
+%ort:	ayki thayenanun cipey e senmullo cwumyen cohul chaykikwuman: . 892145_895965
+*CHI:	어아:어@b . 895936_897528
+%mor:	verb|어아어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ea:e@b . 895936_897528
+*MOT:	우와 이거는 색깔: . 897539_899310
+%mor:	cconj|우와 noun|이거는 noun|색깔 .
+%gra:	1|3|DISLOCATED 2|1|CONJ 3|3|ROOT 4|3|PUNCT
+%ort:	wuwa ikenun saykkkal: . 897539_899310
+*MOT:	빨강 . 899536_900448
+%mor:	noun|빨강 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppalkang . 899536_900448
+*MOT:	초록, 노랑, 보라 색깔 책이구만: . 901570_904973
+%mor:	noun|초록 cm|cm noun|노랑 cm|cm cconj|보라 noun|색깔 verb|책이구만-Inf-S .
+%gra:	1|7|ROOT 2|3|PUNCT 3|1|CONJ 4|3|PUNCT 5|1|CONJ 6|7|COMPOUND 7|1|CONJ 8|1|PUNCT
+%ort:	cholok, nolang, pola saykkkal chaykikwuman: . 901570_904973
+*PAU:	0 . 905049_906099
+*CHI:	우아:@b . 906101_908903
+%mor:	intj|우아 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wua:@b . 906101_908903
+*MOT:	어 . 906945_907827
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 906945_907827
+*MOT:	우와, 이거 봐, 우산 . 908233_909872
+%mor:	cconj|우와 cm|cm adv|이거 verb|보ㄹ-Inf-S cm|cm noun|우산 .
+%gra:	1|4|OBJ 2|1|PUNCT 3|4|ADVMOD 4|6|DEP 5|6|PUNCT 6|6|ROOT 7|6|PUNCT
+%ort:	wuwa, ike pwa, wusan . 908233_909872
+*PAU:	0 . 909925_911254
+*MOT:	이건 전화기 . 911251_912122
+%mor:	pron|이거ㄴ-Int-S1 noun|전화기 .
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	iken cenhwaki . 911251_912122
+*MOT:	뚜뚜뚜뚜:@z:owp . 912389_913933
+%mor:	verb|뚜뚜뚜뚜owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ttwuttwuttwuttwu:@z:owp . 912389_913933
+*CHI:	우와:@b . 912416_914488
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa:@b . 912416_914488
+*MOT:	전화기, 이건 세탁기, 어 우리 집에 있는 거랑 다르게 생겼, 어 시계 [/] 시계, 이름이 좋아하는 시계 . 914524_919576
+%mor:	noun|전화기 cm|cm pron|이거ㄴ-Int-S1 noun|세탁기 cm|cm noun|어 pron|우리-Int-S1 adv|집에 adj|있는-Pos-S1 noun|거랑 sconj|다르게 noun|생겼 cm|cm noun|어 noun|시계 cm|cm noun|이름이 verb|좋아하는-Inf-S noun|시계 .
+%gra:	1|19|DISLOCATED 2|3|PUNCT 3|1|CONJ 4|8|COMPOUND 5|6|PUNCT 6|4|CONJ 7|8|COMPOUND 8|9|OBL 9|10|AMOD 10|11|OBL 11|19|XCOMP 12|15|COMPOUND 13|14|PUNCT 14|12|CONJ 15|19|COMPOUND 16|15|PUNCT 17|18|NSUBJ 18|19|ACL 19|19|ROOT 20|19|PUNCT
+%ort:	cenhwaki, iken seythakki, e wuli cipey issnun kelang talukey sayngkyess, e sikyey [/] sikyey, Namei cohahanun sikyey . 914524_919576
+*MOT:	따르르르르르릉:@z:owp 시계 . 919843_922503
+%mor:	noun|따르르르르르릉owp noun|시계 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ttalulululululung:@z:owp sikyey . 919843_922503
+*PAU:	0 . 922512_923441
+*MOT:	그 다음에 (..) 이거 불 키는 [: 켜는] 스탠드 . 923452_926268
+%mor:	det|그-Def adv|다음에 adv|이거 noun|불 verb|켜는-Inf-S noun|스탠드 .
+%gra:	1|2|DET 2|5|OBL 3|5|ADVMOD 4|5|DEP 5|6|ACL 6|6|ROOT 7|6|PUNCT
+%ort:	ku taumey (..) ike pul khinun [: khyenun] suthayntu . 923452_926268
+*CHI:	어어어:@b . 924253_925728
+%mor:	verb|어어어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	eee:@b . 924253_925728
+*PAU:	0 . 926367_928439
+*CHI:	어@b . 928425_928856
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e@b . 928425_928856
+*MOT:	어 ? 929047_929297
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e ? 929047_929297
+*MOT:	이거 또 할까 우리 ? 929924_930941
+%mor:	pron|이거-Int-S1 adv|또 sconj|하ㄹ까 pron|우리-Int-S1 ?
+%gra:	1|3|OBL 2|3|ADVMOD 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	ike tto halkka wuli ? 929924_930941
+*PAU:	0 . 930981_934716
+*MOT:	또 해 볼까 그거: ? 934684_936222
+%mor:	cconj|또 verb|하어-Inf-S verb|보ㄹ까-Inf-S verb|그거하ㄴ-Inf-S ?
+%gra:	1|2|ADVMOD 2|4|CCOMP 3|2|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	tto hay polkka kuke: ? 934684_936222
+*PAU:	0 . 936209_936813
+*CHI:	xxx . 936836_937724
+%ort:	xxx . 936836_937724
+*MOT:	음: ? 937799_938489
+%mor:	intj|음 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	um: ? 937799_938489
+*PAU:	0 . 938450_945424
+*MOT:	그거 갖고 어디 가 ? 945410_946438
+%mor:	pron|그거이-Int-S1 cconj|갖고 pron|어디-Int-S1 pron|가-Int-S1 ?
+%gra:	1|2|DEP 2|4|ROOT 3|4|COMPOUND 4|2|CONJ 5|2|PUNCT
+%ort:	kuke kacko eti ka ? 945410_946438
+*MOT:	아 엄마가 이럽@u 해서 같이 해 볼까 ? 946965_949020
+%mor:	intj|아 noun|엄마가 verb|이렇ㅁ-Inf-S sconj|하어서 adv|같이 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|6|DISCOURSE 2|3|NSUBJ 3|4|CCOMP 4|6|CCOMP 5|6|ADVMOD 6|7|ROOT 7|6|COMPOUND 8|6|PUNCT
+%ort:	a emmaka ilep@u hayse kathi hay polkka ? 946965_949020
+*PAU:	0 . 948969_949486
+*MOT:	그래 . 949449_949792
+%mor:	verb|그렇어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kulay . 949449_949792
+*PAU:	0 . 949857_951895
+*CHI:	엄머:@b . 951918_953478
+%mor:	intj|엄머 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	emme:@b . 951918_953478
+*MOT:	어, 이름아 이거 되게 재밌는 책이다 . 953528_955979
+%mor:	intj|어 cm|cm adv|이름아 adv|이거 sconj|되게 verb|재밌는-Inf-S verb|책이다-Inf-S .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|ADVMOD 5|6|CCOMP 6|7|CCOMP 7|7|ROOT 8|7|PUNCT
+%ort:	e, Namea ike toykey caymissnun chaykita . 953528_955979
+*CHI:	xxx . 956120_957281
+%ort:	xxx . 956120_957281
+*PAU:	0 . 957252_957786
+*MOT:	어, 저게 뭐지 ? 957780_959341
+%mor:	intj|어 cm|cm adv|저게 verb|뭐이지-Inf-S ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	e, cekey mweci ? 957780_959341
+*PAU:	0 . 959317_959868
+*MOT:	털모자 복슬복슬:@z:owp 따뜻한 털모자: . 959832_964042
+%mor:	noun|털모자 noun|복슬복슬owp verb|따뜻하ㄴ-Inf-S verb|털모자-Inf-S .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%ort:	thelmoca poksulpoksul:@z:owp ttattushan thelmoca: . 959832_964042
+*PAU:	0 . 964079_965002
+*MOT:	신발처럼 발에 신는 거 . 964928_966948
+%mor:	adv|신발처럼 adv|발에 verb|신는-Inf-S verb|거-Inf-S .
+%gra:	1|3|ADVCL 2|3|OBL 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	sinpalchelem paley sinnun ke . 964928_966948
+*MOT:	이거는 관심이 . 967000_967888
+%mor:	pron|이거는-Int-S1 noun|관심이 .
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	ikenun kwansimi . 967000_967888
+*CHI:	안나:@b . 967942_969171
+%mor:	verb|안트아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	anna:@b . 967942_969171
+*MOT:	아, 이거 할까, 우리 컵 쌓기, 쌓아@wp 봅시다@wp, 그거 해 볼까 ? 969173_972507
+%mor:	intj|아 cm|cm adv|이거 sconj|하ㄹ까 cm|cm pron|우리-Int-S1 noun|컵 verb|쌓기-Inf-S cm|cm sconj|쌓아p verb|보ㅂ시다-Inf-S cm|cm pron|그거이-Int-S1 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|14|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|14|CCOMP 5|4|PUNCT 6|7|COMPOUND 7|8|COMPOUND 8|11|DEP 9|8|PUNCT 10|11|CCOMP 11|14|CCOMP 12|11|PUNCT 13|14|DEP 14|15|ROOT 15|14|COMPOUND 16|14|PUNCT
+%ort:	a, ike halkka, wuli khep ssahki, ssaha@wp popsita@wp, kuke hay polkka ? 969173_972507
+*PAU:	0 . 972718_974210
+*MOT:	짜자잔:@z:owp 엄마 봐 봐라 . 974203_976225
+%mor:	noun|짜자잔owp noun|엄마 verb|보ㄹ-Inf-S verb|보아라-Inf-S .
+%gra:	1|2|COMPOUND 2|3|DEP 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	ccacacan:@z:owp emma pwa pwala . 974203_976225
+*MOT:	슝@z:owp [/] 슝@z:owp [/] 슝@z:owp [/] 슝@z:owp [/] 슝@z:owp [/] 슝:@z:owp . 976351_981374
+%mor:	verb|슝owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	syung@z:owp [/] syung@z:owp [/] syung@z:owp [/] syung@z:owp [/] syung@z:owp [/] syung:@z:owp . 976351_981374
+*MOT:	이제 이걸 다시 위로 쌓는 거야 . 981682_983510
+%mor:	adv|이제 pron|이거을-Int-S1 adv|다시 adv|위로 verb|쌓는-Inf-S verb|거이야-Inf-S .
+%gra:	1|6|ADVMOD 2|5|OBL 3|5|ADVMOD 4|5|ADVCL 5|6|CCOMP 6|6|ROOT 7|6|PUNCT
+%ort:	icey ikel tasi wilo ssahnun keya . 981682_983510
+*PAU:	0 . 983524_984226
+*MOT:	짜잔:@z:owp [/] 짜잔@z:owp, 짜잔:@z:owp . 984202_987065
+%mor:	x|짜잔owp cm|cm noun|짜잔owp .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%ort:	ccacan:@z:owp [/] ccacan@z:owp, ccacan:@z:owp . 984202_987065
+*PAU:	0 . 987093_988040
+*MOT:	어, 잘하는데:, 짜짜잔짜잔:@z:owp 짜자잔:@z:owp . 988005_992701
+%mor:	noun|어 cm|cm sconj|잘하는데 cm|cm noun|짜짜잔짜잔owp verb|짜자잔ow이p-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|6|CCOMP 4|3|PUNCT 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%ort:	e, calhanuntey:, ccaccacanccacan:@z:owp ccacacan:@z:owp . 988005_992701
+*MOT:	짠:@z:owp 이렇게 다시 쌓는 거야 . 992779_994468
+%mor:	noun|짠owp sconj|이렇게 adv|다시 verb|쌓는-Inf-S verb|거이야-Inf-S .
+%gra:	1|4|NSUBJ 2|4|XCOMP 3|4|ADVMOD 4|5|CCOMP 5|5|ROOT 6|5|PUNCT
+%ort:	ccan:@z:owp ilehkey tasi ssahnun keya . 992779_994468
+*MOT:	너가 해 볼래 ? 994793_995465
+%mor:	pron|너가-Int-S1 verb|하어-Inf-S verb|보ㄹ래-Inf-S ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	neka hay pollay ? 994793_995465
+*PAU:	0 . 995919_998775
+*MOT:	와: . 998756_999466
+%mor:	cconj|와 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wa: . 998756_999466
+*PAU:	0 . 999501_1001266
+*MOT:	우리 다시 해 보자 . 1001235_1002431
+%mor:	pron|우리-Int-S1 adv|다시 verb|하어-Inf-S verb|보자-Inf-S .
+%gra:	1|3|OBL 2|3|ADVMOD 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	wuli tasi hay poca . 1001235_1002431
+*PAU:	0 . 1002427_1003750
+*MOT:	이름이가 쌓아@wp 봅시다@wp . 1003744_1005393
+%mor:	noun|이름이가 sconj|쌓아p verb|보ㅂ시다-Inf-S .
+%gra:	1|2|NSUBJ 2|3|CCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	Nameika ssaha@wp popsita@wp . 1003744_1005393
+*PAU:	0 . 1005387_1005979
+*MOT:	xxx . 1006094_1006721
+%ort:	xxx . 1006094_1006721
+*MOT:	오: . 1006744_1008870
+%mor:	intj|오 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	o: . 1006744_1008870
+*PAU:	0 . 1008882_1009892
+*MOT:	오 . 1009855_1010099
+%mor:	intj|오 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	o . 1009855_1010099
+*MOT:	오: 오 . 1011649_1013448
+%mor:	intj|오 noun|오 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	o: o . 1011649_1013448
+*MOT:	오: 잘한다 . 1014168_1015673
+%mor:	noun|오 verb|잘하ㄴ다-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	o: calhanta . 1014168_1015673
+*MOT:	우와: . 1017053_1018799
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1017053_1018799
+*MOT:	잘하는데:, 어 그거 그럼 거꾸로 해 볼까 ? 1019960_1022733
+%mor:	sconj|잘하는데 cm|cm intj|어 pron|그거이-Int-S1 adv|그럼 adv|거꾸로 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|7|CCOMP 2|1|PUNCT 3|7|DISCOURSE 4|7|OBL 5|7|ADVMOD 6|5|ADVMOD 7|8|ROOT 8|7|COMPOUND 9|7|PUNCT
+%ort:	calhanuntey:, e kuke kulem kekkwulo hay polkka ? 1019960_1022733
+*PAU:	0 . 1022978_1023582
+*MOT:	엄마가 이렇게 잡아 줄게, 자 . 1024080_1025636
+%mor:	noun|엄마가 sconj|이렇게 verb|잡아-Inf-S verb|줄게-Inf-S cm|cm intj|자 .
+%gra:	1|3|NSUBJ 2|3|XCOMP 3|6|ROOT 4|3|COMPOUND 5|6|PUNCT 6|3|DISCOURSE 7|3|PUNCT
+%ort:	emmaka ilehkey capa cwulkey, ca . 1024080_1025636
+*MOT:	쌓아 봐 . 1026479_1026873
+%mor:	verb|쌓아-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	ssaha pwa . 1026479_1026873
+*MOT:	우와: 잘했다 . 1027251_1028425
+%mor:	cconj|우와 verb|잘하었다-Inf-S .
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	wuwa: calhayssta . 1027251_1028425
+*MOT:	그 다음은 뭐 해 볼까: ? 1028489_1029958
+%mor:	det|그-Def noun|다음은 adv|뭐 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|2|DET 2|4|DISLOCATED 3|4|ADVMOD 4|5|ROOT 5|4|COMPOUND 6|4|PUNCT
+%ort:	ku taumun mwe hay polkka: ? 1028489_1029958
+*MOT:	어 xxx 쏙@o 들어갔어 . 1030085_1031658
+%mor:	adv|어 adv|쏙 verb|들어가ㅆ어-Inf-S .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	e xxx ssok@o tulekasse . 1030085_1031658
+*PAU:	0 . 1031693_1032442
+*MOT:	또 뭐 해 볼까: ? 1032425_1033502
+%mor:	cconj|또 adv|뭐 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|3|CC 2|3|ADVMOD 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	tto mwe hay polkka: ? 1032425_1033502
+*PAU:	0 . 1033437_1036908
+*MOT:	짜:잔@z:owp, 오: . 1036873_1040240
+%mor:	x|짜잔owp cm|cm noun|오 .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%ort:	cca:can@z:owp, o: . 1036873_1040240
+*PAU:	0 . 1040210_1041202
+*MOT:	그 다음에 . 1041200_1041989
+%mor:	det|그-Def adv|다음에 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%ort:	ku taumey . 1041200_1041989
+*MOT:	오 이번엔 까만색: . 1042907_1045321
+%mor:	intj|오 noun|이번에는 verb|까만이ㄴ-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DISLOCATED 3|3|ROOT 4|3|PUNCT
+%ort:	o ipeneyn kkamansayk: . 1042907_1045321
+*MOT:	그 다음에 (..) 파란색: . 1045567_1048528
+%mor:	det|그-Def adv|다음에 noun|파란색 .
+%gra:	1|2|DET 2|3|OBL 3|3|ROOT 4|3|PUNCT
+%ort:	ku taumey (..) phalansayk: . 1045567_1048528
+*PAU:	0 . 1048570_1048901
+*MOT:	우와: 잘했습니다: . 1048901_1051182
+%mor:	cconj|우와 verb|잘하었습니다-Inf-S .
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	wuwa: calhaysssupnita: . 1048901_1051182
+*MOT:	두 개가 없어졌어: . 1051500_1053051
+%mor:	num|두 noun|개가 verb|없어지었어-Inf-S .
+%gra:	1|2|NUMMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%ort:	twu kayka epsecyesse: . 1051500_1053051
+*PAU:	0 . 1053104_1055530
+*MOT:	우리 뭐가 [/] 뭐가 &~숨 xxx 어, 넘어졌다: . 1055524_1059336
+%mor:	pron|우리-Int-S1 pron|뭐가-Int-S1 noun|어 cm|cm verb|넘어지었다-Inf-S .
+%gra:	1|2|COMPOUND 2|5|NSUBJ 3|5|COMPOUND 4|3|PUNCT 5|5|ROOT 6|5|PUNCT
+%ort:	wuli mweka [/] mweka &swum xxx e, nemecyessta: . 1055524_1059336
+*MOT:	다시 한 번 해 볼까, 그러면 ? 1059353_1060874
+%mor:	adv|다시 num|한 noun|번 verb|하어-Inf-S verb|보ㄹ까-Inf-S cm|cm verb|그러면-Inf-S ?
+%gra:	1|4|ADVMOD 2|3|NUMMOD 3|4|DEP 4|7|ROOT 5|4|COMPOUND 6|7|PUNCT 7|4|CONJ 8|4|PUNCT
+%ort:	tasi han pen hay polkka, kulemyen ? 1059353_1060874
+*PAU:	0 . 1060876_1064103
+*MOT:	쌓아@wp 봅시다@wp . 1063973_1065350
+%mor:	sconj|쌓아p verb|보ㅂ시다-Inf-S .
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	ssaha@wp popsita@wp . 1063973_1065350
+*PAU:	0 . 1065415_1067772
+*MOT:	쌓아@wp 봅시다:@wp . 1067579_1069525
+%mor:	sconj|쌓아p verb|보ㅂ시다-Inf-S .
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	ssaha@wp popsita:@wp . 1067579_1069525
+*CHI:	엄메:@b . 1070522_1072358
+%mor:	verb|엄메-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	emmey:@b . 1070522_1072358
+*MOT:	멍멍@z:owp . 1072631_1073240
+%mor:	verb|멍멍ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng@z:owp . 1072631_1073240
+*PAU:	0 . 1073211_1074645
+*MOT:	멍멍@z:owp . 1074662_1075143
+%mor:	verb|멍멍ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng@z:owp . 1074662_1075143
+*PAU:	0 . 1075092_1075574
+*MOT:	멍멍아:@o . 1075504_1077030
+%mor:	verb|멍멍아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmenga:@o . 1075504_1077030
+*CHI:	엄메:@b . 1077013_1079677
+%mor:	verb|엄메-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	emmey:@b . 1077013_1079677
+*MOT:	멍뭉@o 아이고 . 1079112_1080026
+%mor:	noun|멍뭉 verb|아이고-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	mengmung@o aiko . 1079112_1080026
+*PAU:	0 . 1080067_1080734
+*MOT:	뽀뽀 . 1080770_1081252
+%mor:	intj|뽀뽀 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppoppo . 1080770_1081252
+*PAU:	0 . 1081333_1081989
+*MOT:	멍멍이@o 코 . 1081941_1082744
+%mor:	noun|멍멍이 verb|코-Inf-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%ort:	mengmengi@o kho . 1081941_1082744
+*PAU:	0 . 1082750_1083481
+*CHI:	음메:@b . 1083510_1084925
+%mor:	intj|음메 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey:@b . 1083510_1084925
+*MOT:	음무 이거는 xxx 우웨: . 1084608_1088253
+%mor:	noun|음무 noun|이거는 verb|우웨-Inf-S .
+%gra:	1|2|COMPOUND 2|3|DISLOCATED 3|3|ROOT 4|3|PUNCT
+%ort:	ummu ikenun xxx wuwey: . 1084608_1088253
+*PAU:	0 . 1088197_1091715
+*MOT:	부외@u . 1091633_1092951
+%mor:	intj|부외 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	puoy@u . 1091633_1092951
+*CHI:	xxx . 1093085_1094025
+%ort:	xxx . 1093085_1094025
+*MOT:	xxx . 1093954_1094238
+%ort:	xxx . 1093954_1094238
+*MOT:	이름아 이거 봐 . 1094273_1095093
+%mor:	adv|이름아 adv|이거 verb|보ㄹ-Inf-S .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	Namea ike pwa . 1094273_1095093
+*MOT:	<우와: 너를 잡아 먹겠다, 으아:> [=! role plays] . 1095406_1100499
+%mor:	cconj|우와 pron|너를-Int-S1 sconj|잡아 verb|먹겠다-Inf-S cm|cm verb|쉬아-Inf-S .
+%gra:	1|3|OBJ 2|1|CONJ 3|4|CCOMP 4|6|ROOT 5|6|PUNCT 6|4|CONJ 7|4|PUNCT
+%ort:	<wuwa: nelul capa mekkeyssta, ua:> [=! role plays] . 1095406_1100499
+*PAU:	0 . 1100528_1101364
+*MOT:	<우외: 나는 공룡이다> [=! role plays] . 1101386_1103889
+%mor:	noun|우외 pron|나는-Int-S1 verb|공룡이다-Inf-S .
+%gra:	1|2|COMPOUND 2|3|DISLOCATED 3|3|ROOT 4|3|PUNCT
+%ort:	<wuoy: nanun konglyongita> [=! role plays] . 1101386_1103889
+*MOT:	<입을 쫙:@z:owp 벌릴 수가 있지> [=! role plays] . 1104249_1106217
+%mor:	noun|입을 sconj|쫙owp verb|벌리ㄹ-Inf-S noun|수가 adj|있지-Pos-S1 .
+%gra:	1|2|OBJ 2|3|CCOMP 3|5|ROOT 4|3|OBL 5|4|FIXED 6|3|PUNCT
+%ort:	<ipul ccwak:@z:owp pellil swuka issci> [=! role plays] . 1104249_1106217
+*MOT:	이야: . 1106675_1108438
+%mor:	intj|이야 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iya: . 1106675_1108438
+*CHI:	우아:@b . 1108068_1110737
+%mor:	intj|우아 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wua:@b . 1108068_1110737
+*MOT:	<우와: 안 돼: 내 친구 물지 마> [=! role plays] . 1110195_1113504
+%mor:	cconj|우와 adv|안 sconj|되어 pron|내-Int-S1 noun|친구 noun|물지 verb|마-Inf-S .
+%gra:	1|7|CCOMP 2|3|ADVMOD 3|1|CONJ 4|5|COMPOUND 5|6|COMPOUND 6|7|DEP 7|7|ROOT 8|7|PUNCT
+%ort:	<wuwa: an tway: nay chinkwu mulci ma> [=! role plays] . 1110195_1113504
+*MOT:	<으: 지지야:> [=! role plays] . 1113620_1115106
+%mor:	intj|으 verb|지지이야-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	<u: ciciya:> [=! role plays] . 1113620_1115106
+*PAU:	0 . 1115096_1117429
+*MOT:	자 [/] 자:, 두 손으로 . 1117435_1119368
+%mor:	intj|자 cm|cm num|두 adv|손으로 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+%ort:	ca [/] ca:, twu sonulo . 1117435_1119368
+*MOT:	<xxx 이름아> [=! role plays], 우와: . 1119584_1123235
+%mor:	noun|이름아 cm|cm verb|우오아-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	<xxx Namea> [=! role plays], wuwa: . 1119584_1123235
+*MOT:	이거 봐, 이름아 . 1123296_1124077
+%mor:	adv|이거 verb|보ㄹ-Inf-S cm|cm verb|이름아-Inf-S .
+%gra:	1|2|ADVMOD 2|4|COMPOUND 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	ike pwa, Namea . 1123296_1124077
+*MOT:	<안 돼:, 물지 마, 아야 [/] 아야 [/] 아야 아프다구:> [=! role plays] . 1124164_1128380
+%mor:	adv|안 sconj|되어 cm|cm noun|물지 intj|마 cm|cm noun|아야 adj|아프다구-Pos-S1 .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|PUNCT 4|5|COMPOUND 5|8|DEP 6|5|PUNCT 7|8|COMPOUND 8|2|CONJ 9|2|PUNCT
+%ort:	<an tway:, mulci ma, aya [/] aya [/] aya aphutakwu:> [=! role plays] . 1124164_1128380
+*PAU:	0 . 1128306_1129078
+*MOT:	<아야 [/] 아야 [/] 아야 아프다구:, 멍멍이가:@o> [=! role plays] . 1129107_1131969
+%mor:	noun|아야 noun|아프다구 cm|cm noun|멍멍이가 .
+%gra:	1|4|COMPOUND 2|1|FLAT 3|4|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	<aya [/] aya [/] aya aphutakwu:, mengmengika:@o> [=! role plays] . 1129107_1131969
+*PAU:	0 . 1131911_1134500
+*CHI:	음메:어:@b . 1134436_1137501
+%mor:	verb|음메어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey:e:@b . 1134436_1137501
+*MOT:	멍멍아:@z:owp . 1134541_1136550
+%mor:	verb|멍멍아ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmenga:@z:owp . 1134541_1136550
+*MOT:	멍멍아:@z:owp . 1137508_1139098
+%mor:	verb|멍멍아ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmenga:@z:owp . 1137508_1139098
+*CHI:	아부요:@b . 1139100_1140825
+%mor:	verb|아부이요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	apuyo:@b . 1139100_1140825
+*MOT:	어 . 1140692_1141052
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 1140692_1141052
+*MOT:	<나는 공룡이다:> [=! role plays] . 1142184_1144314
+%mor:	pron|나는-Int-S1 verb|공룡이다-Inf-S .
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	<nanun konglyongita:> [=! role plays] . 1142184_1144314
+*PAU:	0 . 1144207_1145484
+*CHI:	xxx . 1145459_1146645
+%ort:	xxx . 1145459_1146645
+*PAU:	0 . 1146625_1147949
+*MOT:	짜잔:@z:owp . 1147954_1149266
+%mor:	verb|짜잔ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccacan:@z:owp . 1147954_1149266
+*PAU:	0 . 1149465_1150609
+*CHI:	엄:@b . 1150545_1151192
+%mor:	intj|엄 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	em:@b . 1150545_1151192
+*MOT:	짜잔:@z:owp . 1151410_1152600
+%mor:	verb|짜잔ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccacan:@z:owp . 1151410_1152600
+*PAU:	0 . 1152676_1154511
+*CHI:	xxx . 1154505_1155504
+%ort:	xxx . 1154505_1155504
+*PAU:	0 . 1155508_1164250
+*CHI:	엄:@b . 1164248_1165606
+%mor:	intj|엄 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	em:@b . 1164248_1165606
+*MOT:	응: ? 1165767_1166837
+%mor:	intj|응 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung: ? 1165767_1166837
+*PAU:	0 . 1166883_1168317
+*MOT:	<내가 먹었 아웅아웅아웅아웅아웅@z:owp 아우 맛있다> [=! role plays] . 1168311_1171582
+%mor:	pron|내가-Int-S1 verb|먹었다-Inf-S noun|아웅아웅아웅아웅아웅owp noun|아우 adj|맛있다-Pos-S1 .
+%gra:	1|2|NSUBJ 2|3|ACL 3|5|DEP 4|5|DEP 5|5|ROOT 6|5|PUNCT
+%ort:	<nayka mekess awungawungawungawungawung@z:owp awu masissta> [=! role plays] . 1168311_1171582
+*MOT:	<아웅아웅웅웅웅웅@z:owp [/] 아웅아웅아웅아웅아웅@z:owp> [=! role plays] . 1171582_1174699
+%mor:	verb|아웅아웅아웅아웅아웅ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	<awungawungwungwungwungwung@z:owp [/] awungawungawungawungawung@z:owp> [=! role plays] . 1171582_1174699
+*MOT:	<내다@u 잉얌얌얌얌얌얌@z:owp> [=! role plays] . 1176295_1178576
+%mor:	verb|내ㄴ다-Inf-S verb|잉얌얌얌얌얌얌owp-Inf-S .
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	<nayta@u ingyamyamyamyamyamyam@z:owp> [=! role plays] . 1176295_1178576
+*CHI:	xxx . 1177852_1179001
+%ort:	xxx . 1177852_1179001
+*PAU:	0 . 1178962_1179583
+*MOT:	그렇다고 던지다니 . 1179518_1180953
+%mor:	verb|그렇다고-Inf-S verb|던지ㄴ다-Inf-S .
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	kulehtako tencitani . 1179518_1180953
+*PAU:	0 . 1181042_1181756
+*MOT:	자, 가져가라 . 1181730_1183514
+%mor:	intj|자 cm|cm verb|가지어가라-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	ca, kacyekala . 1181730_1183514
+*PAU:	0 . 1183451_1184235
+*MOT:	<그럼 이름이 손을 먹어야겠다> [=! role plays] . 1184506_1186091
+%mor:	cconj|그럼 noun|이름이 noun|손을 verb|먹어야겠다-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+%ort:	<kulem Namei sonul mekeyakeyssta> [=! role plays] . 1184506_1186091
+*MOT:	xxx . 1186103_1186927
+%ort:	xxx . 1186103_1186927
+*MOT:	<손을 먹어야겠다, 아웅아웅아웅아웅아웅아웅아웅아웅아웅@z:owp> [=! role plays] . 1186955_1190417
+%mor:	noun|손을 verb|먹어야겠다-Inf-S cm|cm verb|아웅아웅아웅아웅아웅웅웅아웅웅아wp-Inf-S .
+%gra:	1|2|OBJ 2|4|CCOMP 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	<sonul mekeyakeyssta, awungawungawungawungawungawungawungawungawung@z:owp> [=! role plays] . 1186955_1190417
+*PAU:	0 . 1190406_1190847
+*MOT:	xxx . 1190853_1191056
+%ort:	xxx . 1190853_1191056
+*PAU:	0 . 1191117_1192220
+*MOT:	<이름이 발을 먹어야겠다> [=! role plays] . 1192198_1194252
+%mor:	noun|이름이 noun|발을 verb|먹어야겠다-Inf-S .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%ort:	<Namei palul mekeyakeyssta> [=! role plays] . 1192198_1194252
+*MOT:	아웅아웅아웅아웅아웅아웅아웅아웅아웅@z:owp [=! role plays] . 1194501_1196931
+%mor:	verb|아웅아웅아웅아웅아웅웅웅아웅웅아wp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	awungawungawungawungawungawungawungawungawung@z:owp [=! role plays] . 1194501_1196931
+*PAU:	0 . 1196985_1198337
+*MOT:	안녕: [=! role plays] . 1198345_1200016
+%mor:	intj|안녕 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	annyeng: [=! role plays] . 1198345_1200016
+*PAU:	0 . 1200011_1201079
+*CHI:	응:@b . 1201083_1201960
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 1201083_1201960
+*PAU:	0 . 1201851_1202647
+*MOT:	응 ? 1202623_1202878
+%mor:	intj|응 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung ? 1202623_1202878
+*PAU:	0 . 1202897_1205184
+*MOT:	응:, 아: 이거 이렇게 구멍에: 넣는 거구나:, 이것도 재밌겠다, 이름아 . 1205139_1210339
+%mor:	intj|응 cm|cm intj|아 adv|이거 sconj|이렇게 adv|구멍에 verb|넣는-Inf-S cconj|거구나 cm|cm adv|이것도 verb|재밌겠다-Inf-S cm|cm verb|이름아-Inf-S .
+%gra:	1|13|DISCOURSE 2|1|PUNCT 3|13|DISCOURSE 4|7|ADVMOD 5|7|XCOMP 6|7|OBL 7|8|ACL 8|13|ROOT 9|11|PUNCT 10|11|ADVCL 11|13|COMPOUND 12|11|PUNCT 13|8|CONJ 14|8|PUNCT
+%ort:	ung:, a: ike ilehkey kwumengey: nehnun kekwuna:, ikesto caymisskeyssta, Namea . 1205139_1210339
+*PAU:	0 . 1210355_1210709
+*MOT:	이것도 해 볼래 ? 1210690_1211497
+%mor:	adv|이것도 verb|하어-Inf-S verb|보ㄹ래-Inf-S ?
+%gra:	1|2|ADVCL 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	ikesto hay pollay ? 1210690_1211497
+*PAU:	0 . 1211636_1212501
+*MOT:	짜잔:@z:owp 여기다가 맞는 모양을 찾아서 이렇게 쏙@o 넣을 수가 있어 . 1212513_1219145
+%mor:	x|짜잔owp adv|여기다가 verb|맞는-Inf-S noun|모양을 sconj|찾아서 sconj|이렇게 adv|쏙 verb|넣ㄹ-Inf-S noun|수가 adj|있어-Pos-S1 .
+%gra:	1|3|ADVCL 2|1|FLAT 3|4|ACL 4|5|OBJ 5|8|CCOMP 6|8|XCOMP 7|8|ADVMOD 8|10|ROOT 9|8|OBL 10|9|FIXED 11|8|PUNCT
+%ort:	ccacan:@z:owp yekitaka macnun moyangul chacase ilehkey ssok@o nehul swuka isse . 1212513_1219145
+*PAU:	0 . 1219128_1220173
+*MOT:	그건 똥그라미니까 [: 동그라미니까] 똥그라미에다 [: 동그라미에다] 넣어야겠지 ? 1220094_1222323
+%mor:	pron|그거ㄴ-Int-S1 noun|동그라미니까 adv|동그라미에다 verb|넣어야겠지-Inf-S ?
+%gra:	1|4|DISLOCATED 2|4|ADVCL 3|4|ADVCL 4|4|ROOT 5|4|PUNCT
+%ort:	kuken ttongkulaminikka [: tongkulaminikka] ttongkulamieyta [: tongkulamieyta] neheyakeyssci ? 1220094_1222323
+*MOT:	xxx 그렇지, 야 쏙@o 들어가네: . 1222663_1225118
+%mor:	sconj|그렇지 cm|cm noun|야 adv|쏙 verb|들어가네-Inf-S .
+%gra:	1|5|XCOMP 2|1|PUNCT 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%ort:	xxx kulehci, ya ssok@o tulekaney: . 1222663_1225118
+*MOT:	이것도 . 1225346_1225722
+%mor:	verb|이것도-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ikesto . 1225346_1225722
+*PAU:	0 . 1225915_1226565
+*MOT:	똥그라미 [: 동그라미] 구멍에 맞춰서 쏙@o 오: 잘하는데: ? 1226590_1229887
+%mor:	noun|동그라미 adv|구멍에 sconj|맞추어서 adv|쏙 noun|오 verb|잘하는데-Inf-S ?
+%gra:	1|2|COMPOUND 2|3|OBL 3|6|CCOMP 4|6|ADVMOD 5|6|DEP 6|6|ROOT 7|6|PUNCT
+%ort:	ttongkulami [: tongkulami] kwumengey macchwese ssok@o o: calhanuntey: ? 1226590_1229887
+*PAU:	0 . 1229802_1230377
+*MOT:	자, 그거는 아마 여기에 맞을 거 같애, 이름아, 여기 [/] 여기 . 1230394_1234388
+%mor:	intj|자 cm|cm pron|그거는-Int-S1 adv|아마 adv|여기에 verb|맞ㄹ-Inf-S noun|거 adj|같애-Pos-S1 cm|cm intj|이름아 cm|cm pron|여기-Int-S1 .
+%gra:	1|12|DISCOURSE 2|1|PUNCT 3|12|DISLOCATED 4|8|ADVMOD 5|6|OBL 6|7|ACL 7|8|OBL 8|12|DEP 9|8|PUNCT 10|12|COMPOUND 11|10|PUNCT 12|12|ROOT 13|12|PUNCT
+%ort:	ca, kukenun ama yekiey macul ke kathay, Namea, yeki [/] yeki . 1230394_1234388
+*MOT:	봐 봐, 이거랑 모양이 똑같잖아 . 1234509_1236204
+%mor:	verb|보ㄹ-Inf-S sconj|보아 cm|cm noun|이거랑 noun|모양이 verb|똑같히아-Inf-S .
+%gra:	1|2|CCOMP 2|6|CCOMP 3|2|PUNCT 4|5|COMPOUND 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%ort:	pwa pwa, ikelang moyangi ttokkathcanha . 1234509_1236204
+*PAU:	0 . 1236135_1236519
+*MOT:	한번 이렇게 넣어 볼래 ? 1236536_1237691
+%mor:	noun|한번 sconj|이렇게 sconj|넣어 verb|보ㄹ래-Inf-S ?
+%gra:	1|4|OBL 2|3|XCOMP 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	hanpen ilehkey nehe pollay ? 1236536_1237691
+*PAU:	0 . 1237691_1238594
+*MOT:	아이고, 다시 한번 해 볼래 ? 1238547_1240162
+%mor:	cconj|아이고 cm|cm adv|다시 noun|한번 verb|하어-Inf-S verb|보ㄹ래-Inf-S ?
+%gra:	1|6|ROOT 2|1|PUNCT 3|5|ADVMOD 4|5|DEP 5|1|CONJ 6|5|COMPOUND 7|1|PUNCT
+%ort:	aiko, tasi hanpen hay pollay ? 1238547_1240162
+*PAU:	0 . 1240138_1241933
+*MOT:	자, 넣어 봐 . 1241897_1242423
+%mor:	intj|자 cm|cm verb|넣어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%ort:	ca, nehe pwa . 1241897_1242423
+*PAU:	0 . 1242525_1243344
+*MOT:	넣어 봐 . 1243302_1243609
+%mor:	verb|넣어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	nehe pwa . 1243302_1243609
+*MOT:	쑝:@z:owp 이거 봐 . 1243887_1244874
+%mor:	x|쑝owp adv|이거 verb|보ㄹ-Inf-S .
+%gra:	1|3|OBL 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	ssyong:@z:owp ike pwa . 1243887_1244874
+*MOT:	구멍이 모양이 똑같으니까 들어가지 . 1245036_1246987
+%mor:	noun|구멍이 noun|모양이 sconj|똑같으니까 verb|들어가지-Inf-S .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|4|XCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	kwumengi moyangi ttokkathunikka tulekaci . 1245036_1246987
+*MOT:	xxx . 1246987_1247539
+%ort:	xxx . 1246987_1247539
+*MOT:	걘 너무 커: . 1247550_1249090
+%mor:	noun|걘 adv|너무 noun|커 .
+%gra:	1|3|COMPOUND 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	kyayn nemu khe: . 1247550_1249090
+*MOT:	너무 커: . 1249632_1250636
+%mor:	adv|너무 noun|커 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	nemu khe: . 1249632_1250636
+*PAU:	0 . 1250652_1251354
+*MOT:	얘는 세모 . 1251327_1252310
+%mor:	noun|얘는 verb|세이모-Inf-S .
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	yaynun seymo . 1251327_1252310
+*MOT:	그건 세모 모양 여깄다 . 1252455_1253696
+%mor:	pron|그거ㄴ-Int-S1 noun|세모 noun|모양 verb|여깄다-Inf-S .
+%gra:	1|4|DISLOCATED 2|3|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	kuken seymo moyang yekissta . 1252455_1253696
+*PAU:	0 . 1253657_1254214
+*MOT:	그렇지:, 세모 [/] 세모 [/] 세모, 딴:@z:owp . 1254749_1258054
+%mor:	verb|그렇지-Inf-S cm|cm noun|세모 cm|cm noun|딴owp .
+%gra:	1|5|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|1|CONJ 6|1|PUNCT
+%ort:	kulehci:, seymo [/] seymo [/] seymo, ttan:@z:owp . 1254749_1258054
+*PAU:	0 . 1258043_1259320
+*MOT:	기나나@u 걔는 안 들어가, 너무 커 . 1259295_1261932
+%mor:	cconj|기나나 noun|걔는 adv|안 sconj|들어가아 cm|cm adv|너무 noun|커 .
+%gra:	1|4|DISLOCATED 2|1|CONJ 3|4|ADVMOD 4|7|CCOMP 5|4|PUNCT 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%ort:	kinana@u kyaynun an tuleka, nemu khe . 1259295_1261932
+*CHI:	xxx . 1259494_1260266
+%ort:	xxx . 1259494_1260266
+*MOT:	이건 네모 . 1262080_1262735
+%mor:	pron|이거ㄴ-Int-S1 noun|네모 .
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	iken neymo . 1262080_1262735
+*PAU:	0 . 1262730_1263217
+*MOT:	이건 들어가, 네모 구멍에 . 1263194_1264695
+%mor:	pron|이거ㄴ-Int-S1 sconj|들어가아 cm|cm noun|네모 adv|구멍에 .
+%gra:	1|2|DISLOCATED 2|5|CCOMP 3|2|PUNCT 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%ort:	iken tuleka, neymo kwumengey . 1263194_1264695
+*PAU:	0 . 1264701_1265334
+*MOT:	네모: [/] 네모 여깄잖아 . 1265320_1266808
+%mor:	noun|네모 verb|여깄잖아-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	neymo: [/] neymo yekisscanha . 1265320_1266808
+*MOT:	아닌데, 어딨지 ? 1266837_1267533
+%mor:	sconj|아니ㄴ데 cm|cm verb|어딨지-Inf-S ?
+%gra:	1|3|XCOMP 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	anintey, etissci ? 1266837_1267533
+*PAU:	0 . 1267557_1267885
+*MOT:	네모, 여기다 넣으면 되겠다 . 1267820_1269406
+%mor:	noun|네모 cm|cm adv|여기다 sconj|넣으면 verb|되겠다-Inf-S .
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|4|ADVMOD 4|5|CCOMP 5|5|ROOT 6|5|PUNCT
+%ort:	neymo, yekita nehumyen toykeyssta . 1267820_1269406
+*PAU:	0 . 1269445_1270608
+*MOT:	네모: . 1270513_1271506
+%mor:	noun|네모 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	neymo: . 1270513_1271506
+*MOT:	누르세요: . 1271755_1272911
+%mor:	verb|누르세요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	nwuluseyyo: . 1271755_1272911
+*PAU:	0 . 1273104_1274230
+*MOT:	누르세요: . 1274222_1275552
+%mor:	verb|누르세요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	nwuluseyyo: . 1274222_1275552
+*PAU:	0 . 1275571_1276588
+*CHI:	엄:@b . 1276575_1277749
+%mor:	intj|엄 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	em:@b . 1276575_1277749
+*MOT:	또 어디 가 ? 1277736_1278347
+%mor:	cconj|또 intj|어디 pron|가-Int-S1 ?
+%gra:	1|3|CC 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+%ort:	tto eti ka ? 1277736_1278347
+*PAU:	0 . 1278357_1278758
+*CHI:	음:비@b . 1278740_1280055
+%mor:	intj|음비 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	um:pi@b . 1278740_1280055
+*MOT:	어: ? 1280342_1281294
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e: ? 1280342_1281294
+*CHI:	음비:@b . 1281276_1282774
+%mor:	intj|음비 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	umpi:@b . 1281276_1282774
+*MOT:	음메: . 1282753_1284609
+%mor:	intj|음메 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey: . 1282753_1284609
+*CHI:	음메:@b . 1284010_1285850
+%mor:	intj|음메 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey:@b . 1284010_1285850
+*MOT:	우와:, 공룡이다: . 1285323_1288407
+%mor:	cconj|우와 cm|cm verb|공룡이다-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	wuwa:, konglyongita: . 1285323_1288407
+*PAU:	0 . 1288374_1288809
+*CHI:	음메:@z:owp . 1288814_1290294
+%mor:	noun|음메owp .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey:@z:owp . 1288814_1290294
+*MOT:	멍멍이@o 여깄어, 이름아 . 1289453_1290632
+%mor:	noun|멍멍이 verb|여깄어-Inf-S cm|cm verb|이름아-Inf-S .
+%gra:	1|2|NSUBJ 2|4|COMPOUND 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	mengmengi@o yekisse, Namea . 1289453_1290632
+*PAU:	0 . 1290617_1290919
+*MOT:	멍멍이@o . 1290905_1291348
+%mor:	noun|멍멍이 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmengi@o . 1290905_1291348
+*PAU:	0 . 1291354_1292233
+*MOT:	멍멍이:@o, 어, 여기 들어가 볼래 ? 1292204_1294406
+%mor:	noun|멍멍이 cm|cm intj|어 cm|cm pron|여기-Int-S1 sconj|들어가아 verb|보ㄹ래-Inf-S ?
+%gra:	1|7|OBL 2|1|PUNCT 3|7|VOCATIVE 4|3|PUNCT 5|6|DEP 6|7|CCOMP 7|7|ROOT 8|7|PUNCT
+%ort:	mengmengi:@o, e, yeki tuleka pollay ? 1292204_1294406
+*PAU:	0 . 1294462_1295911
+*MOT:	얘는 뭐야: ? 1295880_1297169
+%mor:	pron|얘는-Int-S1 verb|뭐이야-Inf-S ?
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	yaynun mweya: ? 1295880_1297169
+*PAU:	0 . 1297176_1297612
+*MOT:	xxx 문 열어 볼까 ? 1297572_1299691
+%mor:	noun|문 verb|열어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	xxx mun yele polkka ? 1297572_1299691
+*MOT:	들어오세요: . 1300377_1301789
+%mor:	verb|들어오세요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tuleoseyyo: . 1300377_1301789
+*PAU:	0 . 1301858_1303679
+*MOT:	까꿍:@z:owp . 1303664_1305007
+%mor:	verb|까꿍owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkakkwung:@z:owp . 1303664_1305007
+*PAU:	0 . 1304991_1307290
+*MOT:	이름아, 까꿍:@z:owp . 1307313_1309089
+%mor:	noun|이름아 cm|cm noun|까꿍owp .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	Namea, kkakkwung:@z:owp . 1307313_1309089
+*PAU:	0 . 1309092_1311327
+*MOT:	이름아: . 1311345_1312347
+%mor:	verb|이름아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	Namea: . 1311345_1312347
+*MOT:	문 닫아주세요: . 1313247_1314967
+%mor:	noun|문 verb|닫아주세요-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	mun tatacwuseyyo: . 1313247_1314967
+*PAU:	0 . 1314963_1315352
+*MOT:	문 닫아주세요: . 1315966_1317645
+%mor:	noun|문 verb|닫아주세요-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	mun tatacwuseyyo: . 1315966_1317645
+*PAU:	0 . 1317668_1319619
+*CHI:	xxx . 1319693_1320800
+%ort:	xxx . 1319693_1320800
+*MOT:	까꿍:@z:owp . 1320771_1322001
+%mor:	verb|까꿍owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkakkwung:@z:owp . 1320771_1322001
+*CHI:	음메:@b . 1322014_1323500
+%mor:	intj|음메 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey:@b . 1322014_1323500
+*PAU:	0 . 1323558_1325520
+*MOT:	안녕하세요:, 야옹@z:owp . 1325484_1328404
+%mor:	adv|안녕하세요 cm|cm noun|야옹owp .
+%gra:	1|3|DEP 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	annyenghaseyyo:, yaong@z:owp . 1325484_1328404
+*PAU:	0 . 1328631_1330826
+*MOT:	당근 . 1330819_1331610
+%mor:	noun|당근 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tangkun . 1330819_1331610
+*PAU:	0 . 1331902_1333510
+*MOT:	아 . 1333488_1333869
+%mor:	intj|아 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	a . 1333488_1333869
+*PAU:	0 . 1333929_1334916
+*CHI:	xxx . 1334939_1336762
+%ort:	xxx . 1334939_1336762
+*MOT:	고맙습니다: . 1336337_1337981
+%mor:	adj|고맙습니다-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	komapsupnita: . 1336337_1337981
+*PAU:	0 . 1337992_1339014
+*MOT:	우와: . 1339610_1341098
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1339610_1341098
+*PAU:	0 . 1341068_1342049
+*MOT:	우와: . 1341937_1343512
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1341937_1343512
+*PAU:	0 . 1343483_1344342
+*MOT:	얘는 누구야 ? 1344299_1345450
+%mor:	noun|얘는 verb|누구이야-Inf-S ?
+%gra:	1|2|DISLOCATED 2|2|ROOT 3|2|PUNCT
+%ort:	yaynun nwukwuya ? 1344299_1345450
+*PAU:	0 . 1345448_1346325
+*MOT:	얘는 당근이랑 콩인가 xxx . 1346329_1348371
+%mor:	noun|얘는 cconj|당근이랑 verb|콩이ㄴ가-Inf-S .
+%gra:	1|3|DISLOCATED 2|3|ROOT 3|2|CONJ 4|2|PUNCT
+%ort:	yaynun tangkunilang khonginka xxx . 1346329_1348371
+*PAU:	0 . 1348757_1349448
+*MOT:	우와: . 1349249_1350445
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1349249_1350445
+*PAU:	0 . 1350539_1351863
+*MOT:	되게 빠르지 ? 1351768_1352797
+%mor:	sconj|되게 verb|빠르지-Inf-S ?
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	toykey ppaluci ? 1351768_1352797
+*PAU:	0 . 1352809_1355375
+*MOT:	우와: 잘한다: . 1355332_1357608
+%mor:	cconj|우와 verb|잘하ㄴ다-Inf-S .
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	wuwa: calhanta: . 1355332_1357608
+*PAU:	0 . 1357575_1361044
+*PAU:	0 . 1361305_1364685
+*CHI:	우와: . 1365261_1367172
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1365261_1367172
+*MOT:	우와: . 1367148_1369120
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1367148_1369120
+*PAU:	0 . 1369417_1369777
+*CHI:	우와: . 1371400_1373339
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1371400_1373339
+*MOT:	우와: . 1372242_1374117
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1372242_1374117
+*CHI:	우와: . 1373751_1375365
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1373751_1375365
+*MOT:	오 . 1374918_1375336
+%mor:	intj|오 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	o . 1374918_1375336
+*MOT:	잡아먹혔다 . 1376677_1377764
+%mor:	verb|잡아먹히었다-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	capamekhyessta . 1376677_1377764
+*PAU:	0 . 1377804_1378327
+*MOT:	우웨: . 1378327_1379651
+%mor:	intj|우웨 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwey: . 1378327_1379651
+*CHI:	우와: . 1379635_1380702
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1379635_1380702
+*PAU:	0 . 1380645_1380918
+*MOT:	xxx . 1380932_1381548
+%ort:	xxx . 1380932_1381548
+*MOT:	우와: xxx . 1381966_1383883
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: xxx . 1381966_1383883
+*PAU:	0 . 1383877_1388405
+*MOT:	우와: . 1388303_1390219
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1388303_1390219
+*PAU:	0 . 1390110_1391219
+*MOT:	xxx . 1391873_1392094
+%ort:	xxx . 1391873_1392094
+*CHI:	음냐:@b . 1392117_1394348
+%mor:	verb|음이냐-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	umnya:@b . 1392117_1394348
+*MOT:	xxx 멍멍이:@o . 1393036_1395370
+%mor:	noun|멍멍이 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	xxx mengmengi:@o . 1393036_1395370
+*PAU:	0 . 1395437_1396633
+*MOT:	멍멍:@o . 1396679_1398020
+%mor:	intj|멍멍 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng:@o . 1396679_1398020
+*PAU:	0 . 1398026_1400807
+*MOT:	xxx . 1400841_1401589
+%ort:	xxx . 1400841_1401589
+*PAU:	0 . 1401793_1402200
+*MOT:	아이구 . 1402206_1402684
+%mor:	verb|아이구-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	aikwu . 1402206_1402684
+*PAU:	0 . 1402952_1406650
+*MOT:	또 들어가게 ? 1406681_1407568
+%mor:	cconj|또 verb|들어가게-Inf-S ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%ort:	tto tulekakey ? 1406681_1407568
+*PAU:	0 . 1407534_1409009
+*MOT:	또 들어가게 ? 1409003_1409630
+%mor:	cconj|또 verb|들어가게-Inf-S ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%ort:	tto tulekakey ? 1409003_1409630
+*PAU:	0 . 1409707_1410299
+*MOT:	문 열어 주세요: . 1410250_1412120
+%mor:	noun|문 verb|열어-Inf-S verb|주시어요-Inf-S .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	mun yele cwuseyyo: . 1410250_1412120
+*PAU:	0 . 1412058_1414205
+*MOT:	문 닫아 주세요 . 1414129_1415390
+%mor:	noun|문 verb|닫아-Inf-S verb|주시어요-Inf-S .
+%gra:	1|2|DEP 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	mun tata cwuseyyo . 1414129_1415390
+*PAU:	0 . 1415384_1415703
+*MOT:	어 . 1415677_1416031
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 1415677_1416031
+*MOT:	우와: 문 닫혔어 . 1417651_1419323
+%mor:	cconj|우와 noun|문 verb|닫히어-Inf-S .
+%gra:	1|3|ROOT 2|3|DEP 3|1|CONJ 4|1|PUNCT
+%ort:	wuwa: mun tathyesse . 1417651_1419323
+*PAU:	0 . 1419442_1420463
+*MOT:	안녕하세요: . 1420347_1422504
+%mor:	verb|안녕하세요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	annyenghaseyyo: . 1420347_1422504
+*CHI:	xxx . 1421335_1422502
+%ort:	xxx . 1421335_1422502
+*PAU:	0 . 1422496_1424005
+*MOT:	안으로 하면 열려 이렇게 하면 . 1423950_1426057
+%mor:	adv|안으로 sconj|하면 sconj|열리어 sconj|이렇게 aux|하-Inf-S .
+%gra:	1|2|ADVCL 2|3|CCOMP 3|5|ROOT 4|3|CONJ 5|4|AUX 6|3|PUNCT
+%ort:	anulo hamyen yellye ilehkey hamyen . 1423950_1426057
+*PAU:	0 . 1426743_1429204
+*MOT:	음, 소리 나나 ? 1429221_1430230
+%mor:	intj|음 cm|cm noun|소리 verb|나나-Inf-S ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DEP 4|4|ROOT 5|4|PUNCT
+%ort:	um, soli nana ? 1429221_1430230
+*PAU:	0 . 1430214_1432212
+*MOT:	무슨 소리야 ? 1432194_1432944
+%mor:	det|무슨-Def verb|소리이야-Inf-S ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%ort:	musun soliya ? 1432194_1432944
+*PAU:	0 . 1432949_1436194
+*MOT:	어, 소리 나네: . 1436321_1437709
+%mor:	intj|어 cm|cm noun|소리 verb|나네아-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DEP 4|4|ROOT 5|4|PUNCT
+%ort:	e, soli naney: . 1436321_1437709
+*PAU:	0 . 1437634_1440468
+*MOT:	한 번만 이렇게 딱@o 쳐 봐 . 1440426_1441861
+%mor:	num|한 adv|번만 sconj|이렇게 adv|딱 verb|치어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|NUMMOD 2|5|ADVCL 3|5|XCOMP 4|5|ADVMOD 5|6|ROOT 6|5|COMPOUND 7|5|PUNCT
+%ort:	han penman ilehkey ttak@o chye pwa . 1440426_1441861
+*PAU:	0 . 1441896_1442755
+*MOT:	이름아, (..) 이렇게 하니까 소리 나는데 ? 1442707_1445466
+%mor:	sconj|이름아 cm|cm sconj|이렇게 sconj|하 noun|소리 verb|나는데-Inf-S ?
+%gra:	1|6|CCOMP 2|1|PUNCT 3|6|AMOD 4|3|AUX 5|6|DEP 6|6|ROOT 7|6|PUNCT
+%ort:	Namea, (..) ilehkey hanikka soli nanuntey ? 1442707_1445466
+*PAU:	0 . 1445489_1448355
+*MOT:	어: 소리 나는데: . 1448252_1450494
+%mor:	adv|어 noun|소리 verb|나는데-Inf-S .
+%gra:	1|3|ADVMOD 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	e: soli nanuntey: . 1448252_1450494
+*PAU:	0 . 1450219_1455790
+*MOT:	어: . 1455719_1457960
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e: . 1455719_1457960
+*PAU:	0 . 1457961_1460959
+*MOT:	까꿍:@z:owp . 1460975_1462381
+%mor:	verb|까꿍owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkakkwung:@z:owp . 1460975_1462381
+*CHI:	응:@b . 1462404_1463836
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 1462404_1463836
+*PAU:	0 . 1463832_1464726
+*MOT:	까꿍:@z:owp . 1464690_1465729
+%mor:	verb|까꿍owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkakkwung:@z:owp . 1464690_1465729
+*PAU:	0 . 1465736_1467756
+*MOT:	어 . 1467732_1468063
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 1467732_1468063
+*MOT:	나올래 ? 1469537_1470189
+%mor:	verb|나오ㄹ래-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	naollay ? 1469537_1470189
+*PAU:	0 . 1470154_1471565
+*CHI:	음@b . 1471557_1472278
+%mor:	intj|음 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	um@b . 1471557_1472278
+*MOT:	음 . 1472357_1472734
+%mor:	intj|음 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	um . 1472357_1472734
+*MOT:	멍멍@o . 1474069_1474888
+%mor:	intj|멍멍 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmeng@o . 1474069_1474888
+*PAU:	0 . 1474844_1475401
+*CHI:	음메:@b . 1475458_1477596
+%mor:	intj|음메 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ummey:@b . 1475458_1477596
+*PAU:	0 . 1477590_1479912
+*MOT:	이야: 우리 에이양은@u 어디 갔어 에이양은@u ? 1479941_1483480
+%mor:	intj|이야 pron|우리-Int-S1 noun|에이양은 pron|어디-Int-S1 sconj|가ㅆ어 noun|에이양은 ?
+%gra:	1|5|DISCOURSE 2|3|COMPOUND 3|5|DISLOCATED 4|5|ADVMOD 5|6|ROOT 6|5|CONJ 7|5|PUNCT
+%ort:	iya: wuli eyiyangun@u eti kasse eyiyangun@u ? 1479941_1483480
+*CHI:	이유@b . 1483463_1484166
+%mor:	noun|이유 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iyu@b . 1483463_1484166
+*PAU:	0 . 1484212_1484624
+*MOT:	xxx . 1484598_1485022
+%ort:	xxx . 1484598_1485022
+*PAU:	0 . 1484897_1487625
+*MOT:	아이코 . 1488179_1488667
+%mor:	noun|아이코 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	aikho . 1488179_1488667
+*PAU:	0 . 1490096_1491704
+*MOT:	에이양은@u 어디 갔을까 ? 1491733_1493189
+%mor:	noun|에이양은 pron|어디-Int-S1 verb|가ㅆㄹ까-Inf-S ?
+%gra:	1|3|DISLOCATED 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	eyiyangun@u eti kassulkka ? 1491733_1493189
+*CHI:	이유@b . 1493235_1493942
+%mor:	noun|이유 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iyu@b . 1493235_1493942
+*MOT:	응 . 1494174_1494598
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung . 1494174_1494598
+*CHI:	xxx . 1494681_1495969
+%ort:	xxx . 1494681_1495969
+*CHI:	이융:@b . 1495969_1497943
+%mor:	intj|이융 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iyung:@b . 1495969_1497943
+*PAU:	0 . 1497809_1498251
+*CHI:	이융:@b . 1499526_1501159
+%mor:	intj|이융 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iyung:@b . 1499526_1501159
+*PAU:	0 . 1501130_1506645
+*CHI:	오잉:@b . 1506678_1507980
+%mor:	intj|오잉 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	oing:@b . 1506678_1507980
+*MOT:	물 줘 ? 1507986_1508517
+%mor:	noun|물 verb|주어-Inf-S ?
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+%ort:	mul cwe ? 1507986_1508517
+*PAU:	0 . 1508473_1512212
+*MOT:	어 [/] 어 [/] 어, 이거 물이 좀 많아 . 1512181_1513814
+%mor:	intj|어 cm|cm adv|이거 noun|물이 adv|좀 adj|많아-Pos-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|NSUBJ 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	e [/] e [/] e, ike muli com manha . 1512181_1513814
+*PAU:	0 . 1513843_1517406
+*CHI:	물: . 1519448_1520591
+%mor:	noun|물 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mul: . 1519448_1520591
+*MOT:	이것도 물이야 . 1520278_1521258
+%mor:	adv|이것도 verb|물이야-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	ikesto muliya . 1520278_1521258
+*PAU:	0 . 1521243_1521806
+*MOT:	엄마 물 . 1521730_1522520
+%mor:	noun|엄마 noun|물 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	emma mul . 1521730_1522520
+*MOT:	근데 너 마셔도 돼, 안 마셨으니까 . 1522612_1524905
+%mor:	adv|근데 pron|너-Int-S1 sconj|마시어도 sconj|되어 cm|cm adv|안 verb|마시셨으니까-Inf-S .
+%gra:	1|4|ADVMOD 2|3|DEP 3|4|CCOMP 4|7|CCOMP 5|4|PUNCT 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%ort:	kuntey ne masyeto tway, an masyessunikka . 1522612_1524905
+*PAU:	0 . 1524999_1526880
+*MOT:	음 . 1526885_1527117
+%mor:	intj|음 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	um . 1526885_1527117
+*CHI:	xxx . 1527250_1528471
+%ort:	xxx . 1527250_1528471
+*MOT:	xxx . 1528435_1529025
+%ort:	xxx . 1528435_1529025
+*PAU:	0 . 1529423_1531501
+*MOT:	이름아, 에이양@u 어디 갔어 ? 1531284_1533201
+%mor:	noun|이름아 cm|cm noun|에이양 pron|어디-Int-S1 verb|갔어-Inf-S ?
+%gra:	1|5|OBL 2|3|PUNCT 3|1|CONJ 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%ort:	Namea, eyiyang@u eti kasse ? 1531284_1533201
+*PAU:	0 . 1533182_1534918
+*MOT:	이야:@u . 1534724_1536071
+%mor:	intj|이야 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iya:@u . 1534724_1536071
+*PAU:	0 . 1536067_1545686
+*MOT:	이름아:, 어디 갔어: . 1545669_1549203
+%mor:	noun|이름아 cm|cm pron|어디-Int-S1 verb|갔어-Inf-S .
+%gra:	1|4|OBL 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	Namea:, eti kasse: . 1545669_1549203
+*PAU:	0 . 1549154_1549718
+*CHI:	음마 . 1549692_1550243
+%mor:	intj|음마 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	umma . 1549692_1550243
+%gls:	엄마 .
+*PAU:	0 . 1550175_1550424
+*MOT:	응 ? 1550369_1550642
+%mor:	intj|응 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung ? 1550369_1550642
+*MOT:	xxx 까: 깜짝이야 . 1551263_1553523
+%mor:	intj|까 verb|깜짝이야-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	xxx kka: kkamccakiya . 1551263_1553523
+*PAU:	0 . 1553501_1555016
+*PAU:	0 . 1556102_1557718
+*MOT:	까꿍:@z:owp . 1557682_1559291
+%mor:	verb|까꿍owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkakkwung:@z:owp . 1557682_1559291
+*PAU:	0 . 1559329_1566194
+*MOT:	까꿍@z:owp [/] 까꿍:@z:owp . 1566174_1568084
+%mor:	verb|까꿍owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkakkwung@z:owp [/] kkakkwung:@z:owp . 1566174_1568084
+*PAU:	0 . 1567947_1571186
+*MOT:	까꿍:@z:owp [/] 까꿍:@z:owp . 1571155_1573171
+%mor:	verb|까꿍owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkakkwung:@z:owp [/] kkakkwung:@z:owp . 1571155_1573171
+*PAU:	0 . 1573160_1582128
+*MOT:	짜잔:@z:owp . 1581970_1583903
+%mor:	verb|짜잔ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccacan:@z:owp . 1581970_1583903
+*PAU:	0 . 1584142_1585775
+*MOT:	다 놀았나요: ? 1585769_1587253
+%mor:	adv|다 verb|놀았나요-Inf-S ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	ta nolassnayo: ? 1585769_1587253
+*PAU:	0 . 1587257_1590107
+*MOT:	정리하면서 놀면 좋겠어 . 1590084_1592168
+%mor:	cconj|정리하면서 sconj|놀면 adj|좋겠어-Pos-S1 .
+%gra:	1|2|CCOMP 2|3|ROOT 3|2|CONJ 4|2|PUNCT
+%ort:	cenglihamyense nolmyen cohkeysse . 1590084_1592168
+*PAU:	0 . 1592078_1593292
+*MOT:	어, 이거 봐, 이름아 . 1593248_1594364
+%mor:	intj|어 cm|cm adv|이거 verb|보ㄹ-Inf-S cm|cm verb|이름아-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|6|COMPOUND 5|4|PUNCT 6|6|ROOT 7|6|PUNCT
+%ort:	e, ike pwa, Namea . 1593248_1594364
+*PAU:	0 . 1594348_1597506
+*MOT:	숑:@z:owp 붕붕이야@o [/] 붕붕:@o . 1597446_1600129
+%mor:	x|숑owp noun|붕붕 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	syong:@z:owp pungpungiya@o [/] pungpung:@o . 1597446_1600129
+*PAU:	0 . 1600051_1601479
+*MOT:	붕붕:@z:owp . 1601182_1602762
+%mor:	verb|붕붕ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	pungpung:@z:owp . 1601182_1602762
+*PAU:	0 . 1602762_1603746
+*CHI:	에이야@b 을라:@b . 1603721_1606271
+%mor:	adv|에이야 verb|을이라-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	eyiya@b ulla:@b . 1603721_1606271
+*PAU:	0 . 1606249_1608141
+*MOT:	에이양은@u 어디 있어 ? 1608088_1609384
+%mor:	noun|에이양은 pron|어디-Int-S1 adj|있어-Pos-S1 ?
+%gra:	1|3|DISLOCATED 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	eyiyangun@u eti isse ? 1608088_1609384
+*PAU:	0 . 1609401_1611660
+*MOT:	어, 이거 이렇게 하는 건가 ? 1611484_1612885
+%mor:	intj|어 cm|cm adv|이거 sconj|이렇게 verb|하는-Inf-S verb|것이ㄴ가-Inf-S ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|XCOMP 5|6|ROOT 6|5|ADVCL 7|5|PUNCT
+%ort:	e, ike ilehkey hanun kenka ? 1611484_1612885
+*PAU:	0 . 1612834_1613357
+*MOT:	넣었다: . 1613303_1614250
+%mor:	verb|넣었다-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	nehessta: . 1613303_1614250
+*PAU:	0 . 1614179_1614730
+*MOT:	에이양은@u 어디 갔어 ? 1614690_1615924
+%mor:	noun|에이양은 pron|어디-Int-S1 verb|갔어-Inf-S ?
+%gra:	1|3|DISLOCATED 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	eyiyangun@u eti kasse ? 1614690_1615924
+*PAU:	0 . 1616303_1617295
+*MOT:	우와: . 1617265_1618594
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1617265_1618594
+*PAU:	0 . 1618886_1620192
+*MOT:	아: 이거 xxx처럼 끌고 다니는 건가 봐, 이름아, 읏 자 . 1620668_1624745
+%mor:	intj|아 adv|이거 adv|xxx처럼 cconj|끌고 verb|다니는-Inf-S noun|것이ㄴ가 verb|보ㄹ-Inf-S cm|cm noun|이름아 cm|cm noun|읏 noun|자 .
+%gra:	1|12|DISCOURSE 2|5|ADVMOD 3|4|ADVCL 4|6|ACL 5|4|CONJ 6|7|NSUBJ 7|12|COMPOUND 8|7|PUNCT 9|12|COMPOUND 10|11|PUNCT 11|9|CONJ 12|12|ROOT 13|12|PUNCT
+%ort:	a: ike xxxchelem kkulko taninun kenka pwa, Namea, us ca . 1620668_1624745
+*CHI:	에:여@b . 1621556_1623100
+%mor:	verb|에이어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ey:ye@b . 1621556_1623100
+*PAU:	0 . 1624702_1625925
+*MOT:	쓱@o 끌고 다니는 거래 . 1626221_1627765
+%mor:	noun|쓱 cconj|끌고 verb|다니는-Inf-S noun|거래 .
+%gra:	1|2|OBJ 2|4|ACL 3|2|CONJ 4|4|ROOT 5|4|PUNCT
+%ort:	ssuk@o kkulko taninun kelay . 1626221_1627765
+*PAU:	0 . 1627759_1628183
+*MOT:	자, 데꼬 [: 데리고] 다녀 . 1628157_1629265
+%mor:	intj|자 cm|cm cconj|데리고 verb|다니어-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|CONJ 5|3|PUNCT
+%ort:	ca, teykko [: teyliko] tanye . 1628157_1629265
+*PAU:	0 . 1629279_1634317
+*MOT:	응 . 1634391_1634600
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung . 1634391_1634600
+*PAU:	0 . 1635124_1635971
+*CHI:	xxx . 1635965_1636592
+%ort:	xxx . 1635965_1636592
+*PAU:	0 . 1636598_1645538
+*MOT:	응 그렇게: (..) 가면은 얘가 따라올 거야 . 1645561_1649876
+%mor:	intj|응 sconj|그렇게 noun|가면은 adv|얘가 verb|따르아오ㄹ-Inf-S verb|거이야-Inf-S .
+%gra:	1|6|DISCOURSE 2|5|XCOMP 3|5|DISLOCATED 4|5|ADVMOD 5|6|CCOMP 6|6|ROOT 7|6|PUNCT
+%ort:	ung kulehkey: (..) kamyenun yayka ttalaol keya . 1645561_1649876
+*PAU:	0 . 1649881_1654357
+*MOT:	어, 실밭@u 실@u 안 들었네: . 1654326_1657264
+%mor:	intj|어 cm|cm noun|실밭 noun|실 adv|안 verb|듣었네-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|COMPOUND 4|6|OBL 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	e, silpath@u sil@u an tulessney: . 1654326_1657264
+*PAU:	0 . 1657225_1663808
+*CHI:	엄마 . 1663795_1665016
+%mor:	intj|엄마 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	emma . 1663795_1665016
+*PAU:	0 . 1664993_1665394
+*MOT:	문으로 들어가야지: . 1665340_1667045
+%mor:	adv|문으로 verb|들어가아야지-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	munulo tulekayaci: . 1665340_1667045
+*PAU:	0 . 1667403_1671529
+*MOT:	문으로 들어가야지 . 1671506_1672783
+%mor:	adv|문으로 verb|들어가아야지-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	munulo tulekayaci . 1671506_1672783
+*MOT:	으아 (..) xxx . 1672806_1674874
+%mor:	verb|쉬아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ua (..) xxx . 1672806_1674874
+*PAU:	0 . 1674869_1675966
+*MOT:	문으로 들어가야지 . 1675929_1676943
+%mor:	adv|문으로 verb|들어가아야지-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	munulo tulekayaci . 1675929_1676943
+*MOT:	어 [/] 어: 아니야 [/] 아니야, 이름아, 그거 서야 돼 . 1676990_1679782
+%mor:	intj|어 adj|아니야-Pos-S1 cm|cm sconj|이름아 cm|cm pron|그거이-Int-S1 verb|서어야-Inf-S verb|되어-Inf-S .
+%gra:	1|2|DISCOURSE 2|7|CCOMP 3|2|PUNCT 4|7|CCOMP 5|4|PUNCT 6|7|DEP 7|8|ROOT 8|7|COMPOUND 9|7|PUNCT
+%ort:	e [/] e: aniya [/] aniya, Namea, kuke seya tway . 1676990_1679782
+*PAU:	0 . 1679768_1681730
+*MOT:	어, 어디 갔지 ? 1681765_1683092
+%mor:	intj|어 cm|cm pron|어디-Int-S1 verb|가ㅆ지-Inf-S ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	e, eti kassci ? 1681765_1683092
+*PAU:	0 . 1683100_1686513
+*MOT:	이름아 (..) 무무:무@wp 어, 이거 봐, 은솔아 . 1686425_1691108
+%mor:	noun|이름아 noun|무무무p intj|어 cm|cm adv|이거 verb|보ㄹ-Inf-S cm|cm verb|은솔아-Inf-S .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|8|OBL 4|3|PUNCT 5|6|ADVMOD 6|8|COMPOUND 7|6|PUNCT 8|8|ROOT 9|8|PUNCT
+%ort:	Namea (..) mumu:mu@wp e, ike pwa, unsola . 1686425_1691108
+*MOT:	공룡이가 이름이 &~모 손을 물어 버린대 . 1691881_1694965
+%mor:	noun|공룡이가 noun|이름이 noun|손을 verb|묻어-Inf-S verb|버리ㄴ대-Inf-S .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|OBJ 4|5|ROOT 5|4|COMPOUND 6|4|PUNCT
+%ort:	konglyongika Namei &mo sonul mule pelintay . 1691881_1694965
+*MOT:	우와: . 1695137_1698337
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 1695137_1698337
+*PAU:	0 . 1698203_1703375
+*MOT:	이거 봐 . 1703693_1704233
+%mor:	adv|이거 verb|보ㄹ-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	ike pwa . 1703693_1704233
+*MOT:	멍멍:@o, 멍멍멍멍멍멍멍멍@z:owp . 1704378_1707047
+%mor:	noun|멍멍 cm|cm verb|멍멍멍멍멍멍멍멍oww이p-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	mengmeng:@o, mengmengmengmengmengmengmengmeng@z:owp . 1704378_1707047
+*MOT:	<이름이 잡으러 가자> [/] 은솔이 잡으러 가자 . 1707275_1709696
+%mor:	noun|은솔이 sconj|잡으러 verb|가자-Inf-S .
+%gra:	1|3|NSUBJ 2|3|CCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	<Namei capule kaca> [/] unsoli capule kaca . 1707275_1709696
+*MOT:	멍멍멍멍멍멍멍멍멍멍멍멍멍멍멍@z:owp . 1709738_1712712
+%mor:	verb|멍멍멍멍멍멍멍멍멍멍멍ww이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mengmengmengmengmengmengmengmengmengmengmengmengmengmengmeng@z:owp . 1709738_1712712
+*CHI:	부에:@b . 1711943_1713191
+%mor:	verb|붓ㄹ-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	puey:@b . 1711943_1713191
+*MOT:	또 물 마셔 ? 1713308_1714080
+%mor:	cconj|또 noun|물 verb|마시어-Inf-S ?
+%gra:	1|3|CC 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	tto mul masye ? 1713308_1714080
+*PAU:	0 . 1714071_1716301
+*MOT:	자 . 1716345_1716549
+%mor:	intj|자 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ca . 1716345_1716549
+*PAU:	0 . 1716869_1718820
+*MOT:	아, 안 마셔, 그래 . 1718777_1720386
+%mor:	intj|아 cm|cm adv|안 verb|마시어-Inf-S cm|cm verb|그렇어-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|6|ROOT 5|6|PUNCT 6|4|CONJ 7|4|PUNCT
+%ort:	a, an masye, kulay . 1718777_1720386
+*PAU:	0 . 1720392_1721036
+*MOT:	어, 이름아 너 이거 봐라 . 1720982_1722352
+%mor:	intj|어 cm|cm adv|이름아 pron|너-Int-S1 adv|이거 verb|보아라-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|5|COMPOUND 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	e, Namea ne ike pwala . 1720982_1722352
+*PAU:	0 . 1722354_1722848
+*MOT:	이런게 다 있다 ? 1722835_1723858
+%mor:	sconj|이런게 adv|다 adj|있다-Pos-S1 ?
+%gra:	1|3|XCOMP 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	ilenkey ta issta ? 1722835_1723858
+*PAU:	0 . 1723858_1724247
+*MOT:	이름아, 이거 봐 . 1724187_1724932
+%mor:	noun|이름아 cm|cm adv|이거 verb|보ㄹ-Inf-S .
+%gra:	1|4|OBL 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	Namea, ike pwa . 1724187_1724932
+*PAU:	0 . 1724891_1725553
+*MOT:	기린인데, 다리가 막 이렇게 왔다 갔다 해 . 1725509_1727850
+%mor:	sconj|기린이ㄴ데 cm|cm noun|다리가 adv|막 sconj|이렇게 verb|오았다-Inf-S verb|가ㅆ다-Inf-S verb|하어-Inf-S .
+%gra:	1|8|CCOMP 2|1|PUNCT 3|6|NSUBJ 4|5|ADVMOD 5|6|XCOMP 6|8|CCOMP 7|8|CCOMP 8|8|ROOT 9|8|PUNCT
+%ort:	kilinintey, talika mak ilehkey wassta kassta hay . 1725509_1727850
+*PAU:	0 . 1727851_1728159
+*MOT:	어 ? 1728171_1728455
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e ? 1728171_1728455
+*PAU:	0 . 1728455_1730290
+*MOT:	우왕 . 1730285_1730721
+%mor:	noun|우왕 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwang . 1730285_1730721
+*PAU:	0 . 1730703_1732526
+*MOT:	봐 봐 . 1732524_1732983
+%mor:	verb|보ㄹ-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	pwa pwa . 1732524_1732983
+*PAU:	0 . 1733054_1733966
+*MOT:	어 [/] 어 [/] 어 [/] 어 [/] 어 [/] 어 . 1733925_1736288
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e [/] e [/] e [/] e [/] e [/] e . 1733925_1736288
+*PAU:	0 . 1736328_1737501
+*MOT:	막 움직여 다리가 . 1737453_1738778
+%mor:	adv|막 sconj|움직이어 noun|다리가 .
+%gra:	1|2|ADVMOD 2|3|CCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	mak wumcikye talika . 1737453_1738778
+*PAU:	0 . 1738772_1740792
+*MOT:	오: . 1740926_1741675
+%mor:	intj|오 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	o: . 1740926_1741675
+*MOT:	이거 봐, 머리도 움직여 . 1742378_1743662
+%mor:	adv|이거 sconj|보아 cm|cm adv|머리도 verb|움직이어-Inf-S .
+%gra:	1|2|ADVMOD 2|5|CCOMP 3|2|PUNCT 4|5|ADVCL 5|5|ROOT 6|5|PUNCT
+%ort:	ike pwa, melito wumcikye . 1742378_1743662
+*PAU:	0 . 1743605_1744876
+*MOT:	이름아, 엄마가: &~체조해 음마가 [: 엄마가] 마사지 해 줄까 ? 1744909_1748950
+%mor:	noun|이름아 cm|cm noun|엄마가 noun|엄마가 verb|마사지-Inf-S verb|하어-Inf-S verb|주ㄹ까-Inf-S ?
+%gra:	1|6|OBL 2|1|PUNCT 3|1|CONJ 4|5|NSUBJ 5|6|CCOMP 6|7|ROOT 7|6|COMPOUND 8|6|PUNCT
+%ort:	Namea, emmaka: &cheycohay ummaka [: emmaka] masaci hay cwulkka ? 1744909_1748950
+*MOT:	우:리@wp 이름이@wp 어깨@wp 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp . 1748972_1754837
+%mor:	noun|우리p sconj|이름이p noun|어깨p verb|쪼물ow이p-Inf-S .
+%gra:	1|2|COMPOUND 2|4|CCOMP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	wu:li@wp Namei@wp ekkay@wp ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp . 1748972_1754837
+*PAU:	0 . 1754919_1755609
+*MOT:	우:리@wp 이름이@wp (..) 어깨@wp 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp [/] (..) 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp [/] 쪼물@z:owp [/] (..) 쪼물@z:owp . 1755581_1765656
+%mor:	noun|우리p sconj|이름이p noun|어깨p verb|쪼물ow이p-Inf-S .
+%gra:	1|2|COMPOUND 2|4|CCOMP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	wu:li@wp Namei@wp (..) ekkay@wp ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] ccomul@z:owp [/] (..) ccomul@z:owp . 1755581_1765656
+*CHI:	xxx . 1763524_1765597
+%ort:	xxx . 1763524_1765597
+*MOT:	우:리@wp 이름이@wp (..) 다리도@wp 쪼물쪼물쪼물쪼물쪼물쪼물쪼물@z:owp . 1765656_1770392
+%mor:	noun|우리p sconj|이름이p noun|다리도p verb|쪼물쪼물쪼물쪼물쪼물쪼물물wp-Inf-S .
+%gra:	1|2|COMPOUND 2|4|CCOMP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	wu:li@wp Namei@wp (..) talito@wp ccomulccomulccomulccomulccomulccomulccomul@z:owp . 1765656_1770392
+*CHI:	xxx . 1768262_1770498
+%ort:	xxx . 1768262_1770498
+*MOT:	쪼물쪼물쪼물쪼물쪼물쪼물@z:owp . 1770868_1772998
+%mor:	verb|쪼물쪼물쪼물쪼물쪼물쪼물wp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccomulccomulccomulccomulccomulccomul@z:owp . 1770868_1772998
+*CHI:	xxx . 1771651_1773300
+%ort:	xxx . 1771651_1773300
+*MOT:	우:리@wp 이름이@wp 배꼽@wp 쪼물쪼물쪼물쪼물쪼물쪼물쪼물@z:owp . 1773030_1777006
+%mor:	noun|우리p adv|이름이p noun|배꼽p verb|쪼물쪼물쪼물쪼물쪼물쪼물물wp-Inf-S .
+%gra:	1|2|COMPOUND 2|4|ADVCL 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	wu:li@wp Namei@wp paykkop@wp ccomulccomulccomulccomulccomulccomulccomul@z:owp . 1773030_1777006
+*CHI:	xxx . 1776350_1778829
+%ort:	xxx . 1776350_1778829
+*MOT:	우:리@wp 이름이@wp (..) 어디 해 볼까 ? 1777521_1780122
+%mor:	adv|우리p sconj|이름이p pron|어디-Int-S1 verb|하어-Inf-S verb|보ㄹ까-Inf-S ?
+%gra:	1|2|ADVMOD 2|4|CCOMP 3|4|DEP 4|5|ROOT 5|4|COMPOUND 6|4|PUNCT
+%ort:	wu:li@wp Namei@wp (..) eti hay polkka ? 1777521_1780122
+*PAU:	0 . 1780083_1781453
+*MOT:	우:리@wp 이름이@wp 궁댕이@wp 쪼물쪼물쪼물쪼물쪼물쪼물:@z:owp . 1781434_1785160
+%mor:	noun|우리p sconj|이름이p noun|궁댕이p verb|쪼물쪼물쪼물쪼물쪼물쪼물wp-Inf-S .
+%gra:	1|2|COMPOUND 2|4|CCOMP 3|4|DEP 4|4|ROOT 5|4|PUNCT
+%ort:	wu:li@wp Namei@wp kwungtayngi@wp ccomulccomulccomulccomulccomulccomul:@z:owp . 1781434_1785160
+*PAU:	0 . 1785232_1786556
+*MOT:	우:리@wp 이름이@wp (..) 손도@wp 조물:@z:owp [/] 조물:@z:owp [/] 조물:@z:owp [/] 조물@z:owp . 1786506_1791757
+%mor:	noun|우리p sconj|이름이p adv|손도p verb|조물ow이p-Inf-S .
+%gra:	1|2|COMPOUND 2|4|CCOMP 3|4|ADVCL 4|4|ROOT 5|4|PUNCT
+%ort:	wu:li@wp Namei@wp (..) sonto@wp comul:@z:owp [/] comul:@z:owp [/] comul:@z:owp [/] comul:@z:owp . 1786506_1791757
+*PAU:	0 . 1791762_1792389
+*MOT:	우:리@wp 이름이@wp 어깨@wp 쪼물:@z:owp [/] 쪼물:@z:owp [/] 쪼물:@z:owp [/] 쪼물@z:owp .
+%mor:	noun|우리p sconj|이름이p noun|어깨p verb|쪼물ow이p-Inf-S .
+%gra:	1|2|COMPOUND 2|4|CCOMP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	wu:li@wp Namei@wp ekkay@wp ccomul:@z:owp [/] ccomul:@z:owp [/] ccomul:@z:owp [/] ccomul@z:owp . 1792393_1796940
+*PAU:	0 . 1796848_1798502
+*MOT:	우와: 이름이 잘하는데: ? 1798508_1800933
+%mor:	cconj|우와 noun|이름이 verb|잘하는데-Inf-S ?
+%gra:	1|3|NSUBJ 2|1|CONJ 3|3|ROOT 4|3|PUNCT
+%ort:	wuwa: Namei calhanuntey: ? 1798508_1800933
+*PAU:	0 . 1800946_1801846
+*MOT:	우:리@wp 이름이@wp 어깨@wp 쪼물쪼물쪼물쪼물쪼물쪼물쪼물쪼물쪼물쪼물쪼물@z:owp . 1801808_1806079
+%mor:	noun|우리p sconj|이름이p noun|어깨p noun|쪼물쪼물쪼물쪼물쪼물물물물쪼물물쪼물쪼물wp .
+%gra:	1|2|COMPOUND 2|4|CCOMP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%ort:	wu:li@wp Namei@wp ekkay@wp ccomulccomulccomulccomulccomulccomulccomulccomulccomulccomulccomul@z:owp . 1801808_1806079
+*CHI:	xxx . 1804655_1806147
+%ort:	xxx . 1804655_1806147
+*MOT:	쪼물쪼물쪼물쪼물쪼물쪼물쪼물쪼물쪼물쪼물쪼물@z:owp . 1806776_1809802
+%mor:	noun|쪼물쪼물쪼물쪼물쪼물물물물쪼물물쪼물쪼물wp .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccomulccomulccomulccomulccomulccomulccomulccomulccomulccomulccomul@z:owp . 1806776_1809802
+*PAU:	0 . 1809700_1810118
+*MOT:	꺄: 간지러워: . 1810071_1811727
+%mor:	noun|꺄 verb|간지럽어-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	kkya: kancilewe: . 1810071_1811727
+*PAU:	0 . 1811990_1812657
+*MOT:	어, 이름아 [/] 은솔아 이제 우리 책 볼까 ? 1812652_1815501
+%mor:	intj|어 cm|cm noun|은솔아 adv|이제 pron|우리-Int-S1 noun|책 verb|보ㄹ까-Inf-S ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|OBL 4|7|ADVMOD 5|6|COMPOUND 6|7|DEP 7|7|ROOT 8|7|PUNCT
+%ort:	e, Namea [/] unsola icey wuli chayk polkka ? 1812652_1815501
+*CHI:	무이: . 1815136_1815990
+%mor:	verb|무이이-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mui: . 1815136_1815990
+%gls:	물 .
+*PAU:	0 . 1815984_1816425
+*MOT:	에이:, 물 안 마실 거면서: . 1816454_1818520
+%mor:	intj|에이 cm|cm noun|물 adv|안 verb|마시ㄹ-Inf-S verb|거이면서-Inf-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|OBL 4|5|ADVMOD 5|6|CCOMP 6|6|ROOT 7|6|PUNCT
+%ort:	eyi:, mul an masil kemyense: . 1816454_1818520
+*PAU:	0 . 1818509_1819107
+*MOT:	책 볼까 ? 1818973_1819723
+%mor:	noun|책 verb|보ㄹ까-Inf-S ?
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+%ort:	chayk polkka ? 1818973_1819723
+*CHI:	물 . 1819953_1820582
+%mor:	noun|물 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mul . 1819953_1820582
+*MOT:	어, 이름아 (..) 이거 봐라 . 1820162_1822525
+%mor:	intj|어 cm|cm adv|이름아 adv|이거 verb|보아라-Inf-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%ort:	e, Namea (..) ike pwala . 1820162_1822525
+*PAU:	0 . 1822474_1823449
+*MOT:	이런 거 있어 또:, 재미난 거: . 1823402_1826078
+%mor:	verb|이렇ㄴ-Inf-S noun|거 sconj|있어 adv|또 cm|cm adj|재미나ㄴ-Pos-S1 verb|거-Inf-S .
+%gra:	1|2|AMOD 2|3|OBL 3|7|XCOMP 4|7|ADVMOD 5|4|PUNCT 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%ort:	ilen ke isse tto:, cayminan ke: . 1823402_1826078
+*CHI:	무이: . 1824456_1825960
+%mor:	verb|무이이-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mui: . 1824456_1825960
+%gls:	물 .
+*CHI:	무이: . 1826211_1827134
+%mor:	verb|무이이-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mui: . 1826211_1827134
+%gls:	물 .
+*MOT:	xxx . 1826314_1827134
+%ort:	xxx . 1826314_1827134
+*PAU:	0 . 1827139_1827290
+*MOT:	엄마 해 줄게 . 1827243_1827928
+%mor:	noun|엄마 verb|하어-Inf-S verb|줄게-Inf-S .
+%gra:	1|2|DEP 2|3|CCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	emma hay cwulkey . 1827243_1827928
+*PAU:	0 . 1827906_1828480
+*CHI:	무이: . 1828398_1829326
+%mor:	verb|무이이-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mui: . 1828398_1829326
+%gls:	물 .
+*MOT:	물 줘 ? 1829450_1830083
+%mor:	noun|물 verb|주어-Inf-S ?
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+%ort:	mul cwe ? 1829450_1830083
+*PAU:	0 . 1830480_1832233
+*MOT:	앗 안 마실 거 . 1832203_1833457
+%mor:	noun|앗 adv|안 verb|마시ㄹ-Inf-S verb|거-Inf-S .
+%gra:	1|3|OBL 2|3|ADVMOD 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	as an masil ke . 1832203_1833457
+*PAU:	0 . 1833435_1834334
+*MOT:	이름아, 이거 봐라 . 1834304_1835163
+%mor:	intj|이름아 cm|cm adv|이거 verb|보아라-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	Namea, ike pwala . 1834304_1835163
+*PAU:	0 . 1835147_1836053
+*MOT:	xxx 이거 봐: . 1836044_1837722
+%mor:	adv|이거 verb|보ㄹ-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	xxx ike pwa: . 1836044_1837722
+*PAU:	0 . 1837654_1837897
+*MOT:	엄청난 장난감이 있었어 . 1837861_1839667
+%mor:	adj|엄청나ㄴ-Pos-S1 noun|장난감이 adj|있었어-Pos-S1 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%ort:	emchengnan cangnankami issesse . 1837861_1839667
+*PAU:	0 . 1839772_1841102
+*MOT:	이거 봐, 막 왔다 갔다 해 . 1841057_1842609
+%mor:	adv|이거 sconj|보아 cm|cm adv|막 verb|오았다-Inf-S verb|가ㅆ다-Inf-S verb|하어-Inf-S .
+%gra:	1|2|ADVMOD 2|7|CCOMP 3|2|PUNCT 4|5|ADVMOD 5|7|CCOMP 6|7|CCOMP 7|7|ROOT 8|7|PUNCT
+%ort:	ike pwa, mak wassta kassta hay . 1841057_1842609
+*PAU:	0 . 1842603_1844420
+*MOT:	이걸로 뭘 xxx 뭘 만들 수 있나 봐: . 1844413_1847844
+%mor:	adv|이걸로 pron|무엇을-Int-S1 adv|무엇을 verb|만들ㄹ-Inf-S noun|수 adj|있-Pos-S1 verb|보ㄹ-Inf-S .
+%gra:	1|4|ADVCL 2|4|OBL 3|4|ADVMOD 4|7|CCOMP 5|4|OBL 6|4|AUX 7|7|ROOT 8|7|PUNCT
+%ort:	ikello mwel xxx mwel mantul swu issna pwa: . 1844413_1847844
+*PAU:	0 . 1847827_1848244
+*MOT:	슝:@z:owp 엄마가 끌고 다녀야겠다 . 1848112_1850742
+%mor:	x|슝owp noun|엄마가 cconj|끌고 verb|다니어야겠다-Inf-S .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|4|ROOT 4|3|CONJ 5|3|PUNCT
+%ort:	syung:@z:owp emmaka kkulko tanyeyakeyssta . 1848112_1850742
+*MOT:	엄마가 갖고 가야지: 슝슝슝슝슝슝슝슝슝슝:@z:owp . 1850963_1854724
+%mor:	noun|엄마가 cconj|갖고 sconj|가야지 verb|슝슝슝슝슝슝슝슝슝슝owp-Inf-S .
+%gra:	1|2|NSUBJ 2|4|CCOMP 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	emmaka kacko kayaci: syungsyungsyungsyungsyungsyungsyungsyungsyungsyung:@z:owp . 1850963_1854724
+*CHI:	엄빠바@b 빠바@b . 1854703_1856777
+%mor:	adv|엄빠바 verb|빠바-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	emppapa@b ppapa@b . 1854703_1856777
+*MOT:	빠바@u ? 1856715_1857290
+%mor:	verb|빠바-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppapa@u ? 1856715_1857290
+*MOT:	슝슝슝슝슝슝슝슝@z:owp . 1857490_1859297
+%mor:	verb|슝슝슝슝슝슝슝슝owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	syungsyungsyungsyungsyungsyungsyungsyung@z:owp . 1857490_1859297
+*CHI:	엄마마마마마마 . 1858455_1861056
+%mor:	noun|엄마마마마마마 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	emmamamamamama . 1858455_1861056
+*MOT:	알았어, 줄게 . 1861058_1862083
+%mor:	verb|알았어-Inf-S cm|cm verb|줄게-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	alasse, cwulkey . 1861058_1862083
+*PAU:	0 . 1862100_1862413
+*MOT:	봐 봐 . 1862354_1862820
+%mor:	verb|보ㄹ-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	pwa pwa . 1862354_1862820
+*PAU:	0 . 1862808_1863499
+*MOT:	봐 봐 . 1863505_1863905
+%mor:	verb|보ㄹ-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	pwa pwa . 1863505_1863905
+*PAU:	0 . 1863934_1864619
+*MOT:	이거 봐 . 1864642_1865182
+%mor:	adv|이거 verb|보ㄹ-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	ike pwa . 1864642_1865182
+*PAU:	0 . 1865234_1866024
+*MOT:	어, 이름아 너 좋아하는 거 있다 . 1865953_1867771
+%mor:	intj|어 cm|cm adv|이름아 pron|너-Int-S1 verb|좋아하는-Inf-S noun|거 adj|있다-Pos-S1 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|DEP 5|6|ACL 6|7|OBL 7|7|ROOT 8|7|PUNCT
+%ort:	e, Namea ne cohahanun ke issta . 1865953_1867771
+*PAU:	0 . 1867806_1869780
+*MOT:	짜잔:@z:owp . 1869734_1870854
+%mor:	verb|짜잔ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccacan:@z:owp . 1869734_1870854
+*MOT:	어, 그거 끌고 다닐 거야 ? 1871069_1872464
+%mor:	intj|어 cm|cm pron|그거이-Int-S1 cconj|끌고 verb|다니ㄹ-Inf-S verb|거이야-Inf-S ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DEP 4|6|CCOMP 5|6|CCOMP 6|6|ROOT 7|6|PUNCT
+%ort:	e, kuke kkulko tanil keya ? 1871069_1872464
+*PAU:	0 . 1872395_1873341
+*MOT:	이건 나중에 해: . 1873336_1874619
+%mor:	pron|이거ㄴ-Int-S1 adv|나중에 verb|하어-Inf-S .
+%gra:	1|3|DISLOCATED 2|3|OBL 3|3|ROOT 4|3|PUNCT
+%ort:	iken nacwungey hay: . 1873336_1874619
+*PAU:	0 . 1874619_1875414
+*MOT:	엄마 여기다 놔 둘게: . 1875329_1876502
+%mor:	noun|엄마 adv|여기다 sconj|놓아 verb|둘게-Inf-S .
+%gra:	1|2|COMPOUND 2|4|ADVMOD 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	emma yekita nwa twulkey: . 1875329_1876502
+*PAU:	0 . 1876592_1877655
+*MOT:	xxx . 1877598_1878126
+%ort:	xxx . 1877598_1878126
+*MOT:	이름아: . 1878144_1879283
+%mor:	verb|이름아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	Namea: . 1878144_1879283
+*PAU:	0 . 1879283_1880194
+*MOT:	<어디 가> [/] 어디 가 . 1880176_1880986
+%mor:	intj|어디 pron|가-Int-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	<eti ka> [/] eti ka . 1880176_1880986
+*PAU:	0 . 1881030_1882150
+*MOT:	xxx . 1882074_1882676
+%ort:	xxx . 1882074_1882676
+*MOT:	어디 가 ? 1883030_1883477
+%mor:	intj|어디 pron|가-Int-S1 ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	eti ka ? 1883030_1883477
+*PAU:	0 . 1883549_1883956
+*MOT:	어디까지 가 ? 1883948_1884686
+%mor:	adv|어디까지 pron|가-Int-S1 ?
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	etikkaci ka ? 1883948_1884686
+*PAU:	0 . 1884652_1887201
+*MOT:	이쪽으로 오세요: . 1887153_1888674
+%mor:	adv|이쪽으로 verb|오세요-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	iccokulo oseyyo: . 1887153_1888674
+*PAU:	0 . 1888727_1889766
+*MOT:	가자 . 1889765_1890201
+%mor:	verb|가자-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kaca . 1889765_1890201
+*MOT:	가자 [/] 가자 [/] 가자 [/] 가자 [/] 가자 [/] (..) 가자 [/] 가자 . 1890758_1892954
+%mor:	verb|가자-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kaca [/] kaca [/] kaca [/] kaca [/] kaca [/] (..) kaca [/] kaca . 1890758_1892954
+*CHI:	xxx . 1891861_1892830
+%ort:	xxx . 1891861_1892830
+*MOT:	어 [/] 어 이거 놓쳤다 . 1892981_1894281
+%mor:	intj|어 adv|이거 verb|놓치었다-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	e [/] e ike nohchyessta . 1892981_1894281
+*PAU:	0 . 1894270_1895135
+*MOT:	자, (..) 이거 잡고 가자 . 1895049_1897355
+%mor:	intj|자 cm|cm adv|이거 verb|잡고-Inf-S verb|가자-Inf-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|5|CCOMP 5|5|ROOT 6|5|PUNCT
+%ort:	ca, (..) ike capko kaca . 1895049_1897355
+*PAU:	0 . 1897459_1898324
+*MOT:	끌고 와:, 너가: . 1898225_1900014
+%mor:	cconj|끌고 cconj|와 cm|cm verb|너가아-Inf-S .
+%gra:	1|4|ROOT 2|1|CONJ 3|4|PUNCT 4|1|CONJ 5|1|PUNCT
+%ort:	kkulko wa:, neka: . 1898225_1900014
+*PAU:	0 . 1899942_1900714
+*MOT:	가자 [/] 가자 [/] 가자 [/] (..) 가자 . 1900637_1902171
+%mor:	verb|가자-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kaca [/] kaca [/] kaca [/] (..) kaca . 1900637_1902171
+*MOT:	어 . 1902316_1902548
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 1902316_1902548
+*MOT:	이름이가 잘 데꾸 [: 데리고] 와: . 1903674_1905166
+%mor:	noun|이름이가 adv|잘 cconj|데리고 verb|오아-Inf-S .
+%gra:	1|4|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|CONJ 5|3|PUNCT
+%ort:	Nameika cal teykkwu [: teyliko] wa: . 1903674_1905166
+*PAU:	0 . 1905108_1905822
+*MOT:	가자: . 1905808_1906644
+%mor:	verb|가자-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kaca: . 1905808_1906644
+*MOT:	가자: . 1907741_1909018
+%mor:	verb|가자-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kaca: . 1907741_1909018
+*PAU:	0 . 1908898_1911057
+*MOT:	우와: 잘한다: . 1910864_1913501
+%mor:	cconj|우와 verb|잘하ㄴ다-Inf-S .
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	wuwa: calhanta: . 1910864_1913501
+*CHI:	에:@b . 1911061_1911706
+%mor:	adv|에 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ey:@b . 1911061_1911706
+*PAU:	0 . 1913507_1915736
+*MOT:	잘 갖고 오는데: ? 1915677_1917256
+%mor:	adv|잘 verb|갖고-Inf-S verb|오는데-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	cal kacko onuntey: ? 1915677_1917256
+*PAU:	0 . 1917197_1920913
+*CHI:	어@b . 1920819_1921267
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e@b . 1920819_1921267
+*PAU:	0 . 1921226_1921807
+*MOT:	또 어디 가 ? 1921789_1922300
+%mor:	cconj|또 intj|어디 pron|가-Int-S1 ?
+%gra:	1|3|CC 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+%ort:	tto eti ka ? 1921789_1922300
+*PAU:	0 . 1922306_1924071
+*MOT:	이쪽으로 와 . 1923999_1924841
+%mor:	adv|이쪽으로 verb|오아-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	iccokulo wa . 1923999_1924841
+*PAU:	0 . 1924799_1925281
+*MOT:	xxx . 1925317_1925846
+%ort:	xxx . 1925317_1925846
+*MOT:	어:, 안 돼: . 1925857_1927136
+%mor:	intj|어 cm|cm adv|안 verb|되어-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	e:, an tway: . 1925857_1927136
+*MOT:	여긴 지지지지지직@z:owp 하는 게 너무 많아 . 1927414_1929927
+%mor:	noun|여기ㄴ verb|지지지지지직owp-Inf-S verb|하는-Inf-S noun|게 adv|너무 adj|많아-Pos-S1 .
+%gra:	1|2|DISLOCATED 2|3|CCOMP 3|4|ACL 4|6|DEP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	yekin cicicicicicik@z:owp hanun key nemu manha . 1927414_1929927
+*MOT:	지지지지지지지지지직@z:owp 어, 이건 또 뭐지 ? 1930501_1934212
+%mor:	verb|지지지지지지지지지직owp-Inf-S intj|어 cm|cm pron|이거ㄴ-Int-S1 adv|또 verb|뭐이지-Inf-S ?
+%gra:	1|6|CCOMP 2|6|OBL 3|2|PUNCT 4|6|DISLOCATED 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	cicicicicicicicicicik@z:owp e, iken tto mweci ? 1930501_1934212
+*PAU:	0 . 1934150_1934782
+*MOT:	이건 또 뭐지 ? 1934694_1935567
+%mor:	pron|이거ㄴ-Int-S1 adv|또 verb|뭐이지-Inf-S ?
+%gra:	1|3|DISLOCATED 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	iken tto mweci ? 1934694_1935567
+*PAU:	0 . 1935629_1936627
+*MOT:	움직이진 않는구나 . 1937043_1938138
+%mor:	verb|움직이어-Inf-S aux|않-Inf-S .
+%gra:	1|2|ROOT 2|1|AUX 3|1|PUNCT
+%ort:	wumcikicin anhnunkwuna . 1937043_1938138
+*PAU:	0 . 1938369_1939430
+*MOT:	이름아, 여우다 . 1939318_1941112
+%mor:	noun|이름아 cm|cm verb|여우이다-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	Namea, yewuta . 1939318_1941112
+*PAU:	0 . 1941108_1942983
+*MOT:	여우: . 1942957_1944727
+%mor:	noun|여우 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	yewu: . 1942957_1944727
+*MOT:	여우: . 1946005_1947107
+%mor:	noun|여우 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	yewu: . 1946005_1947107
+*PAU:	0 . 1947085_1949628
+*MOT:	자, 스톱 . 1949545_1950271
+%mor:	intj|자 cm|cm noun|스톱 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	ca, suthop . 1949545_1950271
+*PAU:	0 . 1950202_1951282
+*CHI:	흐@b . 1951282_1951623
+%mor:	intj|흐 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	hu@b . 1951282_1951623
+*PAU:	0 . 1951636_1952211
+*MOT:	이거 말 [/] 있어, 이름아, 너 이거 좋아하잖아, 말 . 1952228_1954875
+%mor:	adv|이거 sconj|있어 cm|cm noun|이름아 cm|cm pron|너-Int-S1 adv|이거 verb|좋아하시어-Inf-S cm|cm intj|말 .
+%gra:	1|2|ADVMOD 2|8|XCOMP 3|2|PUNCT 4|8|OBL 5|6|PUNCT 6|4|CONJ 7|8|ADVMOD 8|10|ROOT 9|10|PUNCT 10|8|DISCOURSE 11|8|PUNCT
+%ort:	ike mal [/] isse, Namea, ne ike cohahacanha, mal . 1952228_1954875
+*PAU:	0 . 1954813_1955428
+*MOT:	이거 타 볼래 ? 1955411_1956101
+%mor:	adv|이거 noun|타아 verb|보ㄹ래-Inf-S ?
+%gra:	1|3|ADVMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	ike tha pollay ? 1955411_1956101
+*PAU:	0 . 1956084_1956810
+*MOT:	장난감이 엄:청 많다, 어: 에구 [/] 에구 [/] 에구 . 1957116_1959863
+%mor:	noun|장난감이 adv|엄청 adj|많다-Pos-S1 cm|cm intj|어 verb|에구-Inf-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|6|AMOD 4|3|PUNCT 5|6|DISCOURSE 6|6|ROOT 7|6|PUNCT
+%ort:	cangnankami em:cheng manhta, e: eykwu [/] eykwu [/] eykwu . 1957116_1959863
+*PAU:	0 . 1959837_1966182
+*MOT:	xxx . 1966182_1968075
+%ort:	xxx . 1966182_1968075
+*CHI:	이야:@b . 1966943_1968133
+%mor:	intj|이야 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iya:@b . 1966943_1968133
+*MOT:	어 ? 1968208_1968620
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e ? 1968208_1968620
+*CHI:	엔니:@b . 1968880_1970041
+%mor:	verb|차ㅆ니-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	eynni:@b . 1968880_1970041
+*PAU:	0 . 1969993_1970416
+*MOT:	뭐 ? 1970440_1970724
+%mor:	verb|뭐-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mwe ? 1970440_1970724
+*PAU:	0 . 1970730_1971937
+*CHI:	이야:@b . 1971914_1973081
+%mor:	intj|이야 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	iya:@b . 1971914_1973081
+*PAU:	0 . 1973069_1973319
+*MOT:	응: ? 1973271_1973776
+%mor:	intj|응 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung: ? 1973271_1973776
+*PAU:	0 . 1973743_1975037
+*CHI:	xxx . 1975034_1975951
+%ort:	xxx . 1975034_1975951
+*PAU:	0 . 1975928_1977426
+*CHI:	xxx . 1977431_1978708
+%ort:	xxx . 1977431_1978708
+*MOT:	아:, 이거: ? 1977954_1979864
+%mor:	intj|아 cm|cm intj|이거 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	a:, ike: ? 1977954_1979864
+*PAU:	0 . 1979800_1980740
+*MOT:	의자잖아, 밥 먹는 데: . 1980769_1982789
+%mor:	noun|의자잖아 cm|cm noun|밥 verb|먹는-Inf-S noun|데 .
+%gra:	1|4|DEP 2|3|PUNCT 3|1|CONJ 4|5|ACL 5|5|ROOT 6|5|PUNCT
+%ort:	uycacanha, pap meknun tey: . 1980769_1982789
+*PAU:	0 . 1982702_1986922
+*MOT:	으아 . 1986893_1987252
+%mor:	verb|쉬아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ua . 1986893_1987252
+*PAU:	0 . 1987288_1994496
+*CHI:	어@b . 1995261_1995789
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e@b . 1995261_1995789
+*PAU:	0 . 1995767_1996040
+*MOT:	어 . 1995970_1996330
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 1995970_1996330
+*CHI:	으@b . 1996324_1996632
+%mor:	intj|으 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	u@b . 1996324_1996632
+*PAU:	0 . 1996638_1997497
+*MOT:	어 . 1997487_1997777
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 1997487_1997777
+*PAU:	0 . 1997785_1998795
+*MOT:	엄마 이거 타야겠다 . 1998800_2000391
+%mor:	noun|엄마 adv|이거 verb|타아야겠다-Inf-S .
+%gra:	1|2|COMPOUND 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	emma ike thayakeyssta . 1998800_2000391
+*PAU:	0 . 2000281_2001320
+*MOT:	엄마 이거 탈게: . 2001343_2002718
+%mor:	noun|엄마 adv|이거 verb|탈게-Inf-S .
+%gra:	1|2|COMPOUND 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	emma ike thalkey: . 2001343_2002718
+*MOT:	슝:@z:owp . 2003171_2005663
+%mor:	verb|슝owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	syung:@z:owp . 2003171_2005663
+*PAU:	0 . 2005551_2006741
+*MOT:	인제 타 볼래 ? 2006687_2007639
+%mor:	noun|인제 noun|타아 noun|볼래 ?
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	incey tha pollay ? 2006687_2007639
+*PAU:	0 . 2007623_2013268
+*MOT:	안 타 볼 건가 보네 . 2013249_2014649
+%mor:	adv|안 verb|타아-Inf-S verb|보ㄹ-Inf-S noun|것이ㄴ가 verb|보네-Inf-S .
+%gra:	1|2|ADVMOD 2|3|CCOMP 3|4|ACL 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%ort:	an tha pol kenka poney . 2013249_2014649
+*MOT:	우와: . 2015181_2016638
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 2015181_2016638
+*PAU:	0 . 2016582_2019977
+*MOT:	이름아, 그거 힘들면은 여기 작은 것도 있는데 . 2019866_2022751
+%mor:	noun|이름아 cm|cm pron|그거이-Int-S1 noun|힘들면은 pron|여기-Int-S1 adj|작ㄴ-Pos-S1 adv|것도 adj|있-Pos-S1 .
+%gra:	1|7|COMPOUND 2|1|PUNCT 3|4|DEP 4|7|DISLOCATED 5|6|DEP 6|7|AMOD 7|8|ROOT 8|7|AUX 9|7|PUNCT
+%ort:	Namea, kuke himtulmyenun yeki cakun kesto issnuntey . 2019866_2022751
+*PAU:	0 . 2022735_2031551
+*MOT:	어, 그거 탈 거야 ? 2031544_2032516
+%mor:	intj|어 cm|cm adv|그거 verb|타ㄹ-Inf-S verb|거이야-Inf-S ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|5|CCOMP 5|5|ROOT 6|5|PUNCT
+%ort:	e, kuke thal keya ? 2031544_2032516
+*MOT:	그래 . 2033067_2033421
+%mor:	verb|그렇어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kulay . 2033067_2033421
+*PAU:	0 . 2033407_2037413
+*MOT:	엄마가 (..) xxx . 2037390_2042105
+%mor:	noun|엄마가 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	emmaka (..) xxx . 2037390_2042105
+*MOT:	어, 여기 미끄럼틀도 있었구나 . 2042127_2044032
+%mor:	intj|어 cm|cm pron|여기-Int-S1 adv|미끄럼틀도 adj|있었구나-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|COMPOUND 4|5|ADVCL 5|5|ROOT 6|5|PUNCT
+%ort:	e, yeki mikkulemthulto issesskwuna . 2042127_2044032
+*PAU:	0 . 2043801_2044544
+*MOT:	자, 슝:@z:owp . 2044451_2047655
+%mor:	intj|자 cm|cm verb|슝owp-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	ca, syung:@z:owp . 2044451_2047655
+*PAU:	0 . 2047532_2047862
+*MOT:	세게 [/] 해 줄까, 세게 ? 2048075_2049180
+%mor:	verb|하어-Inf-S verb|주ㄹ까-Inf-S cm|cm verb|세게-Inf-S ?
+%gra:	1|4|CCOMP 2|1|COMPOUND 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	seykey [/] hay cwulkka, seykey ? 2048075_2049180
+*MOT:	슝:@z:owp . 2049244_2051251
+%mor:	verb|슝owp-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	syung:@z:owp . 2049244_2051251
+*MOT:	우와: 엄청 세 . 2051547_2052899
+%mor:	cconj|우와 adv|엄청 noun|세 .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|CONJ 4|1|PUNCT
+%ort:	wuwa: emcheng sey . 2051547_2052899
+*PAU:	0 . 2052921_2053373
+*MOT:	빨리 가자:, 다그닥다그닥@z:owp [/] (..) 다그닥다그닥@z:owp 이힝:@z:owp 다그닥다그닥@z:owp [/] (..) 다그닥다그닥@z:owp [/] (..) 다그닥다그닥@z:owp [/] (..) 다그닥다그닥@z:owp . 2053293_2063476
+%mor:	adv|빨리 noun|가자 cm|cm noun|다그닥다그닥owp noun|이힝owp verb|다그닥다그닥owp-Inf-S .
+%gra:	1|6|ADVMOD 2|6|COMPOUND 3|4|PUNCT 4|2|CONJ 5|2|FLAT 6|6|ROOT 7|6|PUNCT
+%ort:	ppalli kaca:, takutaktakutak@z:owp [/] (..) takutaktakutak@z:owp ihing:@z:owp takutaktakutak@z:owp [/] (..) takutaktakutak@z:owp [/] (..) takutaktakutak@z:owp [/] (..) takutaktakutak@z:owp . 2053293_2063476
+*PAU:	0 . 2063452_2064846
+*MOT:	됐어 ? 2064840_2065296
+%mor:	verb|되었어-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	twaysse ? 2064840_2065296
+*PAU:	0 . 2065358_2067523
+*MOT:	슝:@z:owp [/] 슝:@z:owp [/] 우와 . 2067524_2070103
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	syung:@z:owp [/] syung:@z:owp [/] wuwa . 2067524_2070103
+*MOT:	우와: 슝:@z:owp . 2070391_2073116
+%mor:	cconj|우와 verb|슝owp-Inf-S .
+%gra:	1|2|ROOT 2|1|CONJ 3|1|PUNCT
+%ort:	wuwa: syung:@z:owp . 2070391_2073116
+*MOT:	슝:@z:owp 우와: 완전 과격한데, 우리 이름이 . 2073699_2078354
+%mor:	x|슝owp cconj|우와 noun|완전 sconj|과격하ㄴ데 cm|cm pron|우리-Int-S1 verb|이름이ㄴ-Inf-S .
+%gra:	1|7|DEP 2|7|XCOMP 3|4|COMPOUND 4|2|CONJ 5|4|PUNCT 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%ort:	syung:@z:owp wuwa: wancen kwakyekhantey, wuli Namei . 2073699_2078354
+*PAU:	0 . 2078316_2080789
+*MOT:	자: 여기 미끄럼틀도 있네 . 2080449_2083690
+%mor:	intj|자 pron|여기-Int-S1 adv|미끄럼틀도 adj|있네-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|3|COMPOUND 3|4|ADVCL 4|4|ROOT 5|4|PUNCT
+%ort:	ca: yeki mikkulemthulto issney . 2080449_2083690
+*PAU:	0 . 2083665_2084263
+*MOT:	미끄럼틀 타 볼까 ? 2084252_2085407
+%mor:	adv|미끄럼틀 noun|타아 verb|보ㄹ까-Inf-S ?
+%gra:	1|3|ADVMOD 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	mikkulemthul tha polkka ? 2084252_2085407
+*PAU:	0 . 2085331_2086016
+*CHI:	응 . 2086034_2086429
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung . 2086034_2086429
+*MOT:	그래 . 2086579_2086927
+%mor:	verb|그렇어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kulay . 2086579_2086927
+*PAU:	0 . 2086864_2089314
+*CHI:	우이:@b . 2089311_2090629
+%mor:	noun|우이 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wui:@b . 2089311_2090629
+*PAU:	0 . 2090617_2091053
+*MOT:	어디로 가 ? 2090995_2091933
+%mor:	adv|어디로 pron|가-Int-S1 ?
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	etilo ka ? 2090995_2091933
+*CHI:	우이:@b . 2091401_2092757
+%mor:	noun|우이 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wui:@b . 2091401_2092757
+*PAU:	0 . 2092725_2096893
+*MOT:	우와: . 2096870_2098403
+%mor:	verb|우오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuwa: . 2096870_2098403
+*PAU:	0 . 2098449_2099349
+*MOT:	한번 [/] 엄마가 처음엔 한번 올려 줘 볼게, 여기서 . 2099303_2101955
+%mor:	noun|엄마가 noun|처음에ㄴ noun|한번 verb|올리어-Inf-S sconj|주어 sconj|볼게 cm|cm adv|여기서 .
+%gra:	1|4|NSUBJ 2|4|DISLOCATED 3|4|COMPOUND 4|8|ROOT 5|4|MARK 6|4|CONJ 7|6|PUNCT 8|6|ADVCL 9|4|PUNCT
+%ort:	hanpen [/] emmaka cheumeyn hanpen ollye cwe polkey, yekise . 2099303_2101955
+*PAU:	0 . 2101916_2102316
+*MOT:	내려와 봐 . 2102245_2102986
+%mor:	verb|내려오아-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	naylyewa pwa . 2102245_2102986
+*PAU:	0 . 2102819_2103231
+*MOT:	이름이 미끄럼틀도 잘 타지: ? 2103255_2105459
+%mor:	noun|이름이 adv|미끄럼틀도 adv|잘 verb|타지-Inf-S ?
+%gra:	1|4|NSUBJ 2|4|ADVCL 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	Namei mikkulemthulto cal thaci: ? 2103255_2105459
+*PAU:	0 . 2105391_2106459
+*MOT:	자:, 슝:@z:owp [/] 슝:@z:owp [/] 슝@z:owp [/] 슝:@z:owp 우와: 재밌다: . 2106409_2112606
+%mor:	intj|자 cm|cm x|슝owp cconj|우와 verb|재밌다-Inf-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|COMPOUND 4|5|ROOT 5|4|CONJ 6|4|PUNCT
+%ort:	ca:, syung:@z:owp [/] syung:@z:owp [/] syung@z:owp [/] syung:@z:owp wuwa: caymissta: . 2106409_2112606
+*CHI:	응:@b . 2112002_2112575
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 2112002_2112575
+*PAU:	0 . 2112527_2113305
+*MOT:	또 ? 2113230_2113653
+%mor:	cconj|또 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tto ? 2113230_2113653
+*PAU:	0 . 2113572_2115877
+*MOT:	지나가 봐 . 2115935_2116515
+%mor:	verb|지나아가아-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	cinaka pwa . 2115935_2116515
+*PAU:	0 . 2116475_2117595
+*MOT:	어, 전화 . 2117566_2118332
+%mor:	intj|어 cm|cm noun|전화 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	e, cenhwa . 2117566_2118332
+*PAU:	0 . 2118268_2119574
+*MOT:	누구지 ? 2119499_2120126
+%mor:	verb|누구지-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	nwukwuci ? 2119499_2120126
+*PAU:	0 . 2120085_2124195
+*MOT:	ads-exp 네, 여보세요 ? 2124176_2125234
+%mor:	x|adsexp num|네 cm|cm verb|여보세요-Inf-S ?
+%gra:	1|4|COMPOUND 2|4|NUMMOD 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	ads-exp ney, yeposeyyo ? 2124176_2125234
+*PAU:	0 . 2125171_2126384
+*MOT:	ads-exp 네 . 2126337_2126696
+%mor:	x|adsexp pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp ney . 2126337_2126696
+*CHI:	헤@b . 2127346_2128038
+%mor:	intj|헤 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	hey@b . 2127346_2128038
+*PAU:	0 . 2128042_2128245
+*MOT:	ads-exp 아, 네 [/] 네 . 2128239_2129191
+%mor:	x|adsexp noun|아 cm|cm pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	ads-exp a, ney [/] ney . 2128239_2129191
+*CHI:	xxx . 2129180_2132546
+%ort:	xxx . 2129180_2132546
+*PAU:	0 . 2132413_2133301
+*MOT:	ads-exp 아: . 2133271_2133956
+%mor:	x|adsexp intj|아 .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%ort:	ads-exp a: . 2133271_2133956
+*CHI:	xxx . 2134781_2140192
+%ort:	xxx . 2134781_2140192
+*MOT:	ads-exp 네, 알겠습니다: . 2134798_2136574
+%mor:	x|adsexp pron|네-Int-S1 cm|cm verb|알겠습니다-Inf-S .
+%gra:	1|4|OBL 2|4|NUMMOD 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	ads-exp ney, alkeysssupnita: . 2134798_2136574
+*MOT:	ads-exp 네: . 2137253_2137967
+%mor:	x|adsexp pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp ney: . 2137253_2137967
+*MOT:	어 . 2138940_2139630
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e . 2138940_2139630
+*MOT:	<잡아 줄게> [/] 잡아 줄게: . 2141384_2143740
+%mor:	verb|잡아-Inf-S verb|줄게-Inf-S .
+%gra:	1|2|ROOT 2|1|COMPOUND 3|1|PUNCT
+%ort:	<capa cwulkey> [/] capa cwulkey: . 2141384_2143740
+*PAU:	0 . 2143635_2145058
+*MOT:	아빠한테 전화하려고: . 2145004_2146834
+%mor:	adv|아빠한테 verb|전화하려고-Inf-S .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+%ort:	appahanthey cenhwahalyeko: . 2145004_2146834
+*PAU:	0 . 2146793_2149707
+*CHI:	xxx . 2149661_2150700
+%ort:	xxx . 2149661_2150700
+*MOT:	슈@z:owp . 2150388_2150943
+%mor:	noun|슈owp .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	syu@z:owp . 2150388_2150943
+*PAU:	0 . 2151861_2156127
+*MOT:	내려와 . 2156095_2156624
+%mor:	verb|내려오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	naylyewa . 2156095_2156624
+*PAU:	cds ends . 2156560_2157610
+%mor:	x|cds x|ends .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	ads-fam 여보세요 ? 2157593_2158203
+%mor:	x|adsfam verb|여보세요-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam yeposeyyo ? 2157593_2158203
+*PAU:	first ads starts . 2157610_2157650
+%mor:	x|first x|ads x|starts .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*MOT:	ads-fam 어, 여보 통화 가능해요 ? 2158226_2159561
+%mor:	x|adsfam noun|어 cm|cm intj|여보 noun|통화 verb|가능하어요-Inf-S ?
+%gra:	1|2|COMPOUND 2|6|DEP 3|2|PUNCT 4|6|ADVMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%ort:	ads-fam e, yepo thonghwa kanunghayyo ? 2158226_2159561
+*PAU:	0 . 2159497_2160896
+*MOT:	ads-fam 어, 아니 나 여기: 오늘 그 서울대학교에서 하는 연구: xxx . 2160882_2166567
+%mor:	x|adsfam noun|어 cm|cm intj|아니 pron|나-Int-S1 pron|여기-Int-S1 noun|오늘 det|그-Def adv|서울대학교에서 verb|하는-Inf-S noun|연구 .
+%gra:	1|2|COMPOUND 2|11|COMPOUND 3|2|PUNCT 4|11|ADVMOD 5|6|COMPOUND 6|7|COMPOUND 7|9|COMPOUND 8|9|DET 9|10|ADVCL 10|11|ACL 11|11|ROOT 12|11|PUNCT
+%ort:	ads-fam e, ani na yeki: onul ku sewultayhakkyoeyse hanun yenkwu: xxx . 2160882_2166567
+*CHI:	xxx . 2161580_2162677
+%ort:	xxx . 2161580_2162677
+*CHI:	xxx . 2165680_2166632
+%ort:	xxx . 2165680_2166632
+*PAU:	0 . 2166510_2167764
+*MOT:	ads-fam 그거 여기 왔는데, 가족한테 잠깐 통화를 하래: . 2167648_2173445
+%mor:	x|adsfam pron|그거이-Int-S1 pron|여기-Int-S1 sconj|오았는데 cm|cm adv|가족한테 adv|잠깐 noun|통화를 verb|하시ㄴ-Inf-S .
+%gra:	1|4|OBL 2|4|OBL 3|4|DEP 4|9|CCOMP 5|4|PUNCT 6|9|ADVMOD 7|9|ADVMOD 8|9|OBJ 9|9|ROOT 10|9|PUNCT
+%ort:	ads-fam kuke yeki wassnuntey, kacokhanthey camkkan thonghwalul halay: . 2167648_2173445
+*CHI:	xxx . 2171746_2175763
+%ort:	xxx . 2171746_2175763
+*MOT:	ads-fam 뭐 그게 [/] 그게 과정 중에 있나 봐 . 2174932_2177227
+%mor:	x|adsfam adv|뭐 pron|그거이-Int-S1 noun|과정 adv|중에 adj|있-Pos-S1 verb|보ㄹ-Inf-S .
+%gra:	1|7|OBL 2|7|ADVMOD 3|7|NSUBJ 4|5|COMPOUND 5|7|OBL 6|5|AUX 7|7|ROOT 8|7|PUNCT
+%ort:	ads-fam mwe kukey [/] kukey kwaceng cwungey issna pwa . 2174932_2177227
+*PAU:	0 . 2177204_2177982
+*MOT:	ads-fam 이름이는 놀고 있고 . 2177955_2179031
+%mor:	x|adsfam noun|이름이는 verb|놀고-Inf-S aux|있-Inf-S .
+%gra:	1|2|COMPOUND 2|3|DISLOCATED 3|4|ROOT 4|3|AUX 5|3|PUNCT
+%ort:	ads-fam Nameinun nolko issko . 2177955_2179031
+*PAU:	0 . 2178928_2180136
+*MOT:	ads-fam 응: 난 잘 모르고 그냥 와서 애기랑 한 사십 분 정도 노는 거를 이제 녹음하고 찍는대 . 2180111_2186956
+%mor:	x|adsfam noun|응 pron|나ㄴ-Int-S1 adv|잘 cconj|모르고 adv|그냥 sconj|오아서 verb|애기랑-Inf-S num|한 num|사십 noun|분 noun|정도 verb|놀는-Inf-S noun|거를 adv|이제 cconj|녹음하고 verb|찍는대-Inf-S .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|17|DISLOCATED 4|5|ADVMOD 5|17|CCOMP 6|7|ADVMOD 7|5|CONJ 8|11|ACL 9|10|AMOD 10|11|NUMMOD 11|12|COMPOUND 12|13|COMPOUND 13|14|ACL 14|17|OBJ 15|16|ADVMOD 16|17|ROOT 17|16|CONJ 18|16|PUNCT
+%ort:	ads-fam ung: nan cal moluko kunyang wase aykilang han sasip pun cengto nonun kelul icey nokumhako cciknuntay . 2180111_2186956
+*PAU:	0 . 2186921_2188186
+*MOT:	ads-fam 근데, 자기: 여기 백삼십팔동인가, 자기 옛날에 여기 일했던 데랑 비슷한 데 같은데 ? 2187974_2194311
+%mor:	x|adsfam pron|근데-Int-S1 cm|cm pron|자기-Int-S1 pron|여기-Int-S1 verb|백삼십팔동인가-Inf-S cm|cm pron|자기-Int-S1 adv|옛날에 pron|여기-Int-S1 verb|일하었던-Inf-S noun|데랑 verb|비슷하ㄴ-Inf-S noun|데 adj|같ㄴ데-Pos-S1 ?
+%gra:	1|2|COMPOUND 2|6|COMPOUND 3|2|PUNCT 4|5|COMPOUND 5|6|COMPOUND 6|13|DEP 7|6|PUNCT 8|9|COMPOUND 9|11|OBL 10|11|DEP 11|12|ACL 12|13|COMPOUND 13|15|ROOT 14|13|OBL 15|14|FIXED 16|13|PUNCT
+%ort:	ads-fam kuntey, caki: yeki payksamsipphaltonginka, caki yeysnaley yeki ilhayssten teylang pisushan tey kathuntey ? 2187974_2194311
+*CHI:	xxx . 2188702_2190159
+%ort:	xxx . 2188702_2190159
+*CHI:	xxx . 2192104_2193247
+%ort:	xxx . 2192104_2193247
+*PAU:	0 . 2194214_2195701
+*MOT:	ads-fam 옛날에 거기서 몇 동인지 몰라 ? 2195646_2197666
+%mor:	x|adsfam adv|옛날에 adv|거기서 adj|몇-Pos-S1 noun|동인지 verb|모르아-Inf-S ?
+%gra:	1|2|COMPOUND 2|6|OBL 3|6|ADVCL 4|5|AMOD 5|6|DEP 6|6|ROOT 7|6|PUNCT
+%ort:	ads-fam yeysnaley kekise myech tonginci molla ? 2195646_2197666
+*PAU:	0 . 2197831_2199468
+*MOT:	ads-fam 어: . 2199460_2200127
+%mor:	x|adsfam verb|베ㄴ-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam e: . 2199460_2200127
+*MOT:	ads-fam 어, 여기 되게 안쪽이야 . 2200835_2202141
+%mor:	x|adsfam noun|어 cm|cm pron|여기-Int-S1 sconj|되게 verb|안쪽이야-Inf-S .
+%gra:	1|2|COMPOUND 2|6|COMPOUND 3|2|PUNCT 4|5|DEP 5|6|CCOMP 6|6|ROOT 7|6|PUNCT
+%ort:	ads-fam e, yeki toykey anccokiya . 2200835_2202141
+*PAU:	0 . 2202075_2204420
+*MOT:	ads-fam 어: 그런 거 같애, 응, 옛날에 와 봤던 데 xxx . 2204420_2208714
+%mor:	x|adsfam noun|어 verb|그렇ㄴ-Inf-S noun|거 sconj|같시 cm|cm noun|응 cm|cm adv|옛날에 verb|오아-Inf-S verb|보았던-Inf-S noun|데 .
+%gra:	1|2|COMPOUND 2|3|DEP 3|4|AMOD 4|5|OBL 5|10|XCOMP 6|5|PUNCT 7|10|OBL 8|7|PUNCT 9|10|OBL 10|12|ACL 11|10|COMPOUND 12|12|ROOT 13|12|PUNCT
+%ort:	ads-fam e: kulen ke kathay, ung, yeysnaley wa pwassten tey xxx . 2204420_2208714
+*CHI:	xxx . 2208002_2208838
+%ort:	xxx . 2208002_2208838
+*PAU:	0 . 2208756_2209308
+*MOT:	ads-fam 거의 다 끝났어 . 2209248_2210316
+%mor:	x|adsfam adv|거의 adv|다 verb|끝나ㅆ어-Inf-S .
+%gra:	1|4|OBL 2|4|ADVMOD 3|2|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	ads-fam keuy ta kkuthnasse . 2209248_2210316
+*MOT:	ads-fam 이제 가면 돼 . 2210604_2211631
+%mor:	x|adsfam adv|이제 sconj|가면 verb|되어-Inf-S .
+%gra:	1|4|OBL 2|3|ADVMOD 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	ads-fam icey kamyen tway . 2210604_2211631
+*PAU:	0 . 2211631_2212096
+*MOT:	ads-fam 응 . 2212279_2212638
+%mor:	x|adsfam noun|응 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam ung . 2212279_2212638
+*MOT:	ads-fam 이름는: 아침에 어린이집 꼭 가야 된다고 울고불고해서@o 갔어, 내가 선생님한테 너무 힘들어하면 전화해달라 그랬어 . 2213143_2222629
+%mor:	x|adsfam noun|이름는 adv|아침에 noun|어린이집 adv|꼭 verb|가아야-Inf-S verb|되ㄴ다고-Inf-S verb|울고불고하어서-Inf-S sconj|가ㅆ어 cm|cm pron|내가-Int-S1 adv|선생님한테 adv|너무 sconj|힘들어하면 verb|전화하어오아-Inf-S verb|그렇었어-Inf-S .
+%gra:	1|2|COMPOUND 2|9|DISLOCATED 3|6|OBL 4|5|DEP 5|6|ADVMOD 6|9|CCOMP 7|6|ADVCL 8|6|CONJ 9|16|CCOMP 10|9|PUNCT 11|14|NSUBJ 12|14|ADVCL 13|14|ADVMOD 14|16|ROOT 15|14|CONJ 16|14|CONJ 17|14|PUNCT
+%ort:	ads-fam Namenun: achimey elinicip kkok kaya toyntako wulkopulkohayse@o kasse, nayka sensayngnimhanthey nemu himtulehamyen cenhwahaydalla geulaess-eo . 2213143_2222629
+*PAU:	0 . 2222608_2223188
+*MOT:	ads-fam 오늘 키즈 카페 가는 날이라고 . 2223176_2224836
+%mor:	x|adsfam noun|오늘 noun|키즈 noun|카페 verb|가는-Inf-S verb|날이라고-Inf-S .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|5|DEP 5|6|CCOMP 6|6|ROOT 7|6|PUNCT
+%ort:	ads-fam onul khicu khaphey kanun nalilako . 2223176_2224836
+*PAU:	0 . 2224727_2226347
+*CHI:	물 . 2226364_2226840
+%mor:	noun|물 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	mul . 2226364_2226840
+*PAU:	0 . 2226817_2227508
+*MOT:	ads-fam 아니, 이제 아침에는 안 나지 . 2227457_2229692
+%mor:	x|adsfam intj|아니 cm|cm adv|이제 noun|아침에는 adv|안 verb|나지-Inf-S .
+%gra:	1|2|COMPOUND 2|7|DISCOURSE 3|2|PUNCT 4|7|ADVMOD 5|7|DISLOCATED 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%ort:	ads-fam ani, icey achimeynun an naci . 2227457_2229692
+*MOT:	ads-fam 그때 새벽에 먹었으니까, 해열제 먹고 별로 안 나는데 혹시 몰라서 약 챙겼xxx 내가 병원 갔다 가자는데도 안 아프대 . 2229794_2238168
+%mor:	x|adsfam noun|그때 adv|새벽에 sconj|먹었으니까 cm|cm noun|해열제 cconj|먹고 adv|별로 adv|안 sconj|나는데 adv|혹시 sconj|모르아서 adj|약-Pos-S1 sconj|챙겼xxㄹ pron|내가-Int-S1 noun|병원 verb|가ㅆ다-Inf-S adv|가자는데도 adv|안 verb|아프대-Inf-S .
+%gra:	1|2|COMPOUND 2|4|OBL 3|4|OBL 4|20|CCOMP 5|4|PUNCT 6|7|DEP 7|20|CCOMP 8|10|ADVMOD 9|8|ADVMOD 10|7|CONJ 11|12|ADVMOD 12|14|CCOMP 13|14|AMOD 14|20|CCOMP 15|18|NSUBJ 16|17|DEP 17|18|CCOMP 18|20|CCOMP 19|20|ADVMOD 20|20|ROOT 21|20|PUNCT
+%ort:	ads-fam kuttay saypyekey mekessunikka, hayyelcey mekko pyello an nanuntey hoksi mollase yak chayngkyessxxx nayka pyengwen kassta kacanunteyto an apeudae . 2229794_2238168
+*CHI:	xxx . 2230074_2232442
+%ort:	xxx . 2230074_2232442
+*PAU:	0 . 2237962_2240324
+*CHI:	으에:@b . 2240301_2241414
+%mor:	verb|으에-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	uey:@b . 2240301_2241414
+*MOT:	ads-fam 그래 ? 2241000_2241499
+%mor:	x|adsfam verb|그렇어-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam kulay ? 2241000_2241499
+*MOT:	ads-fam 그런가 ? 2242610_2243359
+%mor:	x|adsfam verb|그렇ㄴ가-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam kulenka ? 2242610_2243359
+*PAU:	0 . 2243320_2244405
+*MOT:	ads-fam 기침하고 목이 아프대, 근데 이따가 병원 가야지 . 2244296_2248736
+%mor:	x|adsfam cconj|기침하고 noun|목이 sconj|아프대 cm|cm adv|근데 adv|이따가 noun|병원 verb|가아야-Inf-S .
+%gra:	1|2|DEP 2|9|CCOMP 3|4|NSUBJ 4|2|CONJ 5|4|PUNCT 6|9|ADVMOD 7|9|ADVMOD 8|9|DEP 9|9|ROOT 10|9|PUNCT
+%ort:	ads-fam kichimhako moki aphutay, kuntey ittaka pyengwen kayaci . 2244296_2248736
+*PAU:	0 . 2248615_2249021
+*MOT:	ads-fam 아저씨 여기 xxx . 2249027_2249960
+%mor:	x|adsfam noun|아저씨 pron|여기-Int-S1 .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	ads-fam acessi yeki xxx . 2249027_2249960
+*CHI:	엄:마 . 2250838_2252469
+%mor:	intj|엄마 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	em:ma . 2250838_2252469
+*MOT:	ads-fam 어 ? 2252143_2252491
+%mor:	x|adsfam verb|베ㄴ-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam e ? 2252143_2252491
+*PAU:	0 . 2252455_2253204
+*MOT:	ads-fam 몰라 그럼 그거는: 나중에 얘기할게 . 2253208_2256123
+%mor:	x|adsfam sconj|모르아 adv|그럼 pron|그거는-Int-S1 adv|나중에 verb|얘기하ㄹ게-Inf-S .
+%gra:	1|2|DEP 2|6|CCOMP 3|6|ADVMOD 4|6|DISLOCATED 5|6|OBL 6|6|ROOT 7|6|PUNCT
+%ort:	ads-fam molla kulem kukenun: nacwungey yaykihalkey . 2253208_2256123
+*PAU:	0 . 2256130_2257146
+*CHI:	엄:마: xxx . 2257114_2259053
+%mor:	intj|엄마 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	em:ma: xxx . 2257114_2259053
+*MOT:	ads-fam 그래, 안 돼, 삼 분에서 오 분이라 했는데 ? 2258445_2260308
+%mor:	x|adsfam pron|그렇어-Int-S1 cm|cm adv|안 sconj|되어 cm|cm num|삼 adv|분에서 verb|오-Inf-S verb|분이라-Inf-S verb|하었는데-Inf-S ?
+%gra:	1|5|OBL 2|1|FLAT 3|2|PUNCT 4|5|ADVMOD 5|11|CCOMP 6|5|PUNCT 7|8|NUMMOD 8|9|ADVCL 9|10|ACL 10|11|CCOMP 11|11|ROOT 12|11|PUNCT
+%ort:	ads-fam kulay, an tway, sam puneyse o punila hayssnuntey ? 2258445_2260308
+*CHI:	xxx . 2260262_2261475
+%ort:	xxx . 2260262_2261475
+*MOT:	ads-fam 몇 분 했나 모르겠네 . 2260407_2261504
+%mor:	x|adsfam adj|몇-Pos-S1 noun|분 sconj|하었나 verb|모르겠네-Inf-S .
+%gra:	1|3|COMPOUND 2|3|AMOD 3|4|OBL 4|5|CCOMP 5|5|ROOT 6|5|PUNCT
+%ort:	ads-fam myech pun hayssna molukeyssney . 2260407_2261504
+*PAU:	0 . 2261504_2263484
+*CHI:	xxx . 2263526_2265064
+%ort:	xxx . 2263526_2265064
+*MOT:	ads-fam 그래 ? 2263846_2264200
+%mor:	x|adsfam verb|그렇어-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam kulay ? 2263846_2264200
+*MOT:	ads-fam 음: . 2264812_2265573
+%mor:	x|adsfam intj|음 .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%ort:	ads-fam um: . 2264812_2265573
+*MOT:	ads-fam 그래, 아니 삼 분만 잠깐만 몇 분 했나 볼게 . 2266658_2270386
+%mor:	x|adsfam intj|그렇어 cm|cm adv|아니 num|삼 adv|분만 adv|잠깐만 adj|몇-Pos-S1 noun|분 sconj|하었나 adj|볼게-Pos-S1 .
+%gra:	1|10|OBL 2|1|FLAT 3|2|PUNCT 4|6|ADVMOD 5|6|NUMMOD 6|7|ADVCL 7|10|ADVCL 8|9|AMOD 9|10|DEP 10|11|ROOT 11|10|CONJ 12|10|PUNCT
+%ort:	ads-fam kulay, ani sam punman camkkanman myech pun hayssna polkey . 2266658_2270386
+*PAU:	0 . 2270395_2272108
+*MOT:	ads-fam 아직 이 분밖에 안 됐어요 . 2272071_2274051
+%mor:	x|adsfam adv|아직 det|이-Def adv|분밖에 adv|안 verb|되었어요-Inf-S .
+%gra:	1|6|OBL 2|6|ADVMOD 3|4|DET 4|6|ADVCL 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	ads-fam acik i punpakkey an twaysseyo . 2272071_2274051
+*PAU:	0 . 2273901_2274476
+*MOT:	ads-fam 일 분만 더 통화해야 돼 . 2274409_2275744
+%mor:	x|adsfam noun|일 adv|분만 adv|더 verb|통화하어야-Inf-S verb|되어-Inf-S .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|5|ADVCL 4|5|ADVMOD 5|6|ROOT 6|5|COMPOUND 7|5|PUNCT
+%ort:	ads-fam il punman te thonghwahayya tway . 2274409_2275744
+*CHI:	에@b . 2276250_2276568
+%mor:	adv|에 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ey@b . 2276250_2276568
+*MOT:	ads-fam 이름이 여기는 장난감이 되게 많아서 . 2277034_2279929
+%mor:	x|adsfam noun|이름이 verb|여기는-Inf-S noun|장난감이 verb|되게-Inf-S aux|많아서-Inf-S .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|4|ACL 4|5|CSUBJ 5|6|ROOT 6|5|CONJ 7|5|PUNCT
+%ort:	ads-fam Namei yekinun cangnankami toykey manhase . 2277034_2279929
+*CHI:	엠메에@b . 2278446_2279735
+%mor:	adv|엠메에 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	eymmeyey@b . 2278446_2279735
+*PAU:	0 . 2279862_2280228
+*MOT:	ads-fam 우리 둘만 있어, 이름이랑 나랑 . 2280234_2282115
+%mor:	x|adsfam pron|우리-Int-S1 adv|둘만 sconj|있어 cm|cm verb|이름이랑-Inf-S pron|나랑-Int-S1 .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|4|ADVCL 4|7|XCOMP 5|4|PUNCT 6|7|CCOMP 7|7|ROOT 8|7|PUNCT
+%ort:	ads-fam wuli twulman isse, Nameilang nalang . 2280234_2282115
+*CHI:	xxx . 2282124_2283169
+%ort:	xxx . 2282124_2283169
+*PAU:	0 . 2282972_2286188
+*MOT:	ads-fam 아니, 다 나갔지 . 2286186_2287392
+%mor:	x|adsfam intj|아니 cm|cm adv|다 verb|나가ㅆ지-Inf-S .
+%gra:	1|2|COMPOUND 2|5|DISCOURSE 3|2|PUNCT 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%ort:	ads-fam ani, ta nakassci . 2286186_2287392
+*CHI:	xxx . 2287385_2288713
+%ort:	xxx . 2287385_2288713
+*PAU:	0 . 2287710_2288697
+*MOT:	ads-fam 어, 우리 둘만 놔두고 다 나갔어, 여기 연구원들은 . 2288702_2292311
+%mor:	x|adsfam noun|어 cm|cm pron|우리-Int-S1 adv|둘만 cconj|놓아두고 adv|다 sconj|나가ㅆ어 cm|cm pron|여기-Int-S1 noun|연구원들은 .
+%gra:	1|2|COMPOUND 2|5|COMPOUND 3|2|PUNCT 4|5|COMPOUND 5|6|ADVCL 6|11|CCOMP 7|8|ADVMOD 8|6|CONJ 9|8|PUNCT 10|11|COMPOUND 11|11|ROOT 12|11|PUNCT
+%ort:	ads-fam e, wuli twulman nwatwuko ta nakasse, yeki yenkwuwentulun . 2288702_2292311
+*PAU:	0 . 2292120_2297919
+*MOT:	ads-fam 어: 아니 &~그 저기 그냥 찍는 거 같애 . 2297882_2301003
+%mor:	x|adsfam noun|어 adv|아니 adv|저기 adv|그냥 verb|찍는-Inf-S noun|거 adj|같애-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|DEP 3|6|ADVMOD 4|6|ADVMOD 5|4|ADVMOD 6|7|ACL 7|8|OBL 8|8|ROOT 9|8|PUNCT
+%ort:	ads-fam e: ani &ku ceki kunyang cciknun ke kathay . 2297882_2301003
+*MOT:	ads-fam 계속 지켜보나, 그건 잘 모르겠는데 ? 2301238_2302868
+%mor:	x|adsfam adv|계속 sconj|지키어보나 cm|cm pron|그거ㄴ-Int-S1 adv|잘 verb|모르겠는데-Inf-S ?
+%gra:	1|3|OBL 2|3|ADVMOD 3|7|CCOMP 4|3|PUNCT 5|7|DISLOCATED 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%ort:	ads-fam kyeysok cikhyepona, kuken cal molukeyssnuntey ? 2301238_2302868
+*PAU:	0 . 2302744_2305804
+*MOT:	ads-fam 그래 ? 2305728_2306071
+%mor:	x|adsfam verb|그렇어-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam kulay ? 2305728_2306071
+*PAU:	0 . 2306059_2306315
+*CHI:	띠티@b . 2306221_2307058
+%mor:	intj|띠티 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ttithi@b . 2306221_2307058
+*PAU:	0 . 2307076_2308446
+*CHI:	xxx . 2308440_2308980
+%ort:	xxx . 2308440_2308980
+*MOT:	어: . 2309025_2310309
+%mor:	intj|어 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e: . 2309025_2310309
+*PAU:	0 . 2310228_2312324
+*MOT:	ads-fam 뭐 이쪽 심리 쪽: 이런 건 다 그러니까 . 2313644_2316752
+%mor:	x|adsfam adv|뭐 noun|이쪽 noun|심리 noun|쪽 verb|이렇ㄴ-Inf-S noun|것은 adv|다 verb|그러니까-Inf-S .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|OBL 4|5|COMPOUND 5|7|COMPOUND 6|7|AMOD 7|9|DISLOCATED 8|9|ADVMOD 9|9|ROOT 10|9|PUNCT
+%ort:	ads-fam mwe iccok simli ccok: ilen ken ta kulenikka . 2313644_2316752
+*PAU:	0 . 2316761_2317295
+*MOT:	ads-fam 그래서 . 2317214_2317830
+%mor:	x|adsfam verb|그래서-Inf-S .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%ort:	ads-fam kulayse . 2317214_2317830
+*CHI:	엄마: . 2317779_2318615
+%mor:	intj|엄마 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	emma: . 2317779_2318615
+*MOT:	ads-fam 어, (..) 심@u 나도@u 조금 다 그런 . 2319072_2322394
+%mor:	x|adsfam noun|어 cm|cm noun|심 adv|나도 noun|조금 adv|다 verb|그렇ㄴ-Inf-S .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|2|PUNCT 4|5|COMPOUND 5|8|ADVCL 6|8|ADVMOD 7|8|ADVMOD 8|8|ROOT 9|8|PUNCT
+%ort:	ads-fam e, (..) sim@u nato@u cokum ta kulen . 2319072_2322394
+*PAU:	0 . 2322197_2324020
+*MOT:	ads-fam 얘는: 지금 신나게 놀고 있어 . 2323987_2326131
+%mor:	x|adsfam noun|얘는 noun|지금 sconj|신나게 verb|놀고-Inf-S aux|있-Inf-S .
+%gra:	1|5|DISLOCATED 2|5|DISLOCATED 3|5|OBL 4|5|XCOMP 5|6|ROOT 6|5|AUX 7|5|PUNCT
+%ort:	ads-fam yaynun: cikum sinnakey nolko isse . 2323987_2326131
+*PAU:	0 . 2326183_2328360
+*CHI:	xxx . 2328342_2329631
+%ort:	xxx . 2328342_2329631
+*MOT:	ads-fam 응:, 그렇지 않아 . 2328364_2330251
+%mor:	x|adsfam noun|응 cm|cm verb|그렇지-Inf-S aux|않-Inf-S .
+%gra:	1|2|COMPOUND 2|4|DEP 3|2|PUNCT 4|5|ROOT 5|4|AUX 6|4|PUNCT
+%ort:	ads-fam ung:, kulehci anha . 2328364_2330251
+*PAU:	0 . 2330554_2332458
+*CHI:	에:@b . 2332374_2333461
+%mor:	adv|에 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ey:@b . 2332374_2333461
+*PAU:	0 . 2333374_2333885
+*MOT:	ads-fam 그래 . 2333825_2334510
+%mor:	x|adsfam verb|그렇어-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam kulay . 2333825_2334510
+*MOT:	ads-fam 부여하지 마 . 2335306_2336233
+%mor:	x|adsfam verb|부여하지-Inf-S aux|마-Inf-S .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	ads-fam puyehaci ma . 2335306_2336233
+*PAU:	0 . 2336201_2337890
+*MOT:	ads-fam 어 ? 2337893_2338207
+%mor:	x|adsfam verb|베ㄴ-Inf-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam e ? 2337893_2338207
+*PAU:	0 . 2338172_2339774
+*MOT:	ads-fam 어:, 그치 [: 그렇지] . 2340040_2341600
+%mor:	x|adsfam noun|어 cm|cm verb|그렇지-Inf-S .
+%gra:	1|2|COMPOUND 2|4|DEP 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	ads-fam e:, kuchi [: kulehci] . 2340040_2341600
+*PAU:	0 . 2341934_2342688
+*MOT:	ads-fam 그:래, 알았어, 오늘 늦는댔죠: ? 2342692_2345775
+%mor:	x|adsfam pron|그렇어-Int-S1 cm|cm sconj|알았어 cm|cm noun|오늘 verb|늦는댔죠-Inf-S ?
+%gra:	1|4|DEP 2|1|FLAT 3|2|PUNCT 4|7|CCOMP 5|4|PUNCT 6|7|DEP 7|7|ROOT 8|7|PUNCT
+%ort:	ads-fam ku:lay, alasse, onul nucnuntaysscyo: ? 2342692_2345775
+*PAU:	0 . 2345734_2347545
+*MOT:	ads-fam 아 그러면은 오늘 그거 어떻게 되나 ? 2347563_2349541
+%mor:	x|adsfam noun|아 noun|그러면은 noun|오늘 pron|그거이-Int-S1 sconj|어떻게 verb|되나-Inf-S ?
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|7|DISLOCATED 4|5|COMPOUND 5|7|OBL 6|7|XCOMP 7|7|ROOT 8|7|PUNCT
+%ort:	ads-fam a kulemyenun onul kuke ettehkey toyna ? 2347563_2349541
+*PAU:	0 . 2349697_2350783
+*MOT:	ads-fam 그거 [/] 그거, 뭐지, 인터넷 . 2350712_2354485
+%mor:	x|adsfam verb|그거하ㄴ-Inf-S cm|cm verb|뭐이지-Inf-S cm|cm noun|인터넷 .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|2|PUNCT 4|6|ROOT 5|6|PUNCT 6|4|DISCOURSE 7|4|PUNCT
+%ort:	ads-fam kuke [/] kuke, mweci, intheneys . 2350712_2354485
+*PAU:	0 . 2354773_2355673
+*MOT:	ads-fam &~해 (..) 까 [: 그러니까] 해지: [/] 해지를 먼저 해야 되나 ? 2355644_2359330
+%mor:	x|adsfam adv|그러니까 noun|해지를 adv|먼저 verb|하어야-Inf-S verb|되나-Inf-S ?
+%gra:	1|5|OBL 2|3|ADVMOD 3|5|OBJ 4|5|ADVMOD 5|6|ROOT 6|5|COMPOUND 7|5|PUNCT
+%ort:	ads-fam &hay (..) kka [: kulenikka] hayci: [/] haycilul mence hayya toyna ? 2355644_2359330
+*MOT:	ads-fam 해지 &~하 함 [: 하면] 된대요 ? 2359365_2360977
+%mor:	x|adsfam noun|해지 sconj|하면 verb|되ㄴ대요-Inf-S ?
+%gra:	1|2|COMPOUND 2|3|DEP 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	ads-fam hayci &ha ham [: hamyen] toyntayyo ? 2359365_2360977
+*MOT:	ads-fam 아직 신청 안 했어요 ? 2361399_2362694
+%mor:	x|adsfam adv|아직 noun|신청 adv|안 verb|하-Inf-S ?
+%gra:	1|2|DEP 2|4|ADVMOD 3|4|COMPOUND 4|5|ROOT 5|4|AUX 6|4|PUNCT
+%ort:	ads-fam acik sincheng an haysseyo ? 2361399_2362694
+*PAU:	0 . 2362659_2363309
+*MOT:	ads-fam 음: . 2363291_2364278
+%mor:	x|adsfam intj|음 .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%ort:	ads-fam um: . 2363291_2364278
+*MOT:	ads-fam 그래, 알았어요: . 2365404_2367349
+%mor:	x|adsfam verb|그렇어-Inf-S cm|cm verb|알았어요-Inf-S .
+%gra:	1|4|OBL 2|1|FLAT 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	ads-fam kulay, alasseyo: . 2365404_2367349
+*PAU:	0 . 2367321_2368424
+*MOT:	ads-fam 어: . 2368406_2369840
+%mor:	x|adsfam verb|베ㄴ-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-fam e: . 2368406_2369840
+*PAU:	first ads ends . 2369843_2369878
+%mor:	x|first x|ads x|ends .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*PAU:	0 . 2369878_2375706
+*MOT:	끊었어 . 2375664_2376454
+%mor:	verb|끊었어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkunhesse . 2375664_2376454
+*MOT:	아빠랑 전화했어 . 2376454_2377812
+%mor:	adv|아빠랑 verb|전화하었어-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	appalang cenhwahaysse . 2376454_2377812
+*PAU:	0 . 2377812_2378276
+*CHI:	빠@b ? 2378130_2378735
+%mor:	intj|빠 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ppa@b ? 2378130_2378735
+*PAU:	0 . 2378723_2379153
+*MOT:	아빠 ? 2379146_2379651
+%mor:	intj|아빠 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	appa ? 2379146_2379651
+*MOT:	끊었는데 ? 2380220_2380830
+%mor:	verb|끊었는데-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkunhessnuntey ? 2380220_2380830
+*PAU:	0 . 2380848_2381899
+*CHI:	응 (..) 빠빠@b . 2381887_2384117
+%mor:	intj|응 verb|빨ㄴ-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	ung (..) ppappa@b . 2381887_2384117
+*MOT:	끊었어 . 2382625_2383245
+%mor:	verb|끊었어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kkunhesse . 2382625_2383245
+*PAU:	0 . 2384058_2384372
+*MOT:	아빠, 끊었어 . 2384375_2385960
+%mor:	noun|아빠 cm|cm verb|끊었어-Inf-S .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	appa, kkunhesse . 2384375_2385960
+*PAU:	0 . 2385908_2386413
+*MOT:	다음에 통화 . 2386407_2387532
+%mor:	adv|다음에 noun|통화 .
+%gra:	1|2|OBL 2|2|ROOT 3|2|PUNCT
+%ort:	taumey thonghwa . 2386407_2387532
+*CHI:	아빠빠@b . 2387063_2388108
+%mor:	verb|알ㄴ빠-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	appappa@b . 2387063_2388108
+*PAU:	0 . 2388061_2388346
+*MOT:	아빠 바쁘대 . 2388216_2389193
+%mor:	noun|아빠 adj|바쁘대-Pos-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	appa papputay . 2388216_2389193
+*PAU:	0 . 2389234_2392391
+*MOT:	아빠랑 전화하고 싶어 ? 2392413_2393777
+%mor:	adv|아빠랑 verb|전화하고-Inf-S aux|싶-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|AUX 4|2|PUNCT
+%ort:	appalang cenhwahako siphe ? 2392413_2393777
+*PAU:	0 . 2393773_2394249
+*CHI:	음마:@b . 2394272_2395137
+%mor:	intj|음마 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	umma:@b . 2394272_2395137
+*PAU:	0 . 2395172_2395410
+*MOT:	어 ? 2395410_2395642
+%mor:	intj|어 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	e ? 2395410_2395642
+*PAU:	0 . 2395648_2397575
+*MOT:	아빠랑 엄마는 통화 다 했어 . 2397563_2399589
+%mor:	adv|아빠랑 noun|엄마는 noun|통화 adv|다 verb|하었어-Inf-S .
+%gra:	1|5|ADVMOD 2|5|DISLOCATED 3|4|DEP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%ort:	appalang emmanun thonghwa ta haysse . 2397563_2399589
+*PAU:	0 . 2399519_2402393
+*CHI:	xxx . 2402375_2405087
+%ort:	xxx . 2402375_2405087
+*MOT:	응 . 2405113_2405357
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung . 2405113_2405357
+*MOT:	아빠한테 무슨 할 말 있어 ? 2405746_2407431
+%mor:	adv|아빠한테 det|무슨-Def verb|하ㄹ-Inf-S noun|말 adj|있어-Pos-S1 ?
+%gra:	1|5|ADVCL 2|4|DET 3|4|ACL 4|5|DEP 5|5|ROOT 6|5|PUNCT
+%ort:	appahanthey musun hal mal isse ? 2405746_2407431
+*PAU:	0 . 2407328_2407804
+*CHI:	응비@b . 2407779_2408702
+%mor:	intj|응비 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ungpi@b . 2407779_2408702
+*PAU:	0 . 2408669_2408872
+*MOT:	응 . 2408849_2409174
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung . 2408849_2409174
+*PAU:	0 . 2409151_2411630
+*MOT:	아이고 [/] 아이고 [/] 아이고 . 2411624_2412495
+%mor:	verb|아이고-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	aiko [/] aiko [/] aiko . 2411624_2412495
+*PAU:	0 . 2412489_2412756
+*MOT:	이제 거의 다 끝났을 것 같은데 이름아 . 2412720_2415547
+%mor:	adv|이제 adv|거의 adv|다 verb|끝나ㅆㄹ-Inf-S noun|것 sconj|같ㄴ데 verb|이름아-Inf-S .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|2|ADVMOD 4|7|CCOMP 5|4|OBL 6|5|FIXED 7|7|ROOT 8|7|PUNCT
+%ort:	icey keuy ta kkuthnassul kes kathuntey Namea . 2412720_2415547
+*CHI:	응:@b (..) 응:@b (..) 됴아:@b . 2412720_2416860
+%mor:	intj|응 noun|응 verb|됴아-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	ung:@b (..) ung:@b (..) tyoa:@b . 2412720_2416860
+*PAU:	0 . 2416819_2416970
+*MOT:	응 ? 2416935_2417213
+%mor:	intj|응 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung ? 2416935_2417213
+*PAU:	0 . 2417219_2418787
+*CHI:	아:@b ? 2418704_2419783
+%mor:	intj|아 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	a:@b ? 2418704_2419783
+*PAU:	0 . 2419611_2419802
+*MOT:	아: ? 2419785_2420426
+%mor:	intj|아 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	a: ? 2419785_2420426
+*PAU:	0 . 2420435_2426362
+*MOT:	xxx &=laughs . 2426367_2430200
+%ort:	xxx &=laughs . 2426367_2430200
+*MOT:	이름아, xxx . 2430235_2431925
+%mor:	verb|이름아-Inf-S cm|cm .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%ort:	Namea, xxx . 2430235_2431925
+*PAU:	0 . 2431855_2433573
+*MOT:	이름이, 이거 누구예요: ? 2433557_2435273
+%mor:	noun|이름이 cm|cm adv|이거 verb|누구이어요-Inf-S ?
+%gra:	1|4|OBL 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	Namei, ike nwukwuyeyyo: ? 2433557_2435273
+*PAU:	0 . 2435397_2436070
+*CHI:	xxx . 2436017_2437038
+%ort:	xxx . 2436017_2437038
+*PAU:	0 . 2437040_2437405
+*MOT:	우리 인제: 장난감 친구들이랑: 빠이빠이: 하고 갈 준:비 해야 될 거 같애 . 2437339_2442987
+%mor:	pron|우리-Int-S1 noun|인제 noun|장난감 cconj|친구들이랑 adv|빠이빠이 verb|하고-Inf-S verb|가ㄹ-Inf-S noun|준비 verb|하어야-Inf-S verb|되ㄹ-Inf-S noun|거 adj|같애-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|11|ACL 5|6|ADVMOD 6|4|CONJ 7|6|CONJ 8|9|DEP 9|11|ACL 10|9|COMPOUND 11|12|OBL 12|12|ROOT 13|12|PUNCT
+%ort:	wuli incey: cangnankam chinkwutulilang: ppaippai: hako kal cwun:pi hayya toyl ke kathay . 2437339_2442987
+*PAU:	0 . 2443074_2445680
+*CHI:	xxx 응:아@b 엄마 . 2445609_2448519
+%mor:	sconj|응아 noun|엄마 .
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+%ort:	xxx ung:a@b emma . 2445609_2448519
+*MOT:	한 번 더 탈래 ? 2447432_2448500
+%mor:	num|한 noun|번 adv|더 verb|무트아-Inf-S ?
+%gra:	1|2|NUMMOD 2|4|OBL 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	han pen te thallay ? 2447432_2448500
+*PAU:	0 . 2448461_2449064
+*MOT:	그래 . 2448986_2449283
+%mor:	verb|그렇어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kulay . 2448986_2449283
+*MOT:	자, 올라가 . 2449875_2450776
+%mor:	intj|자 cm|cm verb|오르아가아-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	ca, ollaka . 2449875_2450776
+*PAU:	0 . 2450762_2455202
+*MOT:	됐다: . 2455208_2456281
+%mor:	verb|되었다-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	twayssta: . 2455208_2456281
+*PAU:	0 . 2456211_2458666
+*MOT:	내려와 . 2458652_2459127
+%mor:	verb|내려오아-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	naylyewa . 2458652_2459127
+*PAU:	0 . 2459042_2461167
+*MOT:	어, 들어오셨다 . 2461143_2463043
+%mor:	intj|어 cm|cm verb|들어오셨다-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	e, tuleosyessta . 2461143_2463043
+*PAU:	0 . 2462502_2463077
+*CHI:	우외@b . 2463059_2463488
+%mor:	intj|우외 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	wuoy@b . 2463059_2463488
+*PAU:	0 . 2463465_2463982
+*MOT:	슝:@z:owp 우하: 됐다: . 2463957_2468902
+%mor:	x|슝owp noun|우하 verb|되었다-Inf-S .
+%gra:	1|2|COMPOUND 2|3|CSUBJ 3|3|ROOT 4|3|PUNCT
+%ort:	syung:@z:owp wuha: twayssta: . 2463957_2468902
+*PAU:	0 . 2468714_2469945
+*MOT:	다 끝났나 봐 인제 . 2469723_2470988
+%mor:	adv|다 sconj|끝나ㅆ나 verb|보ㄹ-Inf-S intj|인제 .
+%gra:	1|2|ADVMOD 2|3|CCOMP 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+%ort:	ta kkuthnassna pwa incey . 2469723_2470988
+*PAU:	second ads starts . 2470441_2470636
+%mor:	x|second x|ads x|starts .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*AD1:	안녕하세요: . 2470582_2471598
+%mor:	verb|안녕하세요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ads-exp 네: . 2471565_2472335
+%mor:	x|adsexp pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp ney: . 2471565_2472335
+*AD1:	이름아, 잘 놀았어 ? 2471761_2473020
+%mor:	noun|이름아 cm|cm adv|잘 verb|놀았어-Inf-S ?
+%gra:	1|4|OBL 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*PAU:	0 . 2473213_2473556
+*PAU:	0 . 2473509_2474090
+*AD1:	잘 놀았어 ? 2474088_2474913
+%mor:	adv|잘 verb|놀았어-Inf-S ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	잘 놀았어요: . 2474512_2476230
+%mor:	adv|잘 verb|놀았어요-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	cal nolasseyo: . 2474512_2476230
+*PAU:	0 . 2476156_2476737
+*AD1:	책 많이 읽었어 ? 2476706_2477937
+%mor:	noun|책 adv|많이 verb|읽었어-Inf-S ?
+%gra:	1|3|OBL 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*PAU:	0 . 2477909_2478293
+*MOT:	ads-exp 안 읽었어요 . 2478256_2479167
+%mor:	adv|adsexp adv|안 verb|읽었어요-Inf-S .
+%gra:	1|3|ADVCL 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%ort:	ads-exp an ilkesseyo . 2478256_2479167
+*AD1:	&=laughs . 2479146_2481027
+*PAU:	0 . 2481047_2481442
+*MOT:	ads-exp 어, 이제 이거 다 빼도 돼요 ? 2481388_2482677
+%mor:	x|adsexp noun|어 cm|cm adv|이제 adv|이거 adv|다 sconj|빼도 verb|되어요-Inf-S ?
+%gra:	1|2|COMPOUND 2|8|OBL 3|2|PUNCT 4|8|ADVMOD 5|7|ADVMOD 6|5|ADVMOD 7|8|CCOMP 8|8|ROOT 9|8|PUNCT
+%ort:	ads-exp e, icey ike ta ppayto twayyo ? 2481388_2482677
+*AD1:	네, 벗으셔도 돼요 . 2482340_2483662
+%mor:	pron|네-Int-S1 cm|cm sconj|벗으시어도 verb|되어요-Inf-S .
+%gra:	1|4|OBL 2|1|PUNCT 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+*MOT:	ads-exp 중간에 얘가: &~므 몇 번 빼긴 했는데, 괜찮죠: ? 2483018_2486613
+%mor:	x|adsexp adv|중간에 adv|얘가 adj|몇-Pos-S1 noun|번 noun|빼긴 sconj|하었는데 cm|cm adj|괜찮죠-Pos-S1 ?
+%gra:	1|2|COMPOUND 2|6|OBL 3|6|ADVMOD 4|5|AMOD 5|6|DEP 6|7|DISLOCATED 7|9|ROOT 8|9|PUNCT 9|7|CONJ 10|7|PUNCT
+%ort:	ads-exp cwungkaney yayka: &mu myech pen ppaykin hayssnuntey, kwaynchanhcyo: ? 2483018_2486613
+*AD1:	아: . 2485593_2486391
+%mor:	intj|아 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ads-exp 다시 씌워 주긴 했어요 . 2486741_2487879
+%mor:	x|adsexp adv|다시 verb|씌우어-Inf-S noun|주긴 verb|하-Inf-S .
+%gra:	1|3|OBL 2|3|ADVMOD 3|5|ROOT 4|3|OBL 5|3|AUX 6|3|PUNCT
+%ort:	ads-exp tasi ssuywe cwukin haysseyo . 2486741_2487879
+*AD1:	네 . 2488051_2488347
+%mor:	pron|네-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAU:	0 . 2488240_2489941
+*MOT:	인제 벗어도 돼 이거 . 2489885_2491013
+%mor:	noun|인제 sconj|벗어놀아 sconj|되어 verb|이거-Inf-S .
+%gra:	1|2|DEP 2|3|CCOMP 3|4|ROOT 4|3|CONJ 5|3|PUNCT
+%ort:	incey peseto tway ike . 2489885_2491013
+*PAU:	0 . 2491125_2492756
+*CHI:	응:@b . 2492774_2493557
+%mor:	intj|응 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ung:@b . 2492774_2493557
+*AD1:	벗으세요: . 2493219_2494387
+%mor:	verb|벗으세요-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	응 (..) 모자 벗어 . 2494450_2495721
+%mor:	noun|응 noun|모자 verb|벗어-Inf-S .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%ort:	ung (..) moca pese . 2494450_2495721
+*AD1:	벗어 . 2495026_2495448
+%mor:	verb|벗어-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAU:	0 . 2495653_2495961
+*MOT:	네가 벗어 봐 . 2495943_2496735
+%mor:	pron|네가-Int-S1 verb|벗어-Inf-S verb|보ㄹ-Inf-S .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND 4|2|PUNCT
+%ort:	neyka pese pwa . 2495943_2496735
+*PAU:	0 . 2496901_2498686
+*MOT:	자 . 2498705_2498977
+%mor:	intj|자 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ca . 2498705_2498977
+*PAU:	0 . 2498966_2501346
+*MOT:	음, 주세요: . 2501275_2502668
+%mor:	intj|음 cm|cm verb|주시어요-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	um, cwuseyyo: . 2501275_2502668
+*PAU:	0 . 2502565_2503018
+*AD1:	고마워:, 아이 착하다: . 2503012_2505462
+%mor:	intj|고마워 cm|cm noun|아이 verb|착하다-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*MOT:	xxx . 2503361_2504307
+%ort:	xxx . 2503361_2504307
+*PAU:	0 . 2505369_2505880
+*MOT:	잘했어:, 이거 인제 이것도 벗을까, 조끼도 ? 2505790_2509054
+%mor:	sconj|잘하었어 cm|cm adv|이거 noun|인제 adv|이것도 verb|벗ㄹ까-Inf-S cm|cm verb|조끼도-Inf-S ?
+%gra:	1|8|CCOMP 2|1|PUNCT 3|6|ADVMOD 4|5|COMPOUND 5|6|ADVCL 6|8|COMPOUND 7|8|PUNCT 8|8|ROOT 9|8|PUNCT
+%ort:	calhaysse:, ike incey ikesto pesulkka, cokkito ? 2505790_2509054
+*PAU:	0 . 2509032_2510605
+*MOT:	우와:, 장난감이 많아서 잘 지루하지 않게 놀았어, 그치 [: 그렇지] ? 2510558_2515365
+%mor:	cconj|우와 cm|cm noun|장난감이 sconj|많아서 adv|잘 verb|지루하지-Inf-S aux|않-Inf-S verb|놀았어-Inf-S cm|cm verb|그렇지-Inf-S ?
+%gra:	1|4|NSUBJ 2|3|PUNCT 3|1|CONJ 4|10|XCOMP 5|6|ADVMOD 6|8|AMOD 7|6|AUX 8|10|ROOT 9|10|PUNCT 10|8|CONJ 11|8|PUNCT
+%ort:	wuwa:, cangnankami manhase cal cilwuhaci anhkey nolasse, kuchi [: kulehci] ? 2510558_2515365
+*AD1:	아, 다행이네요 . 2514763_2515818
+%mor:	intj|아 cm|cm verb|다행이네요-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*PAU:	0 . 2516445_2518355
+*PAU:	0 . 2518522_2519161
+*PAU:	0 . 2519161_2519700
+*MOT:	짜잔:@z:owp . 2519678_2520820
+%mor:	verb|짜잔ow이p-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ccacan:@z:owp . 2519678_2520820
+*PAU:	0 . 2520746_2525044
+*MOT:	자: . 2525015_2526013
+%mor:	intj|자 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	ca: . 2525015_2526013
+*MOT:	계속 할까 이름이 ? 2526930_2528039
+%mor:	adv|계속 sconj|하ㄹ까 verb|이름이ㄴ-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|CCOMP 3|3|ROOT 4|3|PUNCT
+%ort:	kyeysok halkka Namei ? 2526930_2528039
+*PAU:	0 . 2528046_2529050
+*MOT:	인제 가야지 . 2529045_2530140
+%mor:	noun|인제 verb|가아야-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	incey kayaci . 2529045_2530140
+*PAU:	0 . 2530113_2530989
+*CHI:	아 엄:마 . 2530960_2532177
+%mor:	intj|아 noun|엄마 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%ort:	a em:ma . 2530960_2532177
+*PAU:	0 . 2532214_2536684
+*MOT:	계속 하려고 ? 2536710_2537703
+%mor:	adv|계속 verb|하려고-Inf-S ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%ort:	kyeysok halyeko ? 2536710_2537703
+*PAU:	0 . 2537703_2538330
+*CHI:	엄마: [/] 엄:마 . 2538307_2540814
+%mor:	intj|엄마 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	emma: [/] em:ma . 2538307_2540814
+*PAU:	0 . 2540814_2548927
+*MOT:	ads-exp 아, 근데: 갈 때: (..) 어떻게 가야 되죠 ? 2548846_2552960
+%mor:	x|adsexp noun|아 cm|cm adv|근데 verb|가ㄹ-Inf-S noun|때 sconj|어떻게 verb|가아야-Inf-S verb|되죠-Inf-S ?
+%gra:	1|2|COMPOUND 2|8|OBL 3|2|PUNCT 4|5|ADVMOD 5|6|ACL 6|8|OBL 7|8|XCOMP 8|9|ROOT 9|8|COMPOUND 10|8|PUNCT
+%ort:	ads-exp a, kuntey: kal ttay: (..) ettehkey kaya toycyo ? 2548846_2552960
+*AD1:	네 . 2549781_2550058
+%mor:	pron|네-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	엄:@b . 2550122_2551149
+%mor:	intj|엄 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	em:@b . 2550122_2551149
+*MOT:	ads-exp 여기 서울대입구역으로 가느려면 [: 가려면] 어떻게 가야 돼요 ? 2552960_2556321
+%mor:	x|adsexp pron|여기-Int-S1 adv|서울대입구역으로 sconj|가려면 sconj|어떻게 verb|가아야-Inf-S verb|되어요-Inf-S ?
+%gra:	1|2|COMPOUND 2|4|OBL 3|4|ADVCL 4|6|CCOMP 5|6|XCOMP 6|7|ROOT 7|6|COMPOUND 8|6|PUNCT
+%ort:	ads-exp yeki sewultayipkwuyekulo kanulyemyen [: kalyemyen] ettehkey kaya twayyo ? 2552960_2556321
+*AD2:	여기 (..) 나가셔서 건너시면 왼편에 버스정류장 하나 있거든요 . 2556361_2562596
+%mor:	pron|여기-Int-S1 sconj|나가시어서 sconj|건너시면 adv|왼편에 noun|버스정류장 num|하나 verb|있거든요-Inf-S .
+%gra:	1|2|DEP 2|3|CCOMP 3|7|ROOT 4|7|OBL 5|6|COMPOUND 6|7|NUMMOD 7|3|CONJ 8|3|PUNCT
+*AD1:	버스:도 있고 . 2558022_2559548
+%mor:	adv|버스도 adj|있고-Pos-S1 .
+%gra:	1|2|ADVCL 2|2|ROOT 3|2|PUNCT
+*MOT:	ads-exp 네 . 2559508_2559775
+%mor:	x|adsexp pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp ney . 2559508_2559775
+*MOT:	ads-exp 네 . 2560599_2560924
+%mor:	x|adsexp pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp ney . 2560599_2560924
+*MOT:	ads-exp 네: . 2562712_2563258
+%mor:	x|adsexp pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp ney: . 2562712_2563258
+*AD2:	거기서 오오일삼 타시면 서울대입구 . 2563031_2566131
+%mor:	adv|거기서 adv|오오일삼 sconj|타시면 noun|서울대입구 .
+%gra:	1|3|ADVCL 2|3|ADVCL 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+*MOT:	ads-exp 네: . 2564585_2565694
+%mor:	x|adsexp pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp ney: . 2564585_2565694
+*MOT:	ads-exp 버스는 자주 와요 ? 2566171_2567142
+%mor:	x|adsexp noun|버스는 adv|자주 verb|오아요-Inf-S ?
+%gra:	1|2|COMPOUND 2|4|DISLOCATED 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%ort:	ads-exp pesunun cacwu wayo ? 2566171_2567142
+*PAU:	0 . 2567614_2568032
+*AD1:	그렇게 자주 오진 않을 것 같은데 . 2567990_2570062
+%mor:	sconj|그렇게 adv|자주 verb|오지ㄴ-Inf-S aux|않-Inf-S noun|것 adj|같ㄴ데-Pos-S1 .
+%gra:	1|3|XCOMP 2|3|ADVMOD 3|6|ROOT 4|3|AUX 5|3|OBL 6|5|FIXED 7|3|PUNCT
+*MOT:	xxx . 2570042_2570402
+%ort:	xxx . 2570042_2570402
+*PAU:	0 . 2570396_2570994
+*AD1:	근데 오실 땐 택시 타고 오셨다 그랬죠 ? 2570934_2573303
+%mor:	adv|근데 verb|오시ㄹ-Inf-S noun|때ㄴ noun|택시 cconj|타고 sconj|오셨다 verb|그렇었죠-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|ACL 3|7|DISLOCATED 4|5|DEP 5|7|ROOT 6|5|CONJ 7|5|CONJ 8|5|PUNCT
+*MOT:	ads-exp 네: . 2572442_2573145
+%mor:	x|adsexp pron|네-Int-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp ney: . 2572442_2573145
+*MOT:	ads-exp 택시가 근데 여기 많이 다니나요 ? 2573319_2575532
+%mor:	x|adsexp noun|택시가 adv|근데 pron|여기-Int-S1 adv|많이 verb|다니나요-Inf-S ?
+%gra:	1|2|COMPOUND 2|6|NSUBJ 3|6|ADVMOD 4|6|OBL 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	ads-exp thayksika kuntey yeki manhi taninayo ? 2573319_2575532
+*AD1:	여기 택시 많이 다녀요 ? 2575536_2576657
+%mor:	pron|여기-Int-S1 noun|택시 adv|많이 verb|다니어요-Inf-S ?
+%gra:	1|2|COMPOUND 2|4|OBL 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*AD2:	불르시는 [: 부르시는] 게 더 편해요, 카카오 택시 같은 거 . 2576223_2578622
+%mor:	verb|부르시는-Inf-S noun|게 adv|더 cconj|편하어요 cm|cm noun|카카오 noun|택시 adj|같ㄴ-Pos-S1 verb|거-Inf-S .
+%gra:	1|2|ACL 2|4|OBL 3|4|ADVMOD 4|9|ROOT 5|9|PUNCT 6|7|COMPOUND 7|8|DEP 8|9|AMOD 9|4|CONJ 10|4|PUNCT
+*MOT:	ads-exp 그쵸: [: 그렇죠] . 2577530_2578608
+%mor:	x|adsexp verb|그렇죠-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp kuchyo: [: kulehcyo] . 2577530_2578608
+*PAU:	0 . 2578457_2578996
+*AD2:	불러 드릴까요 ? 2578875_2579751
+%mor:	sconj|부르어 verb|드리ㄹ까요-Inf-S ?
+%gra:	1|2|CCOMP 2|2|ROOT 3|2|PUNCT
+*PAU:	0 . 2579605_2580755
+*AD1:	아: 그 택시비 xxx ? 2580760_2583198
+%mor:	intj|아 det|그-Def noun|택시비 ?
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*AD2:	응 [/] 응 [/] 네 . 2583280_2583843
+%mor:	pron|네-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*AD1:	저희 택시 타고 오신 분들은 아마 만 원 더 그 교통비로 지급될 것 같거든요 ? 2583785_2588877
+%mor:	pron|저희-Int-S1 noun|택시 cconj|타고 verb|오시ㄴ-Inf-S noun|분들은 adv|아마 num|만 noun|원 adv|더 det|그-Def adv|교통비로 verb|지급되ㄹ-Inf-S noun|것 verb|같거든요-Inf-S ?
+%gra:	1|2|COMPOUND 2|3|DEP 3|5|ACL 4|3|CONJ 5|12|DISLOCATED 6|12|ADVMOD 7|8|NUMMOD 8|12|OBL 9|12|ADVMOD 10|11|DET 11|12|ADVCL 12|14|ROOT 13|12|OBL 14|13|FIXED 15|12|PUNCT
+*MOT:	ads-exp 예 . 2585212_2585857
+%mor:	x|adsexp noun|예 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp yey . 2585212_2585857
+*MOT:	ads-exp 아: 그래요 ? 2588103_2589356
+%mor:	x|adsexp noun|아 verb|그렇어요-Inf-S ?
+%gra:	1|3|DEP 2|3|DEP 3|3|ROOT 4|3|PUNCT
+%ort:	ads-exp a: kulayyo ? 2588103_2589356
+*AD1:	네 . 2589324_2589725
+%mor:	pron|네-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ads-exp 우와 &~좋 xxx . 2589588_2591656
+%mor:	x|adsexp verb|우오아-Inf-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%ort:	ads-exp wuwa &coh xxx . 2589588_2591656
+*AD1:	xxx 네 . 2590549_2592057
+%mor:	pron|네-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAU:	0 . 2591989_2593051
+*MOT:	xxx . 2592964_2593771
+%ort:	xxx . 2592964_2593771
+*PAU:	0 . 2593771_2595826
+*AD1:	걸을 수 있어 ? 2595771_2596783
+%mor:	verb|걷ㄹ-Inf-S noun|수 adj|있어-Pos-S1 ?
+%gra:	1|3|ROOT 2|1|OBL 3|2|FIXED 4|1|PUNCT
+*AD1:	우와 잘 걷네 . 2596841_2597828
+%mor:	cconj|우와 adv|잘 verb|걷네-Inf-S .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|CONJ 4|1|PUNCT
+*MOT:	xxx . 2597815_2599441
+%ort:	xxx . 2597815_2599441
+*AD1:	원래 잘 걸어요 이 나이 때는 ? 2598342_2599834
+%mor:	noun|원래 adv|잘 sconj|걷어요 det|이-Def noun|나이 noun|때는 ?
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|6|CCOMP 4|5|DET 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*MOT:	ads-exp 돌 지나면 걷잖아요 . 2600008_2601867
+%mor:	x|adsexp noun|돌 sconj|지나면 verb|걷히아요-Inf-S .
+%gra:	1|2|COMPOUND 2|3|DEP 3|4|CCOMP 4|4|ROOT 5|4|PUNCT
+%ort:	ads-exp tol cinamyen ketcanhayo . 2600008_2601867
+*AD1:	아: . 2601025_2601850
+%mor:	intj|아 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ads-exp 늦는 애들은 아직 근데 대부분은 xxx . 2601896_2604857
+%mor:	x|adsexp adj|늦는-Pos-S1 noun|애들은 adv|아직 adv|근데 noun|대부분은 .
+%gra:	1|2|DEP 2|3|AMOD 3|6|DISLOCATED 4|6|ADVMOD 5|4|ADVMOD 6|6|ROOT 7|6|PUNCT
+%ort:	ads-exp nucnun aytulun acik kuntey taypupunun xxx . 2601896_2604857
+*AD1:	음: . 2603427_2604414
+%mor:	intj|음 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAU:	0 . 2604402_2609658
+*MOT:	이건 뭐야, 이름아 ? 2609645_2610743
+%mor:	pron|이거ㄴ-Int-S1 verb|뭐이야-Inf-S cm|cm verb|이름아-Inf-S ?
+%gra:	1|4|DISLOCATED 2|4|DEP 3|2|PUNCT 4|4|ROOT 5|4|PUNCT
+%ort:	iken mweya, Namea ? 2609645_2610743
+*PAU:	0 . 2610696_2611033
+*MOT:	xxx 아 이거 시계같은 걸 누가 줬구나 . 2610923_2614168
+%mor:	intj|아 adv|이거 verb|시계같ㄴ-Inf-S noun|것을 pron|누가-Int-S1 verb|줬구나-Inf-S .
+%gra:	1|6|DISCOURSE 2|3|ADVMOD 3|4|ACL 4|6|OBJ 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%ort:	xxx a ike sikyeykathun kel nwuka cwesskwuna . 2610923_2614168
+*MOT:	ads-exp 팔찌 같은 거 xxx . 2615143_2617099
+%mor:	x|adsexp noun|팔찌 adj|같ㄴ-Pos-S1 verb|거-Inf-S .
+%gra:	1|2|COMPOUND 2|3|DEP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%ort:	ads-exp phalcci kathun ke xxx . 2615143_2617099
+*AD1:	아, 네 . 2616368_2616919
+%mor:	intj|아 cm|cm pron|네-Int-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*PAU:	second ads ends . 2616888_2618099
+%mor:	x|second x|ads x|ends .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+@End
