@@ -401,14 +401,33 @@ if(any(plot_data_for_grouped_bar$percentage_of_total_honorifics_in_age_group > 1
   warning("Calculated percentages are outside the 0-100 range. Please check data preparation.")
 }
 
-grouped_bar_plot <- ggplot(plot_data_for_grouped_bar,
-                           aes(x = category,
-                               y = percentage_of_total_honorifics_in_age_group / 100,
-                               fill = factor(age_group, levels = c("27mo", "13mo", "8mo")))) +
-  geom_bar(stat = "identity", position = position_dodge(width = 0.9)) +
-  scale_y_continuous(labels = number_format(accuracy = 0.1),
-                     limits = c(0, NA), # let ggplot determine max
-                     expand = expansion(mult = c(0, .05))) + # ensure bars start at 0 and give some top padding
+grouped_bar_plot <- ggplot(
+  plot_data_for_grouped_bar,
+  aes(
+    x = category,
+    y = percentage_of_total_honorifics_in_age_group / 100,
+    fill = factor(age_group, levels = c("27mo", "13mo", "8mo"))
+  )
+) +
+  geom_col(
+    position = position_dodge(width = 0.9),
+    colour = "black",
+    width = 0.8
+  ) +
+  # manually assign colors for each age group
+  scale_fill_manual(
+    values = c(
+      "27mo" = "black",
+      "13mo" = "grey",
+      "8mo"  = "white"
+    )
+  ) +
+  guides(fill = guide_legend(reverse = TRUE)) +
+  scale_y_continuous(
+    labels = number_format(accuracy = 0.1),
+    limits = c(0, NA),
+    expand = expansion(mult = c(0, 0.05))
+  ) +
   labs(
     title = "Distribution of honorific utterances across speech act categories",
     x = "Speech act category",
@@ -417,13 +436,13 @@ grouped_bar_plot <- ggplot(plot_data_for_grouped_bar,
   ) +
   theme_minimal(base_size = 12) +
   theme(
-    axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1, size = 11),
+    axis.text.x = element_text(hjust = 1, vjust = 1, size = 11),
     axis.title.x = element_text(margin = margin(t = 10)),
     axis.title.y = element_text(margin = margin(r = 10)),
     plot.title = element_text(hjust = 0.5, size = 12, face = "bold"),
     legend.position = "top"
   ) +
-  coord_flip() # since there are many-a-categories
+  coord_flip()
 ############################### END_GRAPHS #####################################
 
 ############################# START_STAT_TESTS #################################
