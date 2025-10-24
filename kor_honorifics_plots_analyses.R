@@ -70,6 +70,27 @@ summary_stats_chi_by_age <- utterances_per_minute_chi %>%
   )
 
 print(summary_stats_chi_by_age)
+
+# calculate mean number of distinct speech act categories per age_group
+# not counting "OS", "YY", "XX", "OO"
+distinct_codes_per_participant <- combined_data %>%
+  filter(!(code %in% c("OS", "YY", "XX", "OO"))) %>%
+  group_by(age_group, speaker, participant) %>%
+  summarize(
+    n_distinct_codes = n_distinct(code)
+  ) %>%
+  ungroup()
+
+summary_codes_mot <- distinct_codes_per_participant %>%
+  filter(speaker == "MOT") %>%
+  group_by(age_group) %>%
+  summarize(
+    mean_distinct_codes = mean(n_distinct_codes, na.rm = TRUE),
+    sd_distinct_codes = sd(n_distinct_codes, na.rm = TRUE),
+    se_distinct_codes = sd(n_distinct_codes, na.rm = TRUE) / sqrt(n())
+  )
+
+print(summary_codes_mot)
 ################################ END_DESC_STATS ################################
 
 ################################# START_GRAPHS #################################
